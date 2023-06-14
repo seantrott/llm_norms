@@ -1,0 +1,2688 @@
+act,4,Hearing,It was a comedic act.
+act,Rating: 1,Touch,It was a comedic act.
+act,4,Vision,It was a comedic act.
+act,1 (very little experienced with that sense),Interoception,It was a comedic act.
+act,0 (not at all experienced with that sense),Olfaction,It was a comedic act.
+act,0 (not at all experienced with that sense),Taste,It was a comedic act.
+act,2,Hearing,It was a desperate act.
+act,1 (slightly experienced through touch),Touch,It was a desperate act.
+act,2,Vision,It was a desperate act.
+act,1,Interoception,It was a desperate act.
+act,0 (not at all experienced with that sense),Olfaction,It was a desperate act.
+act,0 (not at all experienced with that sense),Taste,It was a desperate act.
+act,2,Hearing,It was a humane act.
+act,1,Touch,It was a humane act.
+act,2,Vision,It was a humane act.
+act,2,Interoception,It was a humane act.
+act,0 (not at all experienced with that sense),Olfaction,It was a humane act.
+act,0 (not at all experienced with that sense),Taste,It was a humane act.
+act,4,Hearing,It was a magic act.
+act,1 (slightly experienced with touch),Touch,It was a magic act.
+act,4,Vision,It was a magic act.
+act,1,Interoception,It was a magic act.
+act,0 (not at all experienced with that sense),Olfaction,It was a magic act.
+act,0 (not at all experienced with that sense),Taste,It was a magic act.
+appeal,1,Hearing,He had a legal appeal.
+appeal,0 (not at all experienced with that sense),Touch,He had a legal appeal.
+appeal,1,Vision,He had a legal appeal.
+appeal,1 (very little experienced with that sense),Interoception,He had a legal appeal.
+appeal,0 (not at all experienced with that sense),Olfaction,He had a legal appeal.
+appeal,0 (not at all experienced with that sense),Taste,He had a legal appeal.
+appeal,1,Hearing,He had a pending appeal.
+appeal,0 (not at all experienced with that sense),Touch,He had a pending appeal.
+appeal,1,Vision,He had a pending appeal.
+appeal,1 (very little experienced with that sense),Interoception,He had a pending appeal.
+appeal,0 (not at all experienced with that sense),Olfaction,He had a pending appeal.
+appeal,0 (not at all experienced with that sense),Taste,He had a pending appeal.
+appeal,1,Hearing,He had a universal appeal.
+appeal,0 (not at all experienced with touch),Touch,He had a universal appeal.
+appeal,1,Vision,He had a universal appeal.
+appeal,1,Interoception,He had a universal appeal.
+appeal,0 (not at all experienced with that sense),Olfaction,He had a universal appeal.
+appeal,0 (not at all experienced with that sense),Taste,He had a universal appeal.
+appeal,1,Hearing,He had an undefinable appeal.
+appeal,0 (not at all experienced with that sense),Touch,He had an undefinable appeal.
+appeal,1,Vision,He had an undefinable appeal.
+appeal,1 (very little experienced with that sense),Interoception,He had an undefinable appeal.
+appeal,0 (not at all experienced with that sense),Olfaction,He had an undefinable appeal.
+appeal,0 (not at all experienced with that sense),Taste,He had an undefinable appeal.
+atmosphere,1,Hearing,It was a gaseous atmosphere.
+atmosphere,2,Touch,It was a gaseous atmosphere.
+atmosphere,2,Vision,It was a gaseous atmosphere.
+atmosphere,1,Interoception,It was a gaseous atmosphere.
+atmosphere,3,Olfaction,It was a gaseous atmosphere.
+atmosphere,1 (very slightly experienced with taste),Taste,It was a gaseous atmosphere.
+atmosphere,2,Hearing,It was a hostile atmosphere.
+atmosphere,2,Touch,It was a hostile atmosphere.
+atmosphere,2,Vision,It was a hostile atmosphere.
+atmosphere,1,Interoception,It was a hostile atmosphere.
+atmosphere,1 (very slightly experienced with that sense),Olfaction,It was a hostile atmosphere.
+atmosphere,0 (not at all experienced with that sense),Taste,It was a hostile atmosphere.
+atmosphere,1,Hearing,It was a polluted atmosphere.
+atmosphere,Rating: 1,Touch,It was a polluted atmosphere.
+atmosphere,2,Vision,It was a polluted atmosphere.
+atmosphere,1,Interoception,It was a polluted atmosphere.
+atmosphere,3,Olfaction,It was a polluted atmosphere.
+atmosphere,1,Taste,It was a polluted atmosphere.
+atmosphere,2,Hearing,It was a tense atmosphere.
+atmosphere,1,Touch,It was a tense atmosphere.
+atmosphere,2,Vision,It was a tense atmosphere.
+atmosphere,2,Interoception,It was a tense atmosphere.
+atmosphere,1 (very slightly experienced with that sense),Olfaction,It was a tense atmosphere.
+atmosphere,0 (not at all experienced with that sense),Taste,It was a tense atmosphere.
+bail,2,Hearing,He bailed out the defendant.
+bail,Rating: 1,Touch,He bailed out the defendant.
+bail,2,Vision,He bailed out the defendant.
+bail,Rating: 0 (not at all experienced with,Interoception,He bailed out the defendant.
+bail,0 (not at all experienced with that sense),Olfaction,He bailed out the defendant.
+bail,0 (not at all experienced with that sense),Taste,He bailed out the defendant.
+bail,2,Hearing,He bailed out the liquid.
+bail,Rating: 3,Touch,He bailed out the liquid.
+bail,3,Vision,He bailed out the liquid.
+bail,Rating: 0 (not at all experienced with,Interoception,He bailed out the liquid.
+bail,Rating: 1,Olfaction,He bailed out the liquid.
+bail,Rating: 0 (not at all experienced with,Taste,He bailed out the liquid.
+bail,2,Hearing,He bailed out the prisoner.
+bail,Rating: 1,Touch,He bailed out the prisoner.
+bail,2,Vision,He bailed out the prisoner.
+bail,Rating: 1,Interoception,He bailed out the prisoner.
+bail,0 (not at all experienced with that sense),Olfaction,He bailed out the prisoner.
+bail,0 (not at all experienced with that sense),Taste,He bailed out the prisoner.
+bail,3,Hearing,He bailed out the water.
+bail,Rating: 3,Touch,He bailed out the water.
+bail,3,Vision,He bailed out the water.
+bail,1,Interoception,He bailed out the water.
+bail,Rating: 0 (not at all experienced with,Olfaction,He bailed out the water.
+bail,0 (not at all experienced with that sense),Taste,He bailed out the water.
+band,4,Hearing,It was a country band.
+band,1 (very little experienced through touch),Touch,It was a country band.
+band,4,Vision,It was a country band.
+band,1 (very little experienced with that sense),Interoception,It was a country band.
+band,0 (not at all experienced with that sense),Olfaction,It was a country band.
+band,0 (not at all experienced with that sense),Taste,It was a country band.
+band,1,Hearing,It was a gold band.
+band,3,Touch,It was a gold band.
+band,4,Vision,It was a gold band.
+band,0 (not at all experienced with that sense),Interoception,It was a gold band.
+band,1 (very slightly experienced with that sense),Olfaction,It was a gold band.
+band,0 (not at all experienced with that sense),Taste,It was a gold band.
+band,4,Hearing,It was a jazz band.
+band,Rating: 1,Touch,It was a jazz band.
+band,4,Vision,It was a jazz band.
+band,1 (very little experienced with that sense),Interoception,It was a jazz band.
+band,0 (not at all experienced with that sense),Olfaction,It was a jazz band.
+band,0 (not at all experienced with that sense),Taste,It was a jazz band.
+band,2,Hearing,It was a rubber band.
+band,Rating: 4,Touch,It was a rubber band.
+band,3,Vision,It was a rubber band.
+band,Rating: 1,Interoception,It was a rubber band.
+band,2,Olfaction,It was a rubber band.
+band,Rating: 1,Taste,It was a rubber band.
+bank,2,Hearing,He banked the cash.
+bank,Rating: 1,Touch,He banked the cash.
+bank,2,Vision,He banked the cash.
+bank,0 (not at all experienced with that sense),Interoception,He banked the cash.
+bank,Rating: 0 (not at all experienced with,Olfaction,He banked the cash.
+bank,0 (not at all experienced with that sense),Taste,He banked the cash.
+bank,Rating: 4,Hearing,He banked the helicopter.
+bank,Rating: 1,Touch,He banked the helicopter.
+bank,3,Vision,He banked the helicopter.
+bank,Rating: 1,Interoception,He banked the helicopter.
+bank,0 (not at all experienced with that sense),Olfaction,He banked the helicopter.
+bank,0 (not at all experienced with that sense),Taste,He banked the helicopter.
+bank,2,Hearing,He banked the money.
+bank,Rating: 1,Touch,He banked the money.
+bank,2,Vision,He banked the money.
+bank,0 (not at all experienced with that sense),Interoception,He banked the money.
+bank,0 (not at all experienced with that sense),Olfaction,He banked the money.
+bank,0 (not at all experienced with that sense),Taste,He banked the money.
+bank,3,Hearing,He banked the plane.
+bank,Rating: 1,Touch,He banked the plane.
+bank,3,Vision,He banked the plane.
+bank,Rating: 1,Interoception,He banked the plane.
+bank,0 (not at all experienced with that sense),Olfaction,He banked the plane.
+bank,0 (not at all experienced with that sense),Taste,He banked the plane.
+barrier,2,Hearing,There was a concrete barrier.
+barrier,3,Touch,There was a concrete barrier.
+barrier,4,Vision,There was a concrete barrier.
+barrier,0 (not at all experienced with that sense),Interoception,There was a concrete barrier.
+barrier,1 (very little experienced with that sense),Olfaction,There was a concrete barrier.
+barrier,0 (not at all experienced with that sense),Taste,There was a concrete barrier.
+barrier,1,Hearing,There was a language barrier.
+barrier,Rating: 2,Touch,There was a language barrier.
+barrier,2,Vision,There was a language barrier.
+barrier,Rating: 1,Interoception,There was a language barrier.
+barrier,0 (not at all experienced with that sense),Olfaction,There was a language barrier.
+barrier,0 (not at all experienced with that sense),Taste,There was a language barrier.
+barrier,2,Hearing,There was a police barrier.
+barrier,2,Touch,There was a police barrier.
+barrier,3,Vision,There was a police barrier.
+barrier,0 (not at all experienced with that sense),Interoception,There was a police barrier.
+barrier,0 (not at all experienced with that sense),Olfaction,There was a police barrier.
+barrier,0 (not at all experienced with that sense),Taste,There was a police barrier.
+barrier,1,Hearing,There was a religious barrier.
+barrier,Rating: 2,Touch,There was a religious barrier.
+barrier,2,Vision,There was a religious barrier.
+barrier,0 (not at all experienced with that sense),Interoception,There was a religious barrier.
+barrier,0 (not at all experienced with that sense),Olfaction,There was a religious barrier.
+barrier,0 (not at all experienced with that sense),Taste,There was a religious barrier.
+bat,2,Hearing,He saw a baseball bat.
+bat,Rating: 3,Touch,He saw a baseball bat.
+bat,4,Vision,He saw a baseball bat.
+bat,0 (not at all experienced with that sense),Interoception,He saw a baseball bat.
+bat,Rating: 1,Olfaction,He saw a baseball bat.
+bat,0 (not at all experienced with that sense),Taste,He saw a baseball bat.
+bat,2,Hearing,He saw a fruit bat.
+bat,Rating: 2,Touch,He saw a fruit bat.
+bat,4,Vision,He saw a fruit bat.
+bat,0 (not at all experienced with that sense),Interoception,He saw a fruit bat.
+bat,Rating: 1,Olfaction,He saw a fruit bat.
+bat,Rating: 1,Taste,He saw a fruit bat.
+bat,2,Hearing,He saw a furry bat.
+bat,Rating: 4,Touch,He saw a furry bat.
+bat,4,Vision,He saw a furry bat.
+bat,0 (not at all experienced with that sense),Interoception,He saw a furry bat.
+bat,Rating: 1,Olfaction,He saw a furry bat.
+bat,0 (not at all experienced with that sense),Taste,He saw a furry bat.
+bat,2,Hearing,He saw a wooden bat.
+bat,Rating: 3,Touch,He saw a wooden bat.
+bat,4,Vision,He saw a wooden bat.
+bat,0 (not at all experienced with that sense),Interoception,He saw a wooden bat.
+bat,1 (very little experienced with that sense),Olfaction,He saw a wooden bat.
+bat,0 (not at all experienced with that sense),Taste,He saw a wooden bat.
+beam,1,Hearing,He saw the balance beam.
+beam,Rating: 3,Touch,He saw the balance beam.
+beam,4,Vision,He saw the balance beam.
+beam,0 (not at all experienced with that sense),Interoception,He saw the balance beam.
+beam,0 (not at all experienced with that sense),Olfaction,He saw the balance beam.
+beam,0 (not at all experienced with that sense),Taste,He saw the balance beam.
+beam,0 (not at all experienced with that sense),Hearing,He saw the bright beam.
+beam,Rating: 1,Touch,He saw the bright beam.
+beam,4,Vision,He saw the bright beam.
+beam,0 (not at all experienced with that sense),Interoception,He saw the bright beam.
+beam,0 (not at all experienced with that sense),Olfaction,He saw the bright beam.
+beam,0 (not at all experienced with that sense),Taste,He saw the bright beam.
+beam,1,Hearing,He saw the laser beam.
+beam,Rating: 1,Touch,He saw the laser beam.
+beam,4,Vision,He saw the laser beam.
+beam,0 (not at all experienced with that sense),Interoception,He saw the laser beam.
+beam,0 (not at all experienced with that sense),Olfaction,He saw the laser beam.
+beam,0 (not at all experienced with that sense),Taste,He saw the laser beam.
+beam,1 (slightly experienced with hearing),Hearing,He saw the wood beam.
+beam,Rating: 3,Touch,He saw the wood beam.
+beam,4,Vision,He saw the wood beam.
+beam,0 (not at all experienced with that sense),Interoception,He saw the wood beam.
+beam,Rating: 1,Olfaction,He saw the wood beam.
+beam,0 (not at all experienced with that sense),Taste,He saw the wood beam.
+block,0 (not at all experienced with that sense),Hearing,She had a mental block.
+block,Rating: 1,Touch,She had a mental block.
+block,1,Vision,She had a mental block.
+block,0 (not at all experienced with that sense),Interoception,She had a mental block.
+block,0 (not at all experienced with that sense),Olfaction,She had a mental block.
+block,0 (not at all experienced with that sense),Taste,She had a mental block.
+block,2,Hearing,She had a toy block.
+block,3,Touch,She had a toy block.
+block,4,Vision,She had a toy block.
+block,0 (not at all experienced with that sense),Interoception,She had a toy block.
+block,1 (very slightly experienced with that sense),Olfaction,She had a toy block.
+block,0 (not at all experienced with that sense),Taste,She had a toy block.
+block,1 (slightly experienced with hearing),Hearing,She had a wooden block.
+block,3,Touch,She had a wooden block.
+block,4,Vision,She had a wooden block.
+block,0 (not at all experienced with that sense),Interoception,She had a wooden block.
+block,1 (very slightly experienced with that sense),Olfaction,She had a wooden block.
+block,0 (not at all experienced with that sense),Taste,She had a wooden block.
+block,0 (not at all experienced with that sense),Hearing,She had a writer's block.
+block,Rating: 1,Touch,She had a writer's block.
+block,1,Vision,She had a writer's block.
+block,0 (not at all experienced with that sense),Interoception,She had a writer's block.
+block,0 (not at all experienced with that sense),Olfaction,She had a writer's block.
+block,0 (not at all experienced with that sense),Taste,She had a writer's block.
+blood,1,Hearing,He has coagulated blood.
+blood,2,Touch,He has coagulated blood.
+blood,4,Vision,He has coagulated blood.
+blood,2,Interoception,He has coagulated blood.
+blood,Rating: 3,Olfaction,He has coagulated blood.
+blood,2,Taste,He has coagulated blood.
+blood,1,Hearing,He has noble blood.
+blood,Rating: 3,Touch,He has noble blood.
+blood,2,Vision,He has noble blood.
+blood,2,Interoception,He has noble blood.
+blood,2,Olfaction,He has noble blood.
+blood,2,Taste,He has noble blood.
+blood,1,Hearing,He has royal blood.
+blood,Rating: 2,Touch,He has royal blood.
+blood,2,Vision,He has royal blood.
+blood,2,Interoception,He has royal blood.
+blood,2,Olfaction,He has royal blood.
+blood,Rating: 1,Taste,He has royal blood.
+blood,2,Hearing,He has thin blood.
+blood,2,Touch,He has thin blood.
+blood,3,Vision,He has thin blood.
+blood,3,Interoception,He has thin blood.
+blood,2,Olfaction,He has thin blood.
+blood,2,Taste,He has thin blood.
+board,2,Hearing,It was the executive board.
+board,Rating: 1,Touch,It was the executive board.
+board,2,Vision,It was the executive board.
+board,0 (not at all experienced with that sense),Interoception,It was the executive board.
+board,0 (not at all experienced with that sense),Olfaction,It was the executive board.
+board,0 (not at all experienced with that sense),Taste,It was the executive board.
+board,1,Hearing,It was the ironing board.
+board,3,Touch,It was the ironing board.
+board,3,Vision,It was the ironing board.
+board,0 (not at all experienced with that sense),Interoception,It was the ironing board.
+board,1,Olfaction,It was the ironing board.
+board,0 (not at all experienced with that sense),Taste,It was the ironing board.
+board,2,Hearing,It was the school board.
+board,Rating: 1,Touch,It was the school board.
+board,2,Vision,It was the school board.
+board,0 (not at all experienced with that sense),Interoception,It was the school board.
+board,1 (very little experienced with that sense),Olfaction,It was the school board.
+board,0 (not at all experienced with that sense),Taste,It was the school board.
+board,2,Hearing,It was the wooden board.
+board,Rating: 4,Touch,It was the wooden board.
+board,4,Vision,It was the wooden board.
+board,0 (not at all experienced with that sense),Interoception,It was the wooden board.
+board,2,Olfaction,It was the wooden board.
+board,0 (not at all experienced with that sense),Taste,It was the wooden board.
+book,1,Hearing,He had a best-selling book.
+book,Rating: 4,Touch,He had a best-selling book.
+book,3,Vision,He had a best-selling book.
+book,0 (not at all experienced with that sense),Interoception,He had a best-selling book.
+book,1,Olfaction,He had a best-selling book.
+book,0 (not at all experienced with that sense),Taste,He had a best-selling book.
+book,1,Hearing,He had a heavy book.
+book,3,Touch,He had a heavy book.
+book,4,Vision,He had a heavy book.
+book,0 (not at all experienced with that sense),Interoception,He had a heavy book.
+book,Rating: 1,Olfaction,He had a heavy book.
+book,0 (not at all experienced with that sense),Taste,He had a heavy book.
+book,1,Hearing,He had a leather-bound book.
+book,Rating: 4,Touch,He had a leather-bound book.
+book,4,Vision,He had a leather-bound book.
+book,0 (not at all experienced with that sense),Interoception,He had a leather-bound book.
+book,2,Olfaction,He had a leather-bound book.
+book,0 (not at all experienced with that sense),Taste,He had a leather-bound book.
+book,1,Hearing,He had a popular book.
+book,2,Touch,He had a popular book.
+book,3,Vision,He had a popular book.
+book,0 (not at all experienced with that sense),Interoception,He had a popular book.
+book,1 (very slightly experienced with that sense),Olfaction,He had a popular book.
+book,0 (not at all experienced with that sense),Taste,He had a popular book.
+break,4,Hearing,He broke the dish.
+break,Rating: 3,Touch,He broke the dish.
+break,3,Vision,He broke the dish.
+break,Rating: 1,Interoception,He broke the dish.
+break,0 (not at all experienced with that sense),Olfaction,He broke the dish.
+break,0 (not at all experienced with that sense),Taste,He broke the dish.
+break,4,Hearing,He broke the glass.
+break,Rating: 3,Touch,He broke the glass.
+break,4,Vision,He broke the glass.
+break,Rating: 1,Interoception,He broke the glass.
+break,0 (not at all experienced with that sense),Olfaction,He broke the glass.
+break,0 (not at all experienced with that sense),Taste,He broke the glass.
+break,2,Hearing,He broke the law.
+break,Rating: 1,Touch,He broke the law.
+break,2,Vision,He broke the law.
+break,Rating: 1,Interoception,He broke the law.
+break,0 (not at all experienced with that sense),Olfaction,He broke the law.
+break,0 (not at all experienced with that sense),Taste,He broke the law.
+break,1,Hearing,He broke the promise.
+break,Rating: 1,Touch,He broke the promise.
+break,1,Vision,He broke the promise.
+break,1 (very little experienced with that sense),Interoception,He broke the promise.
+break,0 (not at all experienced with that sense),Olfaction,He broke the promise.
+break,0 (not at all experienced with that sense),Taste,He broke the promise.
+breakfast,2,Hearing,They ate a family breakfast.
+breakfast,Rating: 2,Touch,They ate a family breakfast.
+breakfast,4,Vision,They ate a family breakfast.
+breakfast,3,Interoception,They ate a family breakfast.
+breakfast,3,Olfaction,They ate a family breakfast.
+breakfast,4,Taste,They ate a family breakfast.
+breakfast,2,Hearing,They ate a lonely breakfast.
+breakfast,Rating: 2,Touch,They ate a lonely breakfast.
+breakfast,3,Vision,They ate a lonely breakfast.
+breakfast,2,Interoception,They ate a lonely breakfast.
+breakfast,3,Olfaction,They ate a lonely breakfast.
+breakfast,4,Taste,They ate a lonely breakfast.
+breakfast,2,Hearing,They ate a nutritious breakfast.
+breakfast,Rating: 1,Touch,They ate a nutritious breakfast.
+breakfast,3,Vision,They ate a nutritious breakfast.
+breakfast,3,Interoception,They ate a nutritious breakfast.
+breakfast,3,Olfaction,They ate a nutritious breakfast.
+breakfast,4,Taste,They ate a nutritious breakfast.
+breakfast,2,Hearing,They ate a pancake breakfast.
+breakfast,Rating: 1,Touch,They ate a pancake breakfast.
+breakfast,3,Vision,They ate a pancake breakfast.
+breakfast,2,Interoception,They ate a pancake breakfast.
+breakfast,3,Olfaction,They ate a pancake breakfast.
+breakfast,4,Taste,They ate a pancake breakfast.
+call,3,Hearing,They called the debt.
+call,Rating: 0 (not at all experienced with,Touch,They called the debt.
+call,1,Vision,They called the debt.
+call,1 (very little experienced with that sense),Interoception,They called the debt.
+call,0 (not at all experienced with that sense),Olfaction,They called the debt.
+call,0 (not at all experienced with that sense),Taste,They called the debt.
+call,4,Hearing,They called the landlord.
+call,0 (not at all experienced with that sense),Touch,They called the landlord.
+call,2,Vision,They called the landlord.
+call,1 (very little experienced with that sense),Interoception,They called the landlord.
+call,0 (not at all experienced with that sense),Olfaction,They called the landlord.
+call,0 (not at all experienced with that sense),Taste,They called the landlord.
+call,3,Hearing,They called the loan.
+call,Rating: 0 (not at all experienced with,Touch,They called the loan.
+call,1,Vision,They called the loan.
+call,Rating: 1,Interoception,They called the loan.
+call,0 (not at all experienced with that sense),Olfaction,They called the loan.
+call,0 (not at all experienced with that sense),Taste,They called the loan.
+call,4,Hearing,They called the police.
+call,0 (not at all experienced with that sense),Touch,They called the police.
+call,2,Vision,They called the police.
+call,1 (slightly experienced with that sense),Interoception,They called the police.
+call,0 (not at all experienced with that sense),Olfaction,They called the police.
+call,0 (not at all experienced with that sense),Taste,They called the police.
+cape,1,Hearing,It was a flowing cape.
+cape,Rating: 3,Touch,It was a flowing cape.
+cape,4,Vision,It was a flowing cape.
+cape,0 (not at all experienced with that sense),Interoception,It was a flowing cape.
+cape,1 (very slightly experienced with that sense),Olfaction,It was a flowing cape.
+cape,0 (not at all experienced with that sense),Taste,It was a flowing cape.
+cape,1,Hearing,It was a red cape.
+cape,2,Touch,It was a red cape.
+cape,4,Vision,It was a red cape.
+cape,0 (not at all experienced with that sense),Interoception,It was a red cape.
+cape,1 (very slightly experienced with that sense),Olfaction,It was a red cape.
+cape,0 (not at all experienced with that sense),Taste,It was a red cape.
+cape,2,Hearing,It was a rocky cape.
+cape,2,Touch,It was a rocky cape.
+cape,4,Vision,It was a rocky cape.
+cape,0 (not at all experienced with that sense),Interoception,It was a rocky cape.
+cape,1,Olfaction,It was a rocky cape.
+cape,0 (not at all experienced with that sense),Taste,It was a rocky cape.
+cape,2,Hearing,It was an island cape.
+cape,2,Touch,It was an island cape.
+cape,4,Vision,It was an island cape.
+cape,0 (not at all experienced with that sense),Interoception,It was an island cape.
+cape,2,Olfaction,It was an island cape.
+cape,0 (not at all experienced with that sense),Taste,It was an island cape.
+case,1,Hearing,It was a beer case.
+case,2,Touch,It was a beer case.
+case,3,Vision,It was a beer case.
+case,0 (not at all experienced with that sense),Interoception,It was a beer case.
+case,2,Olfaction,It was a beer case.
+case,1,Taste,It was a beer case.
+case,2,Hearing,It was a criminal case.
+case,1 (slightly experienced with touch),Touch,It was a criminal case.
+case,2,Vision,It was a criminal case.
+case,1 (very little experienced with that sense),Interoception,It was a criminal case.
+case,0 (not at all experienced with that sense),Olfaction,It was a criminal case.
+case,0 (not at all experienced with that sense),Taste,It was a criminal case.
+case,1,Hearing,It was a display case.
+case,2,Touch,It was a display case.
+case,4,Vision,It was a display case.
+case,0 (not at all experienced with that sense),Interoception,It was a display case.
+case,Rating: 0 (not at all experienced with,Olfaction,It was a display case.
+case,0 (not at all experienced with that sense),Taste,It was a display case.
+case,2,Hearing,It was a divorce case.
+case,1,Touch,It was a divorce case.
+case,2,Vision,It was a divorce case.
+case,1 (very slightly experienced with that sense),Interoception,It was a divorce case.
+case,0 (not at all experienced with that sense),Olfaction,It was a divorce case.
+case,0 (not at all experienced with that sense),Taste,It was a divorce case.
+cast,1,Hearing,She cast a glow.
+cast,Rating: 1,Touch,She cast a glow.
+cast,3,Vision,She cast a glow.
+cast,Rating: 1,Interoception,She cast a glow.
+cast,0 (not at all experienced with that sense),Olfaction,She cast a glow.
+cast,0 (not at all experienced with that sense),Taste,She cast a glow.
+cast,1,Hearing,She cast a shadow.
+cast,1 (very little experienced through touch),Touch,She cast a shadow.
+cast,4,Vision,She cast a shadow.
+cast,0 (not at all experienced with that sense),Interoception,She cast a shadow.
+cast,0 (not at all experienced with that sense),Olfaction,She cast a shadow.
+cast,0 (not at all experienced with that sense),Taste,She cast a shadow.
+cast,3,Hearing,She cast a spear.
+cast,2,Touch,She cast a spear.
+cast,4,Vision,She cast a spear.
+cast,1,Interoception,She cast a spear.
+cast,0 (not at all experienced with that sense),Olfaction,She cast a spear.
+cast,0 (not at all experienced with that sense),Taste,She cast a spear.
+cast,3,Hearing,She cast a stone.
+cast,2,Touch,She cast a stone.
+cast,3,Vision,She cast a stone.
+cast,1,Interoception,She cast a stone.
+cast,0 (not at all experienced with that sense),Olfaction,She cast a stone.
+cast,0 (not at all experienced with that sense),Taste,She cast a stone.
+cause,1,Hearing,It was a main cause.
+cause,0 (not at all experienced with that sense),Touch,It was a main cause.
+cause,1 (very little experienced with sight),Vision,It was a main cause.
+cause,0 (not at all experienced with that sense),Interoception,It was a main cause.
+cause,0 (not at all experienced with that sense),Olfaction,It was a main cause.
+cause,0 (not at all experienced with that sense),Taste,It was a main cause.
+cause,1,Hearing,It was a political cause.
+cause,0 (not at all experienced with that sense),Touch,It was a political cause.
+cause,1,Vision,It was a political cause.
+cause,1 (very little experienced with that sense),Interoception,It was a political cause.
+cause,0 (not at all experienced with that sense),Olfaction,It was a political cause.
+cause,0 (not at all experienced with that sense),Taste,It was a political cause.
+cause,0 (not at all experienced with that sense),Hearing,It was a primary cause.
+cause,0 (not at all experienced with touch),Touch,It was a primary cause.
+cause,1,Vision,It was a primary cause.
+cause,0 (not at all experienced with that sense),Interoception,It was a primary cause.
+cause,0 (not at all experienced with that sense),Olfaction,It was a primary cause.
+cause,0 (not at all experienced with that sense),Taste,It was a primary cause.
+cause,1,Hearing,It was a worthy cause.
+cause,0 (not at all experienced with that sense),Touch,It was a worthy cause.
+cause,1,Vision,It was a worthy cause.
+cause,0 (not at all experienced with that sense),Interoception,It was a worthy cause.
+cause,0 (not at all experienced with that sense),Olfaction,It was a worthy cause.
+cause,0 (not at all experienced with that sense),Taste,It was a worthy cause.
+cell,0 (not at all experienced with that sense),Hearing,It was a brain cell.
+cell,Rating: 1,Touch,It was a brain cell.
+cell,2,Vision,It was a brain cell.
+cell,1 (very little experienced with that sense),Interoception,It was a brain cell.
+cell,0 (not at all experienced with that sense),Olfaction,It was a brain cell.
+cell,0 (not at all experienced with that sense),Taste,It was a brain cell.
+cell,2,Hearing,It was a jail cell.
+cell,Rating: 2,Touch,It was a jail cell.
+cell,4,Vision,It was a jail cell.
+cell,Rating: 1,Interoception,It was a jail cell.
+cell,2,Olfaction,It was a jail cell.
+cell,0 (not at all experienced with that sense),Taste,It was a jail cell.
+cell,2,Hearing,It was a prison cell.
+cell,Rating: 2,Touch,It was a prison cell.
+cell,4,Vision,It was a prison cell.
+cell,Rating: 1,Interoception,It was a prison cell.
+cell,2,Olfaction,It was a prison cell.
+cell,0 (not at all experienced with that sense),Taste,It was a prison cell.
+cell,0 (not at all experienced with that sense),Hearing,It was a skin cell.
+cell,2,Touch,It was a skin cell.
+cell,2,Vision,It was a skin cell.
+cell,1,Interoception,It was a skin cell.
+cell,0 (not at all experienced with that sense),Olfaction,It was a skin cell.
+cell,0 (not at all experienced with that sense),Taste,It was a skin cell.
+charm,2,Hearing,She had a devilish charm.
+charm,1 (very little experienced through touch),Touch,She had a devilish charm.
+charm,2,Vision,She had a devilish charm.
+charm,2,Interoception,She had a devilish charm.
+charm,0 (not at all experienced with that sense),Olfaction,She had a devilish charm.
+charm,0 (not at all experienced with that sense),Taste,She had a devilish charm.
+charm,1,Hearing,She had a gold charm.
+charm,2,Touch,She had a gold charm.
+charm,4,Vision,She had a gold charm.
+charm,0 (not at all experienced with that sense),Interoception,She had a gold charm.
+charm,0 (not at all experienced with that sense),Olfaction,She had a gold charm.
+charm,0 (not at all experienced with that sense),Taste,She had a gold charm.
+charm,2,Hearing,She had a good-luck charm.
+charm,2,Touch,She had a good-luck charm.
+charm,3,Vision,She had a good-luck charm.
+charm,1,Interoception,She had a good-luck charm.
+charm,0 (not at all experienced with that sense),Olfaction,She had a good-luck charm.
+charm,0 (not at all experienced with that sense),Taste,She had a good-luck charm.
+charm,2,Hearing,She had a natural charm.
+charm,0 (not at all experienced with touch),Touch,She had a natural charm.
+charm,1,Vision,She had a natural charm.
+charm,1 (very slightly experienced with that sense),Interoception,She had a natural charm.
+charm,0 (not at all experienced with that sense),Olfaction,She had a natural charm.
+charm,0 (not at all experienced with that sense),Taste,She had a natural charm.
+check,2,Hearing,He checked the alibi.
+check,Rating: 1,Touch,He checked the alibi.
+check,2,Vision,He checked the alibi.
+check,Rating: 1,Interoception,He checked the alibi.
+check,0 (not at all experienced with that sense),Olfaction,He checked the alibi.
+check,0 (not at all experienced with that sense),Taste,He checked the alibi.
+check,2,Hearing,He checked the engine.
+check,Rating: 3,Touch,He checked the engine.
+check,3,Vision,He checked the engine.
+check,Rating: 1,Interoception,He checked the engine.
+check,Rating: 1,Olfaction,He checked the engine.
+check,0 (not at all experienced with that sense),Taste,He checked the engine.
+check,1,Hearing,He checked the facts.
+check,Rating: 1,Touch,He checked the facts.
+check,2,Vision,He checked the facts.
+check,Rating: 1,Interoception,He checked the facts.
+check,0 (not at all experienced with that sense),Olfaction,He checked the facts.
+check,0 (not at all experienced with that sense),Taste,He checked the facts.
+check,2,Hearing,He checked the oven.
+check,Rating: 2,Touch,He checked the oven.
+check,3,Vision,He checked the oven.
+check,Rating: 1,Interoception,He checked the oven.
+check,2,Olfaction,He checked the oven.
+check,0 (not at all experienced with that sense),Taste,He checked the oven.
+chicken,4,Hearing,They liked the clucking chicken.
+chicken,Rating: 2,Touch,They liked the clucking chicken.
+chicken,4,Vision,They liked the clucking chicken.
+chicken,Rating: 1,Interoception,They liked the clucking chicken.
+chicken,3,Olfaction,They liked the clucking chicken.
+chicken,2,Taste,They liked the clucking chicken.
+chicken,2,Hearing,They liked the juicy chicken.
+chicken,Rating: 2,Touch,They liked the juicy chicken.
+chicken,3,Vision,They liked the juicy chicken.
+chicken,Rating: 2,Interoception,They liked the juicy chicken.
+chicken,3,Olfaction,They liked the juicy chicken.
+chicken,4,Taste,They liked the juicy chicken.
+chicken,3,Hearing,They liked the pet chicken.
+chicken,Rating: 3,Touch,They liked the pet chicken.
+chicken,3,Vision,They liked the pet chicken.
+chicken,1,Interoception,They liked the pet chicken.
+chicken,3,Olfaction,They liked the pet chicken.
+chicken,2,Taste,They liked the pet chicken.
+chicken,2,Hearing,They liked the roasted chicken.
+chicken,Rating: 2,Touch,They liked the roasted chicken.
+chicken,4,Vision,They liked the roasted chicken.
+chicken,Rating: 1,Interoception,They liked the roasted chicken.
+chicken,4,Olfaction,They liked the roasted chicken.
+chicken,4,Taste,They liked the roasted chicken.
+class,3,Hearing,It was a boring class.
+class,0 (not at all experienced with touch),Touch,It was a boring class.
+class,3,Vision,It was a boring class.
+class,1 (very little experienced with that sense),Interoception,It was a boring class.
+class,0 (not at all experienced with that sense),Olfaction,It was a boring class.
+class,0 (not at all experienced with that sense),Taste,It was a boring class.
+class,4,Hearing,It was a misbehaving class.
+class,0 (not at all experienced with that sense),Touch,It was a misbehaving class.
+class,3,Vision,It was a misbehaving class.
+class,1,Interoception,It was a misbehaving class.
+class,0 (not at all experienced with that sense),Olfaction,It was a misbehaving class.
+class,0 (not at all experienced with that sense),Taste,It was a misbehaving class.
+class,3,Hearing,It was a perceptive class.
+class,0 (not at all experienced with touch),Touch,It was a perceptive class.
+class,2,Vision,It was a perceptive class.
+class,Rating: 1,Interoception,It was a perceptive class.
+class,0 (not at all experienced with that sense),Olfaction,It was a perceptive class.
+class,0 (not at all experienced with that sense),Taste,It was a perceptive class.
+class,4,Hearing,It was a stimulating class.
+class,0 (not at all experienced with that sense),Touch,It was a stimulating class.
+class,3,Vision,It was a stimulating class.
+class,1,Interoception,It was a stimulating class.
+class,0 (not at all experienced with that sense),Olfaction,It was a stimulating class.
+class,0 (not at all experienced with that sense),Taste,It was a stimulating class.
+clear,2,Hearing,He cleared the desk.
+clear,Rating: 2,Touch,He cleared the desk.
+clear,3,Vision,He cleared the desk.
+clear,1,Interoception,He cleared the desk.
+clear,0 (not at all experienced with that sense),Olfaction,He cleared the desk.
+clear,0 (not at all experienced with that sense),Taste,He cleared the desk.
+clear,1,Hearing,He cleared the path.
+clear,Rating: 2,Touch,He cleared the path.
+clear,3,Vision,He cleared the path.
+clear,1 (very little experienced with that sense),Interoception,He cleared the path.
+clear,0 (not at all experienced with that sense),Olfaction,He cleared the path.
+clear,0 (not at all experienced with that sense),Taste,He cleared the path.
+clear,2,Hearing,He cleared the road.
+clear,Rating: 1,Touch,He cleared the road.
+clear,3,Vision,He cleared the road.
+clear,1,Interoception,He cleared the road.
+clear,0 (not at all experienced with that sense),Olfaction,He cleared the road.
+clear,0 (not at all experienced with that sense),Taste,He cleared the road.
+clear,2,Hearing,He cleared the shelf.
+clear,2,Touch,He cleared the shelf.
+clear,3,Vision,He cleared the shelf.
+clear,1,Interoception,He cleared the shelf.
+clear,0 (not at all experienced with that sense),Olfaction,He cleared the shelf.
+clear,0 (not at all experienced with that sense),Taste,He cleared the shelf.
+clip,4,Hearing,It was a film clip.
+clip,Rating: 1,Touch,It was a film clip.
+clip,4,Vision,It was a film clip.
+clip,0 (not at all experienced with that sense),Interoception,It was a film clip.
+clip,0 (not at all experienced with that sense),Olfaction,It was a film clip.
+clip,0 (not at all experienced with that sense),Taste,It was a film clip.
+clip,2,Hearing,It was a hair clip.
+clip,Rating: 3,Touch,It was a hair clip.
+clip,3,Vision,It was a hair clip.
+clip,Rating: 1,Interoception,It was a hair clip.
+clip,1 (very slightly experienced with that sense),Olfaction,It was a hair clip.
+clip,0 (not at all experienced with that sense),Taste,It was a hair clip.
+clip,2,Hearing,It was a metal clip.
+clip,Rating: 4,Touch,It was a metal clip.
+clip,3,Vision,It was a metal clip.
+clip,0 (not at all experienced with that sense),Interoception,It was a metal clip.
+clip,1 (very slightly experienced with that sense),Olfaction,It was a metal clip.
+clip,0 (not at all experienced with that sense),Taste,It was a metal clip.
+clip,4,Hearing,It was a video clip.
+clip,Rating: 1,Touch,It was a video clip.
+clip,4,Vision,It was a video clip.
+clip,Rating: 0 (not at all experienced with,Interoception,It was a video clip.
+clip,0 (not at all experienced with that sense),Olfaction,It was a video clip.
+clip,0 (not at all experienced with that sense),Taste,It was a video clip.
+clog,4,Hearing,The choreographer clogged.
+clog,Rating: 2,Touch,The choreographer clogged.
+clog,3,Vision,The choreographer clogged.
+clog,1,Interoception,The choreographer clogged.
+clog,0 (not at all experienced with that sense),Olfaction,The choreographer clogged.
+clog,0 (not at all experienced with that sense),Taste,The choreographer clogged.
+clog,4,Hearing,The dancer clogged.
+clog,Rating: 2,Touch,The dancer clogged.
+clog,4,Vision,The dancer clogged.
+clog,1,Interoception,The dancer clogged.
+clog,0 (not at all experienced with that sense),Olfaction,The dancer clogged.
+clog,0 (not at all experienced with that sense),Taste,The dancer clogged.
+clog,2,Hearing,The pipe clogged.
+clog,Rating: 2,Touch,The pipe clogged.
+clog,2,Vision,The pipe clogged.
+clog,1 (very little experienced with that sense),Interoception,The pipe clogged.
+clog,2,Olfaction,The pipe clogged.
+clog,0 (not at all experienced with that sense),Taste,The pipe clogged.
+clog,2,Hearing,The sink clogged.
+clog,Rating: 2,Touch,The sink clogged.
+clog,2,Vision,The sink clogged.
+clog,0 (not at all experienced with that sense),Interoception,The sink clogged.
+clog,2,Olfaction,The sink clogged.
+clog,0 (not at all experienced with that sense),Taste,The sink clogged.
+cold,1 (slightly experienced with hearing),Hearing,It was a chest cold.
+cold,Rating: 3,Touch,It was a chest cold.
+cold,1,Vision,It was a chest cold.
+cold,4,Interoception,It was a chest cold.
+cold,Rating: 1,Olfaction,It was a chest cold.
+cold,Rating: 1,Taste,It was a chest cold.
+cold,1,Hearing,It was a common cold.
+cold,3,Touch,It was a common cold.
+cold,2,Vision,It was a common cold.
+cold,3,Interoception,It was a common cold.
+cold,1 (very slightly experienced with that sense),Olfaction,It was a common cold.
+cold,1 (very little experienced with taste),Taste,It was a common cold.
+cold,1 (very little experienced with hearing),Hearing,It was a freezing cold.
+cold,4,Touch,It was a freezing cold.
+cold,2,Vision,It was a freezing cold.
+cold,4,Interoception,It was a freezing cold.
+cold,0 (not at all experienced with that sense),Olfaction,It was a freezing cold.
+cold,0 (not at all experienced with that sense),Taste,It was a freezing cold.
+cold,1 (very little experienced with hearing),Hearing,It was an icy cold.
+cold,4,Touch,It was an icy cold.
+cold,2,Vision,It was an icy cold.
+cold,4,Interoception,It was an icy cold.
+cold,0 (not at all experienced with that sense),Olfaction,It was an icy cold.
+cold,0 (not at all experienced with that sense),Taste,It was an icy cold.
+column,1 (slightly experienced with hearing),Hearing,It was a concrete column.
+column,3,Touch,It was a concrete column.
+column,4,Vision,It was a concrete column.
+column,0 (not at all experienced with that sense),Interoception,It was a concrete column.
+column,Rating: 1,Olfaction,It was a concrete column.
+column,0 (not at all experienced with that sense),Taste,It was a concrete column.
+column,1,Hearing,It was a gossip column.
+column,Rating: 2,Touch,It was a gossip column.
+column,3,Vision,It was a gossip column.
+column,0 (not at all experienced with that sense),Interoception,It was a gossip column.
+column,0 (not at all experienced with that sense),Olfaction,It was a gossip column.
+column,0 (not at all experienced with that sense),Taste,It was a gossip column.
+column,1 (very little experienced with that sense),Hearing,It was a marble column.
+column,3,Touch,It was a marble column.
+column,4,Vision,It was a marble column.
+column,0 (not at all experienced with that sense),Interoception,It was a marble column.
+column,1 (very slightly experienced with that sense),Olfaction,It was a marble column.
+column,0 (not at all experienced with that sense),Taste,It was a marble column.
+column,1 (very little experienced with that sense),Hearing,It was a sports column.
+column,Rating: 2,Touch,It was a sports column.
+column,3,Vision,It was a sports column.
+column,0 (not at all experienced with that sense),Interoception,It was a sports column.
+column,0 (not at all experienced with that sense),Olfaction,It was a sports column.
+column,0 (not at all experienced with that sense),Taste,It was a sports column.
+company,2,Hearing,He liked the investment company.
+company,0 (not at all experienced with that sense),Touch,He liked the investment company.
+company,2,Vision,He liked the investment company.
+company,0 (not at all experienced with that sense),Interoception,He liked the investment company.
+company,0 (not at all experienced with that sense),Olfaction,He liked the investment company.
+company,0 (not at all experienced with that sense),Taste,He liked the investment company.
+company,2,Hearing,He liked the pharmaceutical company.
+company,Rating: 0 (not at all experienced with,Touch,He liked the pharmaceutical company.
+company,2,Vision,He liked the pharmaceutical company.
+company,0 (not at all experienced with that sense),Interoception,He liked the pharmaceutical company.
+company,0 (not at all experienced with that sense),Olfaction,He liked the pharmaceutical company.
+company,0 (not at all experienced with that sense),Taste,He liked the pharmaceutical company.
+company,3,Hearing,He liked the pleasant company.
+company,Rating: 1,Touch,He liked the pleasant company.
+company,2,Vision,He liked the pleasant company.
+company,2,Interoception,He liked the pleasant company.
+company,0 (not at all experienced with that sense),Olfaction,He liked the pleasant company.
+company,0 (not at all experienced with that sense),Taste,He liked the pleasant company.
+company,2,Hearing,He liked the polite company.
+company,0 (not at all experienced with that sense),Touch,He liked the polite company.
+company,2,Vision,He liked the polite company.
+company,1 (very little experienced with that sense),Interoception,He liked the polite company.
+company,0 (not at all experienced with that sense),Olfaction,He liked the polite company.
+company,0 (not at all experienced with that sense),Taste,He liked the polite company.
+cone,1,Hearing,It was a sugar cone.
+cone,3,Touch,It was a sugar cone.
+cone,4,Vision,It was a sugar cone.
+cone,1,Interoception,It was a sugar cone.
+cone,Rating: 2,Olfaction,It was a sugar cone.
+cone,Rating: 4,Taste,It was a sugar cone.
+cone,1,Hearing,It was a traffic cone.
+cone,Rating: 3,Touch,It was a traffic cone.
+cone,4,Vision,It was a traffic cone.
+cone,0 (not at all experienced with that sense),Interoception,It was a traffic cone.
+cone,1 (very slightly experienced with that sense),Olfaction,It was a traffic cone.
+cone,0 (not at all experienced with that sense),Taste,It was a traffic cone.
+cone,1,Hearing,It was a waffle cone.
+cone,Rating: 3,Touch,It was a waffle cone.
+cone,4,Vision,It was a waffle cone.
+cone,1,Interoception,It was a waffle cone.
+cone,3,Olfaction,It was a waffle cone.
+cone,3,Taste,It was a waffle cone.
+cone,1,Hearing,It was an orange cone.
+cone,Rating: 3,Touch,It was an orange cone.
+cone,4,Vision,It was an orange cone.
+cone,0 (not at all experienced with that sense),Interoception,It was an orange cone.
+cone,1 (very slightly experienced with that sense),Olfaction,It was an orange cone.
+cone,0 (not at all experienced with that sense),Taste,It was an orange cone.
+contribution,1,Hearing,He made a charitable contribution.
+contribution,0 (not at all experienced with that sense),Touch,He made a charitable contribution.
+contribution,1,Vision,He made a charitable contribution.
+contribution,Rating: 1,Interoception,He made a charitable contribution.
+contribution,0 (not at all experienced with that sense),Olfaction,He made a charitable contribution.
+contribution,0 (not at all experienced with that sense),Taste,He made a charitable contribution.
+contribution,1,Hearing,He made a scholarly contribution.
+contribution,0 (not at all experienced with that sense),Touch,He made a scholarly contribution.
+contribution,1,Vision,He made a scholarly contribution.
+contribution,0 (not at all experienced with that sense),Interoception,He made a scholarly contribution.
+contribution,0 (not at all experienced with that sense),Olfaction,He made a scholarly contribution.
+contribution,0 (not at all experienced with that sense),Taste,He made a scholarly contribution.
+contribution,2,Hearing,He made a voluntary contribution.
+contribution,0 (not at all experienced with that sense),Touch,He made a voluntary contribution.
+contribution,1,Vision,He made a voluntary contribution.
+contribution,Rating: 1,Interoception,He made a voluntary contribution.
+contribution,0 (not at all experienced with that sense),Olfaction,He made a voluntary contribution.
+contribution,0 (not at all experienced with that sense),Taste,He made a voluntary contribution.
+contribution,1,Hearing,He made a well-written contribution.
+contribution,0 (not at all experienced with that sense),Touch,He made a well-written contribution.
+contribution,1,Vision,He made a well-written contribution.
+contribution,0 (not at all experienced with that sense),Interoception,He made a well-written contribution.
+contribution,0 (not at all experienced with that sense),Olfaction,He made a well-written contribution.
+contribution,0 (not at all experienced with that sense),Taste,He made a well-written contribution.
+count,2,Hearing,That was the correct count.
+count,0 (not at all experienced with that sense),Touch,That was the correct count.
+count,2,Vision,That was the correct count.
+count,0 (not at all experienced with that sense),Interoception,That was the correct count.
+count,0 (not at all experienced with that sense),Olfaction,That was the correct count.
+count,0 (not at all experienced with that sense),Taste,That was the correct count.
+count,2,Hearing,That was the final count.
+count,0 (not at all experienced with that sense),Touch,That was the final count.
+count,2,Vision,That was the final count.
+count,0 (not at all experienced with that sense),Interoception,That was the final count.
+count,0 (not at all experienced with that sense),Olfaction,That was the final count.
+count,0 (not at all experienced with that sense),Taste,That was the final count.
+count,2,Hearing,That was the noble count.
+count,Rating: 1,Touch,That was the noble count.
+count,2,Vision,That was the noble count.
+count,0 (not at all experienced with that sense),Interoception,That was the noble count.
+count,0 (not at all experienced with that sense),Olfaction,That was the noble count.
+count,0 (not at all experienced with that sense),Taste,That was the noble count.
+count,2,Hearing,That was the vengeful count.
+count,Rating: 1,Touch,That was the vengeful count.
+count,2,Vision,That was the vengeful count.
+count,Rating: 0 (not at all experienced with,Interoception,That was the vengeful count.
+count,0 (not at all experienced with that sense),Olfaction,That was the vengeful count.
+count,0 (not at all experienced with that sense),Taste,That was the vengeful count.
+course,1 (slightly experienced with hearing),Hearing,It was a charted course.
+course,1 (slightly experienced with touch),Touch,It was a charted course.
+course,2,Vision,It was a charted course.
+course,0 (not at all experienced with that sense),Interoception,It was a charted course.
+course,0 (not at all experienced with that sense),Olfaction,It was a charted course.
+course,0 (not at all experienced with that sense),Taste,It was a charted course.
+course,2,Hearing,It was a collision course.
+course,Rating: 1,Touch,It was a collision course.
+course,2,Vision,It was a collision course.
+course,0 (not at all experienced with that sense),Interoception,It was a collision course.
+course,0 (not at all experienced with that sense),Olfaction,It was a collision course.
+course,0 (not at all experienced with that sense),Taste,It was a collision course.
+course,1,Hearing,It was a pass-fail course.
+course,0 (not at all experienced with that sense),Touch,It was a pass-fail course.
+course,1,Vision,It was a pass-fail course.
+course,0 (not at all experienced with that sense),Interoception,It was a pass-fail course.
+course,0 (not at all experienced with that sense),Olfaction,It was a pass-fail course.
+course,0 (not at all experienced with that sense),Taste,It was a pass-fail course.
+course,1,Hearing,It was an introductory course.
+course,0 (not at all experienced with that sense),Touch,It was an introductory course.
+course,1,Vision,It was an introductory course.
+course,0 (not at all experienced with that sense),Interoception,It was an introductory course.
+course,0 (not at all experienced with that sense),Olfaction,It was an introductory course.
+course,0 (not at all experienced with that sense),Taste,It was an introductory course.
+cross,2,Hearing,He crossed a friend.
+cross,Rating: 1,Touch,He crossed a friend.
+cross,2,Vision,He crossed a friend.
+cross,Rating: 1,Interoception,He crossed a friend.
+cross,0 (not at all experienced with that sense),Olfaction,He crossed a friend.
+cross,0 (not at all experienced with that sense),Taste,He crossed a friend.
+cross,2,Hearing,He crossed a road.
+cross,Rating: 1,Touch,He crossed a road.
+cross,3,Vision,He crossed a road.
+cross,1 (very little experienced with that sense),Interoception,He crossed a road.
+cross,0 (not at all experienced with that sense),Olfaction,He crossed a road.
+cross,0 (not at all experienced with that sense),Taste,He crossed a road.
+cross,1,Hearing,He crossed a room.
+cross,Rating: 1,Touch,He crossed a room.
+cross,2,Vision,He crossed a room.
+cross,Rating: 1,Interoception,He crossed a room.
+cross,0 (not at all experienced with that sense),Olfaction,He crossed a room.
+cross,0 (not at all experienced with that sense),Taste,He crossed a room.
+cross,2,Hearing,He crossed an enemy.
+cross,Rating: 2,Touch,He crossed an enemy.
+cross,2,Vision,He crossed an enemy.
+cross,Rating: 1,Interoception,He crossed an enemy.
+cross,Rating: 0 (not at all experienced with,Olfaction,He crossed an enemy.
+cross,0 (not at all experienced with that sense),Taste,He crossed an enemy.
+date,2,Hearing,It was a blind date.
+date,Rating: 1,Touch,It was a blind date.
+date,3,Vision,It was a blind date.
+date,Rating: 1,Interoception,It was a blind date.
+date,Rating: 1,Olfaction,It was a blind date.
+date,1 (very little experienced with that sense),Taste,It was a blind date.
+date,2,Hearing,It was a dinner date.
+date,Rating: 1,Touch,It was a dinner date.
+date,3,Vision,It was a dinner date.
+date,Rating: 1,Interoception,It was a dinner date.
+date,2,Olfaction,It was a dinner date.
+date,2,Taste,It was a dinner date.
+date,2,Hearing,It was a historical date.
+date,Rating: 0 (not at all experienced with,Touch,It was a historical date.
+date,2,Vision,It was a historical date.
+date,0 (not at all experienced with that sense),Interoception,It was a historical date.
+date,0 (not at all experienced with that sense),Olfaction,It was a historical date.
+date,0 (not at all experienced with that sense),Taste,It was a historical date.
+date,1,Hearing,It was an expiration date.
+date,Rating: 1,Touch,It was an expiration date.
+date,2,Vision,It was an expiration date.
+date,0 (not at all experienced with that sense),Interoception,It was an expiration date.
+date,0 (not at all experienced with that sense),Olfaction,It was an expiration date.
+date,1,Taste,It was an expiration date.
+degree,1,Hearing,It was about associate degrees.
+degree,0 (not at all experienced with that sense),Touch,It was about associate degrees.
+degree,1,Vision,It was about associate degrees.
+degree,0 (not at all experienced with that sense),Interoception,It was about associate degrees.
+degree,0 (not at all experienced with that sense),Olfaction,It was about associate degrees.
+degree,0 (not at all experienced with that sense),Taste,It was about associate degrees.
+degree,2,Hearing,It was about college degrees.
+degree,0 (not at all experienced with touch),Touch,It was about college degrees.
+degree,1,Vision,It was about college degrees.
+degree,0 (not at all experienced with that sense),Interoception,It was about college degrees.
+degree,0 (not at all experienced with that sense),Olfaction,It was about college degrees.
+degree,0 (not at all experienced with that sense),Taste,It was about college degrees.
+degree,0 (not at all experienced with that sense),Hearing,It was about fifty degrees.
+degree,Rating: 2,Touch,It was about fifty degrees.
+degree,2,Vision,It was about fifty degrees.
+degree,2,Interoception,It was about fifty degrees.
+degree,0 (not at all experienced with that sense),Olfaction,It was about fifty degrees.
+degree,0 (not at all experienced with that sense),Taste,It was about fifty degrees.
+degree,1 (very slightly experienced with hearing),Hearing,It was about forty degrees.
+degree,Rating: 1,Touch,It was about forty degrees.
+degree,1,Vision,It was about forty degrees.
+degree,2,Interoception,It was about forty degrees.
+degree,0 (not at all experienced with that sense),Olfaction,It was about forty degrees.
+degree,0 (not at all experienced with that sense),Taste,It was about forty degrees.
+design,1 (slightly experienced with hearing),Hearing,They liked the architectural design.
+design,Rating: 1,Touch,They liked the architectural design.
+design,4,Vision,They liked the architectural design.
+design,0 (not at all experienced with that sense),Interoception,They liked the architectural design.
+design,0 (not at all experienced with that sense),Olfaction,They liked the architectural design.
+design,0 (not at all experienced with that sense),Taste,They liked the architectural design.
+design,0 (not at all experienced with that sense),Hearing,They liked the floral design.
+design,1 (slightly experienced with touch),Touch,They liked the floral design.
+design,4,Vision,They liked the floral design.
+design,0 (not at all experienced with that sense),Interoception,They liked the floral design.
+design,0 (not at all experienced with that sense),Olfaction,They liked the floral design.
+design,0 (not at all experienced with that sense),Taste,They liked the floral design.
+design,0 (not at all experienced with that sense),Hearing,They liked the geometric design.
+design,Rating: 2,Touch,They liked the geometric design.
+design,4,Vision,They liked the geometric design.
+design,0 (not at all experienced with that sense),Interoception,They liked the geometric design.
+design,0 (not at all experienced with that sense),Olfaction,They liked the geometric design.
+design,0 (not at all experienced with that sense),Taste,They liked the geometric design.
+design,1 (slightly experienced with hearing),Hearing,They liked the product design.
+design,2,Touch,They liked the product design.
+design,3,Vision,They liked the product design.
+design,0 (not at all experienced with that sense),Interoception,They liked the product design.
+design,0 (not at all experienced with that sense),Olfaction,They liked the product design.
+design,0 (not at all experienced with that sense),Taste,They liked the product design.
+dinner,2,Hearing,They liked the anniversary dinner.
+dinner,Rating: 2,Touch,They liked the anniversary dinner.
+dinner,3,Vision,They liked the anniversary dinner.
+dinner,3,Interoception,They liked the anniversary dinner.
+dinner,3,Olfaction,They liked the anniversary dinner.
+dinner,4,Taste,They liked the anniversary dinner.
+dinner,2,Hearing,They liked the formal dinner.
+dinner,Rating: 2,Touch,They liked the formal dinner.
+dinner,3,Vision,They liked the formal dinner.
+dinner,2,Interoception,They liked the formal dinner.
+dinner,3,Olfaction,They liked the formal dinner.
+dinner,3,Taste,They liked the formal dinner.
+dinner,2,Hearing,They liked the light dinner.
+dinner,Rating: 2,Touch,They liked the light dinner.
+dinner,3,Vision,They liked the light dinner.
+dinner,2,Interoception,They liked the light dinner.
+dinner,3,Olfaction,They liked the light dinner.
+dinner,4,Taste,They liked the light dinner.
+dinner,2,Hearing,They liked the turkey dinner.
+dinner,Rating: 1,Touch,They liked the turkey dinner.
+dinner,3,Vision,They liked the turkey dinner.
+dinner,2,Interoception,They liked the turkey dinner.
+dinner,3,Olfaction,They liked the turkey dinner.
+dinner,4,Taste,They liked the turkey dinner.
+drain,1,Hearing,They drained the account.
+drain,Rating: 1,Touch,They drained the account.
+drain,2,Vision,They drained the account.
+drain,1 (very little experienced with that sense),Interoception,They drained the account.
+drain,0 (not at all experienced with that sense),Olfaction,They drained the account.
+drain,0 (not at all experienced with that sense),Taste,They drained the account.
+drain,1,Hearing,They drained the budget.
+drain,Rating: 1,Touch,They drained the budget.
+drain,1,Vision,They drained the budget.
+drain,0 (not at all experienced with that sense),Interoception,They drained the budget.
+drain,0 (not at all experienced with that sense),Olfaction,They drained the budget.
+drain,0 (not at all experienced with that sense),Taste,They drained the budget.
+drain,2,Hearing,They drained the pond.
+drain,2,Touch,They drained the pond.
+drain,3,Vision,They drained the pond.
+drain,0 (not at all experienced with that sense),Interoception,They drained the pond.
+drain,2,Olfaction,They drained the pond.
+drain,0 (not at all experienced with that sense),Taste,They drained the pond.
+drain,2,Hearing,They drained the pool.
+drain,Rating: 2,Touch,They drained the pool.
+drain,3,Vision,They drained the pool.
+drain,0 (not at all experienced with that sense),Interoception,They drained the pool.
+drain,1 (very slightly experienced with that sense),Olfaction,They drained the pool.
+drain,0 (not at all experienced with that sense),Taste,They drained the pool.
+draw,2,Hearing,He drew a gun.
+draw,Rating: 1,Touch,He drew a gun.
+draw,4,Vision,He drew a gun.
+draw,Rating: 1,Interoception,He drew a gun.
+draw,0 (not at all experienced with that sense),Olfaction,He drew a gun.
+draw,0 (not at all experienced with that sense),Taste,He drew a gun.
+draw,2,Hearing,He drew a sword.
+draw,Rating: 2,Touch,He drew a sword.
+draw,4,Vision,He drew a sword.
+draw,1,Interoception,He drew a sword.
+draw,0 (not at all experienced with that sense),Olfaction,He drew a sword.
+draw,0 (not at all experienced with that sense),Taste,He drew a sword.
+draw,1,Hearing,He drew a tree.
+draw,Rating: 2,Touch,He drew a tree.
+draw,3,Vision,He drew a tree.
+draw,1,Interoception,He drew a tree.
+draw,0 (not at all experienced with that sense),Olfaction,He drew a tree.
+draw,0 (not at all experienced with that sense),Taste,He drew a tree.
+draw,2,Hearing,They drew a picture.
+draw,Rating: 2,Touch,They drew a picture.
+draw,4,Vision,They drew a picture.
+draw,Rating: 1,Interoception,They drew a picture.
+draw,0 (not at all experienced with that sense),Olfaction,They drew a picture.
+draw,0 (not at all experienced with that sense),Taste,They drew a picture.
+dream,1,Hearing,He had a bad dream.
+dream,Rating: 0 (not at all experienced with,Touch,He had a bad dream.
+dream,2,Vision,He had a bad dream.
+dream,2,Interoception,He had a bad dream.
+dream,0 (not at all experienced with that sense),Olfaction,He had a bad dream.
+dream,0 (not at all experienced with that sense),Taste,He had a bad dream.
+dream,1,Hearing,He had a career dream.
+dream,0 (not at all experienced with that sense),Touch,He had a career dream.
+dream,2,Vision,He had a career dream.
+dream,2,Interoception,He had a career dream.
+dream,0 (not at all experienced with that sense),Olfaction,He had a career dream.
+dream,0 (not at all experienced with that sense),Taste,He had a career dream.
+dream,1,Hearing,He had a childhood dream.
+dream,Rating: 0 (not at all experienced with,Touch,He had a childhood dream.
+dream,2,Vision,He had a childhood dream.
+dream,2,Interoception,He had a childhood dream.
+dream,0 (not at all experienced with that sense),Olfaction,He had a childhood dream.
+dream,0 (not at all experienced with that sense),Taste,He had a childhood dream.
+dream,2,Hearing,He had a recurring dream.
+dream,Rating: 1,Touch,He had a recurring dream.
+dream,2,Vision,He had a recurring dream.
+dream,Rating: 3,Interoception,He had a recurring dream.
+dream,0 (not at all experienced with that sense),Olfaction,He had a recurring dream.
+dream,0 (not at all experienced with that sense),Taste,He had a recurring dream.
+drill,4,Hearing,It was a battery-powered drill.
+drill,3,Touch,It was a battery-powered drill.
+drill,4,Vision,It was a battery-powered drill.
+drill,Rating: 1,Interoception,It was a battery-powered drill.
+drill,Rating: 1,Olfaction,It was a battery-powered drill.
+drill,0 (not at all experienced with that sense),Taste,It was a battery-powered drill.
+drill,4,Hearing,It was a challenging drill.
+drill,Rating: 4,Touch,It was a challenging drill.
+drill,4,Vision,It was a challenging drill.
+drill,Rating: 1,Interoception,It was a challenging drill.
+drill,Rating: 1,Olfaction,It was a challenging drill.
+drill,0 (not at all experienced with that sense),Taste,It was a challenging drill.
+drill,4,Hearing,It was a grueling drill.
+drill,Rating: 3,Touch,It was a grueling drill.
+drill,4,Vision,It was a grueling drill.
+drill,Rating: 1,Interoception,It was a grueling drill.
+drill,Rating: 1,Olfaction,It was a grueling drill.
+drill,0 (not at all experienced with that sense),Taste,It was a grueling drill.
+drill,4,Hearing,It was an electric drill.
+drill,Rating: 3,Touch,It was an electric drill.
+drill,4,Vision,It was an electric drill.
+drill,1 (very little experienced with that sense),Interoception,It was an electric drill.
+drill,Rating: 2,Olfaction,It was an electric drill.
+drill,0 (not at all experienced with that sense),Taste,It was an electric drill.
+examination,2,Hearing,It was a difficult examination.
+examination,Rating: 1,Touch,It was a difficult examination.
+examination,2,Vision,It was a difficult examination.
+examination,2,Interoception,It was a difficult examination.
+examination,0 (not at all experienced with that sense),Olfaction,It was a difficult examination.
+examination,0 (not at all experienced with that sense),Taste,It was a difficult examination.
+examination,2,Hearing,It was a multiple-choice examination.
+examination,Rating: 1 (very little experienced through touch,Touch,It was a multiple-choice examination.
+examination,2,Vision,It was a multiple-choice examination.
+examination,Rating: 2,Interoception,It was a multiple-choice examination.
+examination,0 (not at all experienced with that sense),Olfaction,It was a multiple-choice examination.
+examination,0 (not at all experienced with that sense),Taste,It was a multiple-choice examination.
+examination,3,Hearing,It was a physical examination.
+examination,3,Touch,It was a physical examination.
+examination,3,Vision,It was a physical examination.
+examination,2,Interoception,It was a physical examination.
+examination,Rating: 1,Olfaction,It was a physical examination.
+examination,0 (not at all experienced with that sense),Taste,It was a physical examination.
+examination,2,Hearing,It was a prostate examination.
+examination,Rating: 4,Touch,It was a prostate examination.
+examination,2,Vision,It was a prostate examination.
+examination,4,Interoception,It was a prostate examination.
+examination,Rating: 1,Olfaction,It was a prostate examination.
+examination,0 (not at all experienced with that sense),Taste,It was a prostate examination.
+fan,2,Hearing,They had a ceiling fan.
+fan,Rating: 2,Touch,They had a ceiling fan.
+fan,4,Vision,They had a ceiling fan.
+fan,0 (not at all experienced with that sense),Interoception,They had a ceiling fan.
+fan,0 (not at all experienced with that sense),Olfaction,They had a ceiling fan.
+fan,0 (not at all experienced with that sense),Taste,They had a ceiling fan.
+fan,3,Hearing,They had a zealous fan.
+fan,Rating: 1,Touch,They had a zealous fan.
+fan,3,Vision,They had a zealous fan.
+fan,Rating: 1,Interoception,They had a zealous fan.
+fan,Rating: 1,Olfaction,They had a zealous fan.
+fan,0 (not at all experienced with that sense),Taste,They had a zealous fan.
+fan,3,Hearing,They had an electric fan.
+fan,Rating: 2,Touch,They had an electric fan.
+fan,4,Vision,They had an electric fan.
+fan,1 (very little experienced with that sense),Interoception,They had an electric fan.
+fan,1 (very little experienced with that sense),Olfaction,They had an electric fan.
+fan,0 (not at all experienced with that sense),Taste,They had an electric fan.
+fan,3,Hearing,They had an enthusiastic fan.
+fan,Rating: 1,Touch,They had an enthusiastic fan.
+fan,3,Vision,They had an enthusiastic fan.
+fan,Rating: 1,Interoception,They had an enthusiastic fan.
+fan,Rating: 1,Olfaction,They had an enthusiastic fan.
+fan,0 (not at all experienced with that sense),Taste,They had an enthusiastic fan.
+file,1,Hearing,She had a data file.
+file,Rating: 2,Touch,She had a data file.
+file,2,Vision,She had a data file.
+file,0 (not at all experienced with that sense),Interoception,She had a data file.
+file,0 (not at all experienced with that sense),Olfaction,She had a data file.
+file,0 (not at all experienced with that sense),Taste,She had a data file.
+file,2,Hearing,She had a nail file.
+file,3,Touch,She had a nail file.
+file,3,Vision,She had a nail file.
+file,0 (not at all experienced with that sense),Interoception,She had a nail file.
+file,0 (not at all experienced with that sense),Olfaction,She had a nail file.
+file,0 (not at all experienced with that sense),Taste,She had a nail file.
+file,2,Hearing,She had a steel file.
+file,3,Touch,She had a steel file.
+file,3,Vision,She had a steel file.
+file,0 (not at all experienced with that sense),Interoception,She had a steel file.
+file,1 (very little experienced with that sense),Olfaction,She had a steel file.
+file,0 (not at all experienced with that sense),Taste,She had a steel file.
+file,1,Hearing,She had a text file.
+file,1,Touch,She had a text file.
+file,2,Vision,She had a text file.
+file,0 (not at all experienced with that sense),Interoception,She had a text file.
+file,0 (not at all experienced with that sense),Olfaction,She had a text file.
+file,0 (not at all experienced with that sense),Taste,She had a text file.
+film,4,Hearing,It was a censored film.
+film,1 (very little experienced through touch),Touch,It was a censored film.
+film,4,Vision,It was a censored film.
+film,0 (not at all experienced with that sense),Interoception,It was a censored film.
+film,0 (not at all experienced with that sense),Olfaction,It was a censored film.
+film,0 (not at all experienced with that sense),Taste,It was a censored film.
+film,1,Hearing,It was a plastic film.
+film,Rating: 3,Touch,It was a plastic film.
+film,4,Vision,It was a plastic film.
+film,1 (very little experienced with that sense),Interoception,It was a plastic film.
+film,2,Olfaction,It was a plastic film.
+film,1 (very slightly experienced with that sense),Taste,It was a plastic film.
+film,1 (slightly experienced with hearing),Hearing,It was a transparent film.
+film,Rating: 2,Touch,It was a transparent film.
+film,4,Vision,It was a transparent film.
+film,0 (not at all experienced with that sense),Interoception,It was a transparent film.
+film,1 (very little experienced with that sense),Olfaction,It was a transparent film.
+film,0 (not at all experienced with that sense),Taste,It was a transparent film.
+film,4,Hearing,It was an action film.
+film,Rating: 1,Touch,It was an action film.
+film,4,Vision,It was an action film.
+film,1 (very little experienced with that sense),Interoception,It was an action film.
+film,0 (not at all experienced with that sense),Olfaction,It was an action film.
+film,0 (not at all experienced with that sense),Taste,It was an action film.
+fix,1,Hearing,They fixed the date.
+fix,1,Touch,They fixed the date.
+fix,2,Vision,They fixed the date.
+fix,0 (not at all experienced with that sense),Interoception,They fixed the date.
+fix,0 (not at all experienced with that sense),Olfaction,They fixed the date.
+fix,0 (not at all experienced with that sense),Taste,They fixed the date.
+fix,2,Hearing,They fixed the dishwasher.
+fix,Rating: 3,Touch,They fixed the dishwasher.
+fix,3,Vision,They fixed the dishwasher.
+fix,Rating: 1,Interoception,They fixed the dishwasher.
+fix,0 (not at all experienced with that sense),Olfaction,They fixed the dishwasher.
+fix,0 (not at all experienced with that sense),Taste,They fixed the dishwasher.
+fix,2,Hearing,They fixed the price.
+fix,1 (slightly experienced with touch),Touch,They fixed the price.
+fix,2,Vision,They fixed the price.
+fix,0 (not at all experienced with that sense),Interoception,They fixed the price.
+fix,0 (not at all experienced with that sense),Olfaction,They fixed the price.
+fix,0 (not at all experienced with that sense),Taste,They fixed the price.
+fix,2,Hearing,They fixed the radio.
+fix,Rating: 4,Touch,They fixed the radio.
+fix,3,Vision,They fixed the radio.
+fix,1 (very little experienced with that sense),Interoception,They fixed the radio.
+fix,0 (not at all experienced with that sense),Olfaction,They fixed the radio.
+fix,0 (not at all experienced with that sense),Taste,They fixed the radio.
+foundation,1,Hearing,It was a charitable foundation.
+foundation,1,Touch,It was a charitable foundation.
+foundation,2,Vision,It was a charitable foundation.
+foundation,0 (not at all experienced with that sense),Interoception,It was a charitable foundation.
+foundation,0 (not at all experienced with that sense),Olfaction,It was a charitable foundation.
+foundation,0 (not at all experienced with that sense),Taste,It was a charitable foundation.
+foundation,1 (slightly experienced with hearing),Hearing,It was a concrete foundation.
+foundation,Rating: 3,Touch,It was a concrete foundation.
+foundation,4,Vision,It was a concrete foundation.
+foundation,0 (not at all experienced with that sense),Interoception,It was a concrete foundation.
+foundation,1 (very slightly experienced with that sense),Olfaction,It was a concrete foundation.
+foundation,0 (not at all experienced with that sense),Taste,It was a concrete foundation.
+foundation,1,Hearing,It was a wooden foundation.
+foundation,2,Touch,It was a wooden foundation.
+foundation,3,Vision,It was a wooden foundation.
+foundation,0 (not at all experienced with that sense),Interoception,It was a wooden foundation.
+foundation,1,Olfaction,It was a wooden foundation.
+foundation,0 (not at all experienced with that sense),Taste,It was a wooden foundation.
+foundation,1,Hearing,It was an educational foundation.
+foundation,1,Touch,It was an educational foundation.
+foundation,2,Vision,It was an educational foundation.
+foundation,0 (not at all experienced with that sense),Interoception,It was an educational foundation.
+foundation,0 (not at all experienced with that sense),Olfaction,It was an educational foundation.
+foundation,0 (not at all experienced with that sense),Taste,It was an educational foundation.
+function,3,Hearing,It was a business function.
+function,Rating: 1,Touch,It was a business function.
+function,3,Vision,It was a business function.
+function,1 (slightly experienced with that sense),Interoception,It was a business function.
+function,0 (not at all experienced with that sense),Olfaction,It was a business function.
+function,0 (not at all experienced with that sense),Taste,It was a business function.
+function,1,Hearing,It was a linear function.
+function,0 (not at all experienced with that sense),Touch,It was a linear function.
+function,1,Vision,It was a linear function.
+function,0 (not at all experienced with that sense),Interoception,It was a linear function.
+function,0 (not at all experienced with that sense),Olfaction,It was a linear function.
+function,0 (not at all experienced with that sense),Taste,It was a linear function.
+function,1,Hearing,It was a mathematical function.
+function,0 (not at all experienced with that sense),Touch,It was a mathematical function.
+function,2,Vision,It was a mathematical function.
+function,0 (not at all experienced with that sense),Interoception,It was a mathematical function.
+function,0 (not at all experienced with that sense),Olfaction,It was a mathematical function.
+function,0 (not at all experienced with that sense),Taste,It was a mathematical function.
+function,3,Hearing,It was a social function.
+function,Rating: 1,Touch,It was a social function.
+function,3,Vision,It was a social function.
+function,1 (very little experienced with that sense),Interoception,It was a social function.
+function,0 (not at all experienced with that sense),Olfaction,It was a social function.
+function,0 (not at all experienced with that sense),Taste,It was a social function.
+ground,Rating: 1,Hearing,He was on the camp ground.
+ground,Rating: 4,Touch,He was on the camp ground.
+ground,3,Vision,He was on the camp ground.
+ground,Rating: 1,Interoception,He was on the camp ground.
+ground,2,Olfaction,He was on the camp ground.
+ground,0 (not at all experienced with that sense),Taste,He was on the camp ground.
+ground,2,Hearing,He was on the firm ground.
+ground,3,Touch,He was on the firm ground.
+ground,3,Vision,He was on the firm ground.
+ground,Rating: 1,Interoception,He was on the firm ground.
+ground,2,Olfaction,He was on the firm ground.
+ground,0 (not at all experienced with that sense),Taste,He was on the firm ground.
+ground,2,Hearing,He was on the frozen ground.
+ground,3,Touch,He was on the frozen ground.
+ground,4,Vision,He was on the frozen ground.
+ground,Rating: 1,Interoception,He was on the frozen ground.
+ground,2,Olfaction,He was on the frozen ground.
+ground,0 (not at all experienced with that sense),Taste,He was on the frozen ground.
+ground,2,Hearing,He was on the parade ground.
+ground,2,Touch,He was on the parade ground.
+ground,3,Vision,He was on the parade ground.
+ground,0 (not at all experienced with that sense),Interoception,He was on the parade ground.
+ground,1 (slightly experienced with that sense),Olfaction,He was on the parade ground.
+ground,0 (not at all experienced with that sense),Taste,He was on the parade ground.
+guard,2,Hearing,They liked the coast guard.
+guard,2,Touch,They liked the coast guard.
+guard,3,Vision,They liked the coast guard.
+guard,1,Interoception,They liked the coast guard.
+guard,1 (very little experienced with that sense),Olfaction,They liked the coast guard.
+guard,0 (not at all experienced with that sense),Taste,They liked the coast guard.
+guard,3,Hearing,They liked the national guard.
+guard,1 (very little experienced through touch),Touch,They liked the national guard.
+guard,3,Vision,They liked the national guard.
+guard,1,Interoception,They liked the national guard.
+guard,Rating: 1,Olfaction,They liked the national guard.
+guard,0 (not at all experienced with that sense),Taste,They liked the national guard.
+guard,3,Hearing,They liked the night guard.
+guard,2,Touch,They liked the night guard.
+guard,3,Vision,They liked the night guard.
+guard,1 (very little experienced with that sense),Interoception,They liked the night guard.
+guard,1 (very slightly experienced with that sense),Olfaction,They liked the night guard.
+guard,0 (not at all experienced with that sense),Taste,They liked the night guard.
+guard,2,Hearing,They liked the security guard.
+guard,Rating: 1,Touch,They liked the security guard.
+guard,3,Vision,They liked the security guard.
+guard,0 (not at all experienced with that sense),Interoception,They liked the security guard.
+guard,1 (very little experienced with that sense),Olfaction,They liked the security guard.
+guard,0 (not at all experienced with that sense),Taste,They liked the security guard.
+guide,3,Hearing,He had a friendly guide.
+guide,2,Touch,He had a friendly guide.
+guide,3,Vision,He had a friendly guide.
+guide,Rating: 1,Interoception,He had a friendly guide.
+guide,0 (not at all experienced with that sense),Olfaction,He had a friendly guide.
+guide,0 (not at all experienced with that sense),Taste,He had a friendly guide.
+guide,4,Hearing,He had a talkative guide.
+guide,Rating: 1,Touch,He had a talkative guide.
+guide,3,Vision,He had a talkative guide.
+guide,1 (very little experienced with that sense),Interoception,He had a talkative guide.
+guide,0 (not at all experienced with that sense),Olfaction,He had a talkative guide.
+guide,0 (not at all experienced with that sense),Taste,He had a talkative guide.
+guide,2,Hearing,He had a TV guide.
+guide,Rating: 1,Touch,He had a TV guide.
+guide,2,Vision,He had a TV guide.
+guide,0 (not at all experienced with that sense),Interoception,He had a TV guide.
+guide,0 (not at all experienced with that sense),Olfaction,He had a TV guide.
+guide,0 (not at all experienced with that sense),Taste,He had a TV guide.
+guide,2,Hearing,He had an assembly guide.
+guide,Rating: 1,Touch,He had an assembly guide.
+guide,3,Vision,He had an assembly guide.
+guide,0 (not at all experienced with that sense),Interoception,He had an assembly guide.
+guide,0 (not at all experienced with that sense),Olfaction,He had an assembly guide.
+guide,0 (not at all experienced with that sense),Taste,He had an assembly guide.
+hail,3,Hearing,They hailed a cab.
+hail,1,Touch,They hailed a cab.
+hail,3,Vision,They hailed a cab.
+hail,1 (very slightly experienced with that sense),Interoception,They hailed a cab.
+hail,0 (not at all experienced with that sense),Olfaction,They hailed a cab.
+hail,0 (not at all experienced with that sense),Taste,They hailed a cab.
+hail,3,Hearing,They hailed a friend.
+hail,1,Touch,They hailed a friend.
+hail,3,Vision,They hailed a friend.
+hail,1 (very slightly experienced with that sense),Interoception,They hailed a friend.
+hail,0 (not at all experienced with that sense),Olfaction,They hailed a friend.
+hail,0 (not at all experienced with that sense),Taste,They hailed a friend.
+hail,3,Hearing,They hailed a guest.
+hail,1 (very little experienced with touch),Touch,They hailed a guest.
+hail,2,Vision,They hailed a guest.
+hail,1 (very slightly experienced with that sense),Interoception,They hailed a guest.
+hail,0 (not at all experienced with that sense),Olfaction,They hailed a guest.
+hail,0 (not at all experienced with that sense),Taste,They hailed a guest.
+hail,2,Hearing,They hailed a taxi.
+hail,1 (slightly experienced with touch),Touch,They hailed a taxi.
+hail,3,Vision,They hailed a taxi.
+hail,1 (very little experienced with that sense),Interoception,They hailed a taxi.
+hail,0 (not at all experienced with that sense),Olfaction,They hailed a taxi.
+hail,0 (not at all experienced with that sense),Taste,They hailed a taxi.
+home,2,Hearing,It was a childhood home.
+home,Rating: 2,Touch,It was a childhood home.
+home,3,Vision,It was a childhood home.
+home,2,Interoception,It was a childhood home.
+home,2,Olfaction,It was a childhood home.
+home,0 (not at all experienced with that sense),Taste,It was a childhood home.
+home,2,Hearing,It was a funeral home.
+home,Rating: 2,Touch,It was a funeral home.
+home,3,Vision,It was a funeral home.
+home,1 (very little experienced with that sense),Interoception,It was a funeral home.
+home,2,Olfaction,It was a funeral home.
+home,0 (not at all experienced with that sense),Taste,It was a funeral home.
+home,2,Hearing,It was a nursing home.
+home,Rating: 2,Touch,It was a nursing home.
+home,3,Vision,It was a nursing home.
+home,Rating: 1,Interoception,It was a nursing home.
+home,2,Olfaction,It was a nursing home.
+home,0 (not at all experienced with that sense),Taste,It was a nursing home.
+home,2,Hearing,It was a summer home.
+home,2,Touch,It was a summer home.
+home,3,Vision,It was a summer home.
+home,1 (very little experienced with that sense),Interoception,It was a summer home.
+home,2,Olfaction,It was a summer home.
+home,0 (not at all experienced with that sense),Taste,It was a summer home.
+intelligence,2,Hearing,They had classified intelligence.
+intelligence,0 (not at all experienced with that sense),Touch,They had classified intelligence.
+intelligence,1,Vision,They had classified intelligence.
+intelligence,0 (not at all experienced with that sense),Interoception,They had classified intelligence.
+intelligence,0 (not at all experienced with that sense),Olfaction,They had classified intelligence.
+intelligence,0 (not at all experienced with that sense),Taste,They had classified intelligence.
+intelligence,1,Hearing,They had innate intelligence.
+intelligence,0 (not at all experienced with that sense),Touch,They had innate intelligence.
+intelligence,1 (very little experienced with sight),Vision,They had innate intelligence.
+intelligence,1 (very little experienced with that sense),Interoception,They had innate intelligence.
+intelligence,0 (not at all experienced with that sense),Olfaction,They had innate intelligence.
+intelligence,0 (not at all experienced with that sense),Taste,They had innate intelligence.
+intelligence,2,Hearing,They had military intelligence.
+intelligence,0 (not at all experienced with that sense),Touch,They had military intelligence.
+intelligence,2,Vision,They had military intelligence.
+intelligence,1 (very little experienced with that sense),Interoception,They had military intelligence.
+intelligence,0 (not at all experienced with that sense),Olfaction,They had military intelligence.
+intelligence,0 (not at all experienced with that sense),Taste,They had military intelligence.
+intelligence,1,Hearing,They had natural intelligence.
+intelligence,0 (not at all experienced with that sense),Touch,They had natural intelligence.
+intelligence,1 (very little experienced with sight),Vision,They had natural intelligence.
+intelligence,1 (very little experienced with that sense),Interoception,They had natural intelligence.
+intelligence,0 (not at all experienced with that sense),Olfaction,They had natural intelligence.
+intelligence,0 (not at all experienced with that sense),Taste,They had natural intelligence.
+issue,2,Hearing,It was a political issue.
+issue,0 (not at all experienced with touch),Touch,It was a political issue.
+issue,1,Vision,It was a political issue.
+issue,0 (not at all experienced with that sense),Interoception,It was a political issue.
+issue,0 (not at all experienced with that sense),Olfaction,It was a political issue.
+issue,0 (not at all experienced with that sense),Taste,It was a political issue.
+issue,1,Hearing,It was a sensitive issue.
+issue,0 (not at all experienced with that sense),Touch,It was a sensitive issue.
+issue,1,Vision,It was a sensitive issue.
+issue,1 (very slightly experienced with that sense),Interoception,It was a sensitive issue.
+issue,0 (not at all experienced with that sense),Olfaction,It was a sensitive issue.
+issue,0 (not at all experienced with that sense),Taste,It was a sensitive issue.
+issue,1,Hearing,It was a special issue.
+issue,0 (not at all experienced with that sense),Touch,It was a special issue.
+issue,1,Vision,It was a special issue.
+issue,0 (not at all experienced with that sense),Interoception,It was a special issue.
+issue,0 (not at all experienced with that sense),Olfaction,It was a special issue.
+issue,0 (not at all experienced with that sense),Taste,It was a special issue.
+issue,1,Hearing,It was a weekly issue.
+issue,0 (not at all experienced with touch),Touch,It was a weekly issue.
+issue,1,Vision,It was a weekly issue.
+issue,0 (not at all experienced with that sense),Interoception,It was a weekly issue.
+issue,0 (not at all experienced with that sense),Olfaction,It was a weekly issue.
+issue,0 (not at all experienced with that sense),Taste,It was a weekly issue.
+jam,1,Hearing,It was a blackberry jam.
+jam,Rating: 3,Touch,It was a blackberry jam.
+jam,4,Vision,It was a blackberry jam.
+jam,2,Interoception,It was a blackberry jam.
+jam,4,Olfaction,It was a blackberry jam.
+jam,4,Taste,It was a blackberry jam.
+jam,2,Hearing,It was a paper jam.
+jam,Rating: 3,Touch,It was a paper jam.
+jam,3,Vision,It was a paper jam.
+jam,Rating: 0 (not at all experienced with,Interoception,It was a paper jam.
+jam,1 (very slightly experienced with that sense),Olfaction,It was a paper jam.
+jam,2,Taste,It was a paper jam.
+jam,1,Hearing,It was a peach jam.
+jam,Rating: 3,Touch,It was a peach jam.
+jam,4,Vision,It was a peach jam.
+jam,2,Interoception,It was a peach jam.
+jam,4,Olfaction,It was a peach jam.
+jam,4,Taste,It was a peach jam.
+jam,3,Hearing,It was a traffic jam.
+jam,Rating: 1,Touch,It was a traffic jam.
+jam,4,Vision,It was a traffic jam.
+jam,1 (very little experienced with that sense),Interoception,It was a traffic jam.
+jam,Rating: 1,Olfaction,It was a traffic jam.
+jam,1 (very little experienced with that sense),Taste,It was a traffic jam.
+key,2,Hearing,It was a backspace key.
+key,Rating: 4,Touch,It was a backspace key.
+key,2,Vision,It was a backspace key.
+key,0 (not at all experienced with that sense),Interoception,It was a backspace key.
+key,0 (not at all experienced with that sense),Olfaction,It was a backspace key.
+key,0 (not at all experienced with that sense),Taste,It was a backspace key.
+key,2,Hearing,It was a delete key.
+key,Rating: 4,Touch,It was a delete key.
+key,2,Vision,It was a delete key.
+key,0 (not at all experienced with that sense),Interoception,It was a delete key.
+key,0 (not at all experienced with that sense),Olfaction,It was a delete key.
+key,0 (not at all experienced with that sense),Taste,It was a delete key.
+key,1,Hearing,It was a duplicate key.
+key,3,Touch,It was a duplicate key.
+key,3,Vision,It was a duplicate key.
+key,0 (not at all experienced with that sense),Interoception,It was a duplicate key.
+key,1 (very slightly experienced with that sense),Olfaction,It was a duplicate key.
+key,0 (not at all experienced with that sense),Taste,It was a duplicate key.
+key,1,Hearing,It was a master key.
+key,Rating: 4,Touch,It was a master key.
+key,2,Vision,It was a master key.
+key,0 (not at all experienced with that sense),Interoception,It was a master key.
+key,1 (very little experienced with that sense),Olfaction,It was a master key.
+key,0 (not at all experienced with that sense),Taste,It was a master key.
+lamb,2,Hearing,They liked the cute lamb.
+lamb,2,Touch,They liked the cute lamb.
+lamb,4,Vision,They liked the cute lamb.
+lamb,1,Interoception,They liked the cute lamb.
+lamb,2,Olfaction,They liked the cute lamb.
+lamb,2,Taste,They liked the cute lamb.
+lamb,2,Hearing,They liked the friendly lamb.
+lamb,2,Touch,They liked the friendly lamb.
+lamb,3,Vision,They liked the friendly lamb.
+lamb,1,Interoception,They liked the friendly lamb.
+lamb,2,Olfaction,They liked the friendly lamb.
+lamb,2,Taste,They liked the friendly lamb.
+lamb,2,Hearing,They liked the grilled lamb.
+lamb,Rating: 2,Touch,They liked the grilled lamb.
+lamb,3,Vision,They liked the grilled lamb.
+lamb,2,Interoception,They liked the grilled lamb.
+lamb,Rating: 4,Olfaction,They liked the grilled lamb.
+lamb,4,Taste,They liked the grilled lamb.
+lamb,1,Hearing,They liked the marinated lamb.
+lamb,Rating: 2,Touch,They liked the marinated lamb.
+lamb,3,Vision,They liked the marinated lamb.
+lamb,2,Interoception,They liked the marinated lamb.
+lamb,4,Olfaction,They liked the marinated lamb.
+lamb,4,Taste,They liked the marinated lamb.
+lap,2,Hearing,She lapped the competitors.
+lap,Rating: 1,Touch,She lapped the competitors.
+lap,3,Vision,She lapped the competitors.
+lap,Rating: 1,Interoception,She lapped the competitors.
+lap,0 (not at all experienced with that sense),Olfaction,She lapped the competitors.
+lap,0 (not at all experienced with that sense),Taste,She lapped the competitors.
+lap,3,Hearing,She lapped the milk.
+lap,Rating: 3,Touch,She lapped the milk.
+lap,3,Vision,She lapped the milk.
+lap,Rating: 1,Interoception,She lapped the milk.
+lap,2,Olfaction,She lapped the milk.
+lap,2,Taste,She lapped the milk.
+lap,3,Hearing,She lapped the runners.
+lap,Rating: 1,Touch,She lapped the runners.
+lap,3,Vision,She lapped the runners.
+lap,Rating: 1,Interoception,She lapped the runners.
+lap,Rating: 0 (not at all experienced with,Olfaction,She lapped the runners.
+lap,0 (not at all experienced with that sense),Taste,She lapped the runners.
+lap,3,Hearing,She lapped the water.
+lap,Rating: 4,Touch,She lapped the water.
+lap,3,Vision,She lapped the water.
+lap,Rating: 2,Interoception,She lapped the water.
+lap,Rating: 1,Olfaction,She lapped the water.
+lap,2,Taste,She lapped the water.
+load,3,Hearing,She loaded the gun.
+load,Rating: 4,Touch,She loaded the gun.
+load,3,Vision,She loaded the gun.
+load,Rating: 1,Interoception,She loaded the gun.
+load,1 (very slightly experienced with that sense),Olfaction,She loaded the gun.
+load,0 (not at all experienced with that sense),Taste,She loaded the gun.
+load,3,Hearing,She loaded the rifle.
+load,Rating: 4,Touch,She loaded the rifle.
+load,3,Vision,She loaded the rifle.
+load,Rating: 1,Interoception,She loaded the rifle.
+load,Rating: 1,Olfaction,She loaded the rifle.
+load,0 (not at all experienced with that sense),Taste,She loaded the rifle.
+load,2,Hearing,She loaded the truck.
+load,Rating: 4,Touch,She loaded the truck.
+load,3,Vision,She loaded the truck.
+load,1 (slightly experienced with that sense),Interoception,She loaded the truck.
+load,0 (not at all experienced with that sense),Olfaction,She loaded the truck.
+load,0 (not at all experienced with that sense),Taste,She loaded the truck.
+load,2,Hearing,She loaded the van.
+load,Rating: 4,Touch,She loaded the van.
+load,3,Vision,She loaded the van.
+load,1 (very little experienced with that sense),Interoception,She loaded the van.
+load,0 (not at all experienced with that sense),Olfaction,She loaded the van.
+load,0 (not at all experienced with that sense),Taste,She loaded the van.
+lock,1,Hearing,She had brown locks.
+lock,Rating: 2,Touch,She had brown locks.
+lock,4,Vision,She had brown locks.
+lock,0 (not at all experienced with that sense),Interoception,She had brown locks.
+lock,1 (very slightly experienced with that sense),Olfaction,She had brown locks.
+lock,0 (not at all experienced with that sense),Taste,She had brown locks.
+lock,1,Hearing,She had curly locks.
+lock,Rating: 2,Touch,She had curly locks.
+lock,3,Vision,She had curly locks.
+lock,0 (not at all experienced with that sense),Interoception,She had curly locks.
+lock,0 (not at all experienced with that sense),Olfaction,She had curly locks.
+lock,0 (not at all experienced with that sense),Taste,She had curly locks.
+lock,2,Hearing,She had door locks.
+lock,3,Touch,She had door locks.
+lock,3,Vision,She had door locks.
+lock,0 (not at all experienced with that sense),Interoception,She had door locks.
+lock,0 (not at all experienced with that sense),Olfaction,She had door locks.
+lock,0 (not at all experienced with that sense),Taste,She had door locks.
+lock,2,Hearing,She had window locks.
+lock,2,Touch,She had window locks.
+lock,3,Vision,She had window locks.
+lock,0 (not at all experienced with that sense),Interoception,She had window locks.
+lock,0 (not at all experienced with that sense),Olfaction,She had window locks.
+lock,0 (not at all experienced with that sense),Taste,She had window locks.
+lunch,2,Hearing,They liked the afternoon lunch.
+lunch,Rating: 1,Touch,They liked the afternoon lunch.
+lunch,3,Vision,They liked the afternoon lunch.
+lunch,3,Interoception,They liked the afternoon lunch.
+lunch,3,Olfaction,They liked the afternoon lunch.
+lunch,3,Taste,They liked the afternoon lunch.
+lunch,2,Hearing,They liked the hot lunch.
+lunch,Rating: 1,Touch,They liked the hot lunch.
+lunch,3,Vision,They liked the hot lunch.
+lunch,2,Interoception,They liked the hot lunch.
+lunch,3,Olfaction,They liked the hot lunch.
+lunch,3,Taste,They liked the hot lunch.
+lunch,1,Hearing,They liked the sandwich lunch.
+lunch,Rating: 1,Touch,They liked the sandwich lunch.
+lunch,2,Vision,They liked the sandwich lunch.
+lunch,2,Interoception,They liked the sandwich lunch.
+lunch,3,Olfaction,They liked the sandwich lunch.
+lunch,3,Taste,They liked the sandwich lunch.
+lunch,2,Hearing,They liked the women's lunch.
+lunch,Rating: 2,Touch,They liked the women's lunch.
+lunch,2,Vision,They liked the women's lunch.
+lunch,2,Interoception,They liked the women's lunch.
+lunch,2,Olfaction,They liked the women's lunch.
+lunch,3,Taste,They liked the women's lunch.
+market,3,Hearing,He liked the fish market.
+market,Rating: 2,Touch,He liked the fish market.
+market,4,Vision,He liked the fish market.
+market,Rating: 1,Interoception,He liked the fish market.
+market,3,Olfaction,He liked the fish market.
+market,Rating: 1,Taste,He liked the fish market.
+market,3,Hearing,He liked the flea market.
+market,Rating: 2,Touch,He liked the flea market.
+market,4,Vision,He liked the flea market.
+market,1,Interoception,He liked the flea market.
+market,2,Olfaction,He liked the flea market.
+market,0 (not at all experienced with that sense),Taste,He liked the flea market.
+market,2,Hearing,He liked the housing market.
+market,Rating: 1,Touch,He liked the housing market.
+market,2,Vision,He liked the housing market.
+market,0 (not at all experienced with that sense),Interoception,He liked the housing market.
+market,2,Olfaction,He liked the housing market.
+market,0 (not at all experienced with that sense),Taste,He liked the housing market.
+market,2,Hearing,He liked the stock market.
+market,Rating: 1,Touch,He liked the stock market.
+market,2,Vision,He liked the stock market.
+market,0 (not at all experienced with that sense),Interoception,He liked the stock market.
+market,Rating: 1,Olfaction,He liked the stock market.
+market,0 (not at all experienced with that sense),Taste,He liked the stock market.
+match,2,Hearing,It was a burning match.
+match,Rating: 2,Touch,It was a burning match.
+match,4,Vision,It was a burning match.
+match,Rating: 0 (not at all experienced with,Interoception,It was a burning match.
+match,Rating: 4,Olfaction,It was a burning match.
+match,0 (not at all experienced with that sense),Taste,It was a burning match.
+match,2,Hearing,It was a lit match.
+match,Rating: 3,Touch,It was a lit match.
+match,4,Vision,It was a lit match.
+match,0 (not at all experienced with that sense),Interoception,It was a lit match.
+match,Rating: 3,Olfaction,It was a lit match.
+match,0 (not at all experienced with that sense),Taste,It was a lit match.
+match,4,Hearing,It was a soccer match.
+match,Rating: 1,Touch,It was a soccer match.
+match,4,Vision,It was a soccer match.
+match,2,Interoception,It was a soccer match.
+match,1 (very slightly experienced with that sense),Olfaction,It was a soccer match.
+match,0 (not at all experienced with that sense),Taste,It was a soccer match.
+match,4,Hearing,It was a tennis match.
+match,Rating: 1,Touch,It was a tennis match.
+match,4,Vision,It was a tennis match.
+match,1 (very little experienced with that sense),Interoception,It was a tennis match.
+match,1 (very little experienced with that sense),Olfaction,It was a tennis match.
+match,0 (not at all experienced with that sense),Taste,It was a tennis match.
+medicine,2,Hearing,It was cough medicine.
+medicine,Rating: 2,Touch,It was cough medicine.
+medicine,3,Vision,It was cough medicine.
+medicine,Rating: 4,Interoception,It was cough medicine.
+medicine,3,Olfaction,It was cough medicine.
+medicine,Rating: 4,Taste,It was cough medicine.
+medicine,2,Hearing,It was orthopedic medicine.
+medicine,2,Touch,It was orthopedic medicine.
+medicine,3,Vision,It was orthopedic medicine.
+medicine,3,Interoception,It was orthopedic medicine.
+medicine,2,Olfaction,It was orthopedic medicine.
+medicine,2,Taste,It was orthopedic medicine.
+medicine,1,Hearing,It was prescription medicine.
+medicine,2,Touch,It was prescription medicine.
+medicine,3,Vision,It was prescription medicine.
+medicine,3,Interoception,It was prescription medicine.
+medicine,2,Olfaction,It was prescription medicine.
+medicine,2,Taste,It was prescription medicine.
+medicine,2,Hearing,It was veterinary medicine.
+medicine,Rating: 2,Touch,It was veterinary medicine.
+medicine,3,Vision,It was veterinary medicine.
+medicine,2,Interoception,It was veterinary medicine.
+medicine,2,Olfaction,It was veterinary medicine.
+medicine,2,Taste,It was veterinary medicine.
+message,4,Hearing,There was a clear message.
+message,0 (not at all experienced with touch),Touch,There was a clear message.
+message,2,Vision,There was a clear message.
+message,0 (not at all experienced with that sense),Interoception,There was a clear message.
+message,0 (not at all experienced with that sense),Olfaction,There was a clear message.
+message,0 (not at all experienced with that sense),Taste,There was a clear message.
+message,2,Hearing,There was a computer message.
+message,Rating: 1,Touch,There was a computer message.
+message,3,Vision,There was a computer message.
+message,Rating: 1,Interoception,There was a computer message.
+message,0 (not at all experienced with that sense),Olfaction,There was a computer message.
+message,0 (not at all experienced with that sense),Taste,There was a computer message.
+message,4,Hearing,There was a phone message.
+message,Rating: 0 (not at all experienced with,Touch,There was a phone message.
+message,2,Vision,There was a phone message.
+message,Rating: 1,Interoception,There was a phone message.
+message,0 (not at all experienced with that sense),Olfaction,There was a phone message.
+message,0 (not at all experienced with that sense),Taste,There was a phone message.
+message,3,Hearing,There was an urgent message.
+message,1 (very little experienced through touch),Touch,There was an urgent message.
+message,2,Vision,There was an urgent message.
+message,1 (very little experienced with that sense),Interoception,There was an urgent message.
+message,0 (not at all experienced with that sense),Olfaction,There was an urgent message.
+message,0 (not at all experienced with that sense),Taste,There was an urgent message.
+mold,1,Hearing,It was a clay mold.
+mold,3,Touch,It was a clay mold.
+mold,3,Vision,It was a clay mold.
+mold,Rating: 1,Interoception,It was a clay mold.
+mold,2,Olfaction,It was a clay mold.
+mold,1 (very slightly experienced with taste),Taste,It was a clay mold.
+mold,0 (not at all experienced with that sense),Hearing,It was a fungal mold.
+mold,Rating: 2,Touch,It was a fungal mold.
+mold,3,Vision,It was a fungal mold.
+mold,1,Interoception,It was a fungal mold.
+mold,4,Olfaction,It was a fungal mold.
+mold,2,Taste,It was a fungal mold.
+mold,0 (not at all experienced with that sense),Hearing,It was a harmful mold.
+mold,Rating: 2,Touch,It was a harmful mold.
+mold,3,Vision,It was a harmful mold.
+mold,Rating: 1,Interoception,It was a harmful mold.
+mold,4,Olfaction,It was a harmful mold.
+mold,Rating: 2,Taste,It was a harmful mold.
+mold,1,Hearing,It was a rubber mold.
+mold,3,Touch,It was a rubber mold.
+mold,3,Vision,It was a rubber mold.
+mold,1 (very little experienced with that sense),Interoception,It was a rubber mold.
+mold,3,Olfaction,It was a rubber mold.
+mold,2,Taste,It was a rubber mold.
+mole,0 (not at all experienced with that sense),Hearing,She saw the cancerous mole.
+mole,Rating: 2,Touch,She saw the cancerous mole.
+mole,4,Vision,She saw the cancerous mole.
+mole,1 (very little experienced with that sense),Interoception,She saw the cancerous mole.
+mole,1 (very slightly experienced with that sense),Olfaction,She saw the cancerous mole.
+mole,0 (not at all experienced with that sense),Taste,She saw the cancerous mole.
+mole,1,Hearing,She saw the cute mole.
+mole,Rating: 2,Touch,She saw the cute mole.
+mole,4,Vision,She saw the cute mole.
+mole,0 (not at all experienced with that sense),Interoception,She saw the cute mole.
+mole,Rating: 1,Olfaction,She saw the cute mole.
+mole,0 (not at all experienced with that sense),Taste,She saw the cute mole.
+mole,2,Hearing,She saw the fast mole.
+mole,Rating: 2,Touch,She saw the fast mole.
+mole,4,Vision,She saw the fast mole.
+mole,0 (not at all experienced with that sense),Interoception,She saw the fast mole.
+mole,1,Olfaction,She saw the fast mole.
+mole,0 (not at all experienced with that sense),Taste,She saw the fast mole.
+mole,0 (not at all experienced with that sense),Hearing,She saw the raised mole.
+mole,2,Touch,She saw the raised mole.
+mole,4,Vision,She saw the raised mole.
+mole,0 (not at all experienced with that sense),Interoception,She saw the raised mole.
+mole,0 (not at all experienced with that sense),Olfaction,She saw the raised mole.
+mole,0 (not at all experienced with that sense),Taste,She saw the raised mole.
+movement,2,Hearing,He liked the civil-rights movement.
+movement,Rating: 1,Touch,He liked the civil-rights movement.
+movement,3,Vision,He liked the civil-rights movement.
+movement,Rating: 1,Interoception,He liked the civil-rights movement.
+movement,0 (not at all experienced with that sense),Olfaction,He liked the civil-rights movement.
+movement,0 (not at all experienced with that sense),Taste,He liked the civil-rights movement.
+movement,2,Hearing,He liked the feminist movement.
+movement,Rating: 1,Touch,He liked the feminist movement.
+movement,2,Vision,He liked the feminist movement.
+movement,1 (very little experienced with that sense),Interoception,He liked the feminist movement.
+movement,0 (not at all experienced with that sense),Olfaction,He liked the feminist movement.
+movement,0 (not at all experienced with that sense),Taste,He liked the feminist movement.
+movement,2,Hearing,He liked the graceful movement.
+movement,Rating: 2,Touch,He liked the graceful movement.
+movement,4,Vision,He liked the graceful movement.
+movement,2,Interoception,He liked the graceful movement.
+movement,0 (not at all experienced with that sense),Olfaction,He liked the graceful movement.
+movement,0 (not at all experienced with that sense),Taste,He liked the graceful movement.
+movement,2,Hearing,He liked the rhythmic movement.
+movement,Rating: 4,Touch,He liked the rhythmic movement.
+movement,3,Vision,He liked the rhythmic movement.
+movement,3,Interoception,He liked the rhythmic movement.
+movement,0 (not at all experienced with that sense),Olfaction,He liked the rhythmic movement.
+movement,0 (not at all experienced with that sense),Taste,He liked the rhythmic movement.
+newspaper,1,Hearing,It was a daily newspaper.
+newspaper,Rating: 4,Touch,It was a daily newspaper.
+newspaper,4,Vision,It was a daily newspaper.
+newspaper,0 (not at all experienced with that sense),Interoception,It was a daily newspaper.
+newspaper,2,Olfaction,It was a daily newspaper.
+newspaper,0 (not at all experienced with that sense),Taste,It was a daily newspaper.
+newspaper,1,Hearing,It was a faded newspaper.
+newspaper,3,Touch,It was a faded newspaper.
+newspaper,4,Vision,It was a faded newspaper.
+newspaper,0 (not at all experienced with that sense),Interoception,It was a faded newspaper.
+newspaper,2,Olfaction,It was a faded newspaper.
+newspaper,0 (not at all experienced with that sense),Taste,It was a faded newspaper.
+newspaper,2,Hearing,It was a national newspaper.
+newspaper,2,Touch,It was a national newspaper.
+newspaper,4,Vision,It was a national newspaper.
+newspaper,0 (not at all experienced with that sense),Interoception,It was a national newspaper.
+newspaper,2,Olfaction,It was a national newspaper.
+newspaper,0 (not at all experienced with that sense),Taste,It was a national newspaper.
+newspaper,2,Hearing,It was a shredded newspaper.
+newspaper,Rating: 3,Touch,It was a shredded newspaper.
+newspaper,4,Vision,It was a shredded newspaper.
+newspaper,0 (not at all experienced with that sense),Interoception,It was a shredded newspaper.
+newspaper,2,Olfaction,It was a shredded newspaper.
+newspaper,0 (not at all experienced with that sense),Taste,It was a shredded newspaper.
+orange,0 (not at all experienced with that sense),Hearing,It was a bright orange.
+orange,Rating: 2,Touch,It was a bright orange.
+orange,4,Vision,It was a bright orange.
+orange,0 (not at all experienced with that sense),Interoception,It was a bright orange.
+orange,2,Olfaction,It was a bright orange.
+orange,2,Taste,It was a bright orange.
+orange,1,Hearing,It was a juicy orange.
+orange,Rating: 4,Touch,It was a juicy orange.
+orange,4,Vision,It was a juicy orange.
+orange,Rating: 2,Interoception,It was a juicy orange.
+orange,4,Olfaction,It was a juicy orange.
+orange,4,Taste,It was a juicy orange.
+orange,0 (not at all experienced with that sense),Hearing,It was a reddish orange.
+orange,Rating: 1,Touch,It was a reddish orange.
+orange,4,Vision,It was a reddish orange.
+orange,0 (not at all experienced with that sense),Interoception,It was a reddish orange.
+orange,2,Olfaction,It was a reddish orange.
+orange,2,Taste,It was a reddish orange.
+orange,1,Hearing,It was a ripe orange.
+orange,Rating: 3,Touch,It was a ripe orange.
+orange,4,Vision,It was a ripe orange.
+orange,Rating: 1,Interoception,It was a ripe orange.
+orange,4,Olfaction,It was a ripe orange.
+orange,4,Taste,It was a ripe orange.
+page,0 (not at all experienced with that sense),Hearing,He saw the blank page.
+page,Rating: 3,Touch,He saw the blank page.
+page,4,Vision,He saw the blank page.
+page,0 (not at all experienced with that sense),Interoception,He saw the blank page.
+page,1 (very slightly experienced with that sense),Olfaction,He saw the blank page.
+page,0 (not at all experienced with that sense),Taste,He saw the blank page.
+page,2,Hearing,He saw the loyal page.
+page,Rating: 1,Touch,He saw the loyal page.
+page,3,Vision,He saw the loyal page.
+page,0 (not at all experienced with that sense),Interoception,He saw the loyal page.
+page,0 (not at all experienced with that sense),Olfaction,He saw the loyal page.
+page,0 (not at all experienced with that sense),Taste,He saw the loyal page.
+page,1,Hearing,He saw the ripped page.
+page,Rating: 4,Touch,He saw the ripped page.
+page,4,Vision,He saw the ripped page.
+page,0 (not at all experienced with that sense),Interoception,He saw the ripped page.
+page,1 (very slightly experienced with that sense),Olfaction,He saw the ripped page.
+page,0 (not at all experienced with that sense),Taste,He saw the ripped page.
+page,1 (slightly experienced with hearing),Hearing,He saw the young page.
+page,Rating: 1,Touch,He saw the young page.
+page,4,Vision,He saw the young page.
+page,0 (not at all experienced with that sense),Interoception,He saw the young page.
+page,0 (not at all experienced with that sense),Olfaction,He saw the young page.
+page,0 (not at all experienced with that sense),Taste,He saw the young page.
+palm,1,Hearing,It was a calloused palm.
+palm,4,Touch,It was a calloused palm.
+palm,3,Vision,It was a calloused palm.
+palm,1,Interoception,It was a calloused palm.
+palm,0 (not at all experienced with that sense),Olfaction,It was a calloused palm.
+palm,0 (not at all experienced with that sense),Taste,It was a calloused palm.
+palm,1,Hearing,It was a tree palm.
+palm,3,Touch,It was a tree palm.
+palm,4,Vision,It was a tree palm.
+palm,0 (not at all experienced with that sense),Interoception,It was a tree palm.
+palm,2,Olfaction,It was a tree palm.
+palm,0 (not at all experienced with that sense),Taste,It was a tree palm.
+palm,1,Hearing,It was a tropical palm.
+palm,Rating: 3,Touch,It was a tropical palm.
+palm,4,Vision,It was a tropical palm.
+palm,0 (not at all experienced with that sense),Interoception,It was a tropical palm.
+palm,2,Olfaction,It was a tropical palm.
+palm,1 (very slightly experienced with taste),Taste,It was a tropical palm.
+palm,1,Hearing,It was a wrinkled palm.
+palm,Rating: 4,Touch,It was a wrinkled palm.
+palm,3,Vision,It was a wrinkled palm.
+palm,1,Interoception,It was a wrinkled palm.
+palm,1 (very slightly experienced with that sense),Olfaction,It was a wrinkled palm.
+palm,0 (not at all experienced with that sense),Taste,It was a wrinkled palm.
+panel,2,Hearing,It was a consumer panel.
+panel,Rating: 2,Touch,It was a consumer panel.
+panel,2,Vision,It was a consumer panel.
+panel,0 (not at all experienced with that sense),Interoception,It was a consumer panel.
+panel,0 (not at all experienced with that sense),Olfaction,It was a consumer panel.
+panel,0 (not at all experienced with that sense),Taste,It was a consumer panel.
+panel,1 (slightly experienced with hearing),Hearing,It was a control panel.
+panel,Rating: 4,Touch,It was a control panel.
+panel,4,Vision,It was a control panel.
+panel,0 (not at all experienced with that sense),Interoception,It was a control panel.
+panel,0 (not at all experienced with that sense),Olfaction,It was a control panel.
+panel,0 (not at all experienced with that sense),Taste,It was a control panel.
+panel,2,Hearing,It was an advisory panel.
+panel,1 (slightly experienced with touch),Touch,It was an advisory panel.
+panel,3,Vision,It was an advisory panel.
+panel,0 (not at all experienced with that sense),Interoception,It was an advisory panel.
+panel,0 (not at all experienced with that sense),Olfaction,It was an advisory panel.
+panel,0 (not at all experienced with that sense),Taste,It was an advisory panel.
+panel,2,Hearing,It was an instrument panel.
+panel,Rating: 3,Touch,It was an instrument panel.
+panel,4,Vision,It was an instrument panel.
+panel,0 (not at all experienced with that sense),Interoception,It was an instrument panel.
+panel,1 (very slightly experienced with that sense),Olfaction,It was an instrument panel.
+panel,0 (not at all experienced with that sense),Taste,It was an instrument panel.
+passage,3,Hearing,It was a biblical passage.
+passage,1 (very little experienced with touch),Touch,It was a biblical passage.
+passage,2,Vision,It was a biblical passage.
+passage,0 (not at all experienced with that sense),Interoception,It was a biblical passage.
+passage,0 (not at all experienced with that sense),Olfaction,It was a biblical passage.
+passage,0 (not at all experienced with that sense),Taste,It was a biblical passage.
+passage,1,Hearing,It was a literary passage.
+passage,Rating: 1,Touch,It was a literary passage.
+passage,2,Vision,It was a literary passage.
+passage,0 (not at all experienced with that sense),Interoception,It was a literary passage.
+passage,0 (not at all experienced with that sense),Olfaction,It was a literary passage.
+passage,0 (not at all experienced with that sense),Taste,It was a literary passage.
+passage,1,Hearing,It was a narrow passage.
+passage,2,Touch,It was a narrow passage.
+passage,3,Vision,It was a narrow passage.
+passage,0 (not at all experienced with that sense),Interoception,It was a narrow passage.
+passage,1 (very slightly experienced with that sense),Olfaction,It was a narrow passage.
+passage,0 (not at all experienced with that sense),Taste,It was a narrow passage.
+passage,2,Hearing,It was a secret passage.
+passage,2,Touch,It was a secret passage.
+passage,3,Vision,It was a secret passage.
+passage,1 (very little experienced with that sense),Interoception,It was a secret passage.
+passage,1 (very little experienced with that sense),Olfaction,It was a secret passage.
+passage,0 (not at all experienced with that sense),Taste,It was a secret passage.
+pen,2,Hearing,She penned her animals.
+pen,2,Touch,She penned her animals.
+pen,3,Vision,She penned her animals.
+pen,0 (not at all experienced with that sense),Interoception,She penned her animals.
+pen,Rating: 1,Olfaction,She penned her animals.
+pen,0 (not at all experienced with that sense),Taste,She penned her animals.
+pen,2,Hearing,She penned her livestock.
+pen,Rating: 3,Touch,She penned her livestock.
+pen,3,Vision,She penned her livestock.
+pen,0 (not at all experienced with that sense),Interoception,She penned her livestock.
+pen,Rating: 1,Olfaction,She penned her livestock.
+pen,0 (not at all experienced with that sense),Taste,She penned her livestock.
+pen,2,Hearing,She penned her memoirs.
+pen,Rating: 3,Touch,She penned her memoirs.
+pen,3,Vision,She penned her memoirs.
+pen,0 (not at all experienced with that sense),Interoception,She penned her memoirs.
+pen,1 (very little experienced with that sense),Olfaction,She penned her memoirs.
+pen,0 (not at all experienced with that sense),Taste,She penned her memoirs.
+pen,2,Hearing,She penned her thoughts.
+pen,Rating: 3,Touch,She penned her thoughts.
+pen,3,Vision,She penned her thoughts.
+pen,0 (not at all experienced with that sense),Interoception,She penned her thoughts.
+pen,Rating: 1,Olfaction,She penned her thoughts.
+pen,0 (not at all experienced with that sense),Taste,She penned her thoughts.
+perch,2,Hearing,It was a freshwater perch.
+perch,Rating: 3,Touch,It was a freshwater perch.
+perch,3,Vision,It was a freshwater perch.
+perch,Rating: 1,Interoception,It was a freshwater perch.
+perch,2,Olfaction,It was a freshwater perch.
+perch,2,Taste,It was a freshwater perch.
+perch,2,Hearing,It was a lofty perch.
+perch,2,Touch,It was a lofty perch.
+perch,3,Vision,It was a lofty perch.
+perch,0 (not at all experienced with that sense),Interoception,It was a lofty perch.
+perch,1,Olfaction,It was a lofty perch.
+perch,0 (not at all experienced with that sense),Taste,It was a lofty perch.
+perch,1,Hearing,It was a secure perch.
+perch,Rating: 3,Touch,It was a secure perch.
+perch,3,Vision,It was a secure perch.
+perch,0 (not at all experienced with that sense),Interoception,It was a secure perch.
+perch,1 (very slightly experienced with that sense),Olfaction,It was a secure perch.
+perch,0 (not at all experienced with that sense),Taste,It was a secure perch.
+perch,2,Hearing,It was a tasty perch.
+perch,Rating: 2,Touch,It was a tasty perch.
+perch,3,Vision,It was a tasty perch.
+perch,2,Interoception,It was a tasty perch.
+perch,3,Olfaction,It was a tasty perch.
+perch,4,Taste,It was a tasty perch.
+pick,2,Hearing,He picked his coffee.
+pick,Rating: 4,Touch,He picked his coffee.
+pick,2,Vision,He picked his coffee.
+pick,Rating: 1,Interoception,He picked his coffee.
+pick,2,Olfaction,He picked his coffee.
+pick,Rating: 0 (not at all experienced with,Taste,He picked his coffee.
+pick,2,Hearing,He picked his dinner.
+pick,Rating: 3,Touch,He picked his dinner.
+pick,2,Vision,He picked his dinner.
+pick,Rating: 1,Interoception,He picked his dinner.
+pick,Rating: 1,Olfaction,He picked his dinner.
+pick,Rating: 1,Taste,He picked his dinner.
+pick,2,Hearing,He picked his nose.
+pick,Rating: 4,Touch,He picked his nose.
+pick,2,Vision,He picked his nose.
+pick,Rating: 2,Interoception,He picked his nose.
+pick,Rating: 1,Olfaction,He picked his nose.
+pick,Rating: 1,Taste,He picked his nose.
+pick,2,Hearing,He picked his scab.
+pick,3,Touch,He picked his scab.
+pick,3,Vision,He picked his scab.
+pick,2,Interoception,He picked his scab.
+pick,0 (not at all experienced with that sense),Olfaction,He picked his scab.
+pick,Rating: 0 (not at all experienced with,Taste,He picked his scab.
+pitcher,3,Hearing,He saw the fast pitcher.
+pitcher,Rating: 2,Touch,He saw the fast pitcher.
+pitcher,4,Vision,He saw the fast pitcher.
+pitcher,Rating: 1,Interoception,He saw the fast pitcher.
+pitcher,0 (not at all experienced with that sense),Olfaction,He saw the fast pitcher.
+pitcher,0 (not at all experienced with that sense),Taste,He saw the fast pitcher.
+pitcher,1,Hearing,He saw the glass pitcher.
+pitcher,Rating: 2,Touch,He saw the glass pitcher.
+pitcher,4,Vision,He saw the glass pitcher.
+pitcher,0 (not at all experienced with that sense),Interoception,He saw the glass pitcher.
+pitcher,Rating: 1,Olfaction,He saw the glass pitcher.
+pitcher,Rating: 1,Taste,He saw the glass pitcher.
+pitcher,1,Hearing,He saw the plastic pitcher.
+pitcher,Rating: 3,Touch,He saw the plastic pitcher.
+pitcher,4,Vision,He saw the plastic pitcher.
+pitcher,0 (not at all experienced with that sense),Interoception,He saw the plastic pitcher.
+pitcher,1 (very little experienced with that sense),Olfaction,He saw the plastic pitcher.
+pitcher,1,Taste,He saw the plastic pitcher.
+pitcher,2,Hearing,He saw the right-handed pitcher.
+pitcher,Rating: 2,Touch,He saw the right-handed pitcher.
+pitcher,4,Vision,He saw the right-handed pitcher.
+pitcher,0 (not at all experienced with that sense),Interoception,He saw the right-handed pitcher.
+pitcher,0 (not at all experienced with that sense),Olfaction,He saw the right-handed pitcher.
+pitcher,0 (not at all experienced with that sense),Taste,He saw the right-handed pitcher.
+poach,2,Hearing,She poached the bear.
+poach,Rating: 1,Touch,She poached the bear.
+poach,3,Vision,She poached the bear.
+poach,1,Interoception,She poached the bear.
+poach,Rating: 3,Olfaction,She poached the bear.
+poach,Rating: 1,Taste,She poached the bear.
+poach,3,Hearing,She poached the deer.
+poach,Rating: 1,Touch,She poached the deer.
+poach,3,Vision,She poached the deer.
+poach,1,Interoception,She poached the deer.
+poach,Rating: 3,Olfaction,She poached the deer.
+poach,Rating: 2,Taste,She poached the deer.
+poach,2,Hearing,She poached the eggs.
+poach,Rating: 1,Touch,She poached the eggs.
+poach,3,Vision,She poached the eggs.
+poach,Rating: 1,Interoception,She poached the eggs.
+poach,2,Olfaction,She poached the eggs.
+poach,Rating: 2,Taste,She poached the eggs.
+poach,2,Hearing,She poached the vegetables.
+poach,Rating: 1,Touch,She poached the vegetables.
+poach,3,Vision,She poached the vegetables.
+poach,Rating: 1,Interoception,She poached the vegetables.
+poach,2,Olfaction,She poached the vegetables.
+poach,2,Taste,She poached the vegetables.
+port,1,Hearing,It was a delicious port.
+port,Rating: 1,Touch,It was a delicious port.
+port,3,Vision,It was a delicious port.
+port,Rating: 3,Interoception,It was a delicious port.
+port,4,Olfaction,It was a delicious port.
+port,4,Taste,It was a delicious port.
+port,2,Hearing,It was a seaside port.
+port,Rating: 2,Touch,It was a seaside port.
+port,4,Vision,It was a seaside port.
+port,1 (very little experienced with that sense),Interoception,It was a seaside port.
+port,3,Olfaction,It was a seaside port.
+port,1 (very little experienced with that sense),Taste,It was a seaside port.
+port,2,Hearing,It was a sweet port.
+port,1,Touch,It was a sweet port.
+port,3,Vision,It was a sweet port.
+port,2,Interoception,It was a sweet port.
+port,3,Olfaction,It was a sweet port.
+port,4,Taste,It was a sweet port.
+port,3,Hearing,It was a windy port.
+port,Rating: 2,Touch,It was a windy port.
+port,4,Vision,It was a windy port.
+port,1 (slightly experienced with that sense),Interoception,It was a windy port.
+port,2,Olfaction,It was a windy port.
+port,0 (not at all experienced with that sense),Taste,It was a windy port.
+position,0 (not at all experienced with that sense),Hearing,He was in a distinguished position.
+position,Rating: 1,Touch,He was in a distinguished position.
+position,2,Vision,He was in a distinguished position.
+position,Rating: 1,Interoception,He was in a distinguished position.
+position,0 (not at all experienced with that sense),Olfaction,He was in a distinguished position.
+position,0 (not at all experienced with that sense),Taste,He was in a distinguished position.
+position,0 (not at all experienced with that sense),Hearing,He was in a fetal position.
+position,2,Touch,He was in a fetal position.
+position,2,Vision,He was in a fetal position.
+position,2,Interoception,He was in a fetal position.
+position,0 (not at all experienced with that sense),Olfaction,He was in a fetal position.
+position,0 (not at all experienced with that sense),Taste,He was in a fetal position.
+position,0 (not at all experienced with that sense),Hearing,He was in a prominent position.
+position,Rating: 1,Touch,He was in a prominent position.
+position,2,Vision,He was in a prominent position.
+position,Rating: 1,Interoception,He was in a prominent position.
+position,0 (not at all experienced with that sense),Olfaction,He was in a prominent position.
+position,0 (not at all experienced with that sense),Taste,He was in a prominent position.
+position,0 (not at all experienced with that sense),Hearing,He was in a yoga position.
+position,2,Touch,He was in a yoga position.
+position,3,Vision,He was in a yoga position.
+position,2,Interoception,He was in a yoga position.
+position,0 (not at all experienced with that sense),Olfaction,He was in a yoga position.
+position,0 (not at all experienced with that sense),Taste,He was in a yoga position.
+post,1,Hearing,It was a challenging post.
+post,Rating: 2,Touch,It was a challenging post.
+post,2,Vision,It was a challenging post.
+post,0 (not at all experienced with that sense),Interoception,It was a challenging post.
+post,0 (not at all experienced with that sense),Olfaction,It was a challenging post.
+post,0 (not at all experienced with that sense),Taste,It was a challenging post.
+post,2,Hearing,It was a fence post.
+post,Rating: 3,Touch,It was a fence post.
+post,3,Vision,It was a fence post.
+post,Rating: 1,Interoception,It was a fence post.
+post,1 (very slightly experienced with that sense),Olfaction,It was a fence post.
+post,0 (not at all experienced with that sense),Taste,It was a fence post.
+post,2,Hearing,It was a teaching post.
+post,1,Touch,It was a teaching post.
+post,2,Vision,It was a teaching post.
+post,0 (not at all experienced with that sense),Interoception,It was a teaching post.
+post,0 (not at all experienced with that sense),Olfaction,It was a teaching post.
+post,0 (not at all experienced with that sense),Taste,It was a teaching post.
+post,1,Hearing,It was a wooden post.
+post,Rating: 3,Touch,It was a wooden post.
+post,4,Vision,It was a wooden post.
+post,0 (not at all experienced with that sense),Interoception,It was a wooden post.
+post,2,Olfaction,It was a wooden post.
+post,0 (not at all experienced with that sense),Taste,It was a wooden post.
+punch,2,Hearing,He had the alcoholic punch.
+punch,Rating: 1,Touch,He had the alcoholic punch.
+punch,3,Vision,He had the alcoholic punch.
+punch,Rating: 2,Interoception,He had the alcoholic punch.
+punch,3,Olfaction,He had the alcoholic punch.
+punch,3,Taste,He had the alcoholic punch.
+punch,2,Hearing,He had the fruit punch.
+punch,Rating: 1,Touch,He had the fruit punch.
+punch,3,Vision,He had the fruit punch.
+punch,Rating: 2,Interoception,He had the fruit punch.
+punch,2,Olfaction,He had the fruit punch.
+punch,3,Taste,He had the fruit punch.
+punch,2,Hearing,He had the quickest punch.
+punch,Rating: 3,Touch,He had the quickest punch.
+punch,3,Vision,He had the quickest punch.
+punch,Rating: 1,Interoception,He had the quickest punch.
+punch,0 (not at all experienced with that sense),Olfaction,He had the quickest punch.
+punch,0 (not at all experienced with that sense),Taste,He had the quickest punch.
+punch,2,Hearing,He had the strongest punch.
+punch,Rating: 4,Touch,He had the strongest punch.
+punch,3,Vision,He had the strongest punch.
+punch,2,Interoception,He had the strongest punch.
+punch,0 (not at all experienced with that sense),Olfaction,He had the strongest punch.
+punch,0 (not at all experienced with that sense),Taste,He had the strongest punch.
+pupil,2,Hearing,She had a brilliant pupil.
+pupil,Rating: 1,Touch,She had a brilliant pupil.
+pupil,4,Vision,She had a brilliant pupil.
+pupil,0 (not at all experienced with that sense),Interoception,She had a brilliant pupil.
+pupil,0 (not at all experienced with that sense),Olfaction,She had a brilliant pupil.
+pupil,0 (not at all experienced with that sense),Taste,She had a brilliant pupil.
+pupil,1,Hearing,She had a cloudy pupil.
+pupil,Rating: 1,Touch,She had a cloudy pupil.
+pupil,4,Vision,She had a cloudy pupil.
+pupil,0 (not at all experienced with that sense),Interoception,She had a cloudy pupil.
+pupil,0 (not at all experienced with that sense),Olfaction,She had a cloudy pupil.
+pupil,0 (not at all experienced with that sense),Taste,She had a cloudy pupil.
+pupil,1,Hearing,She had a dilated pupil.
+pupil,Rating: 1,Touch,She had a dilated pupil.
+pupil,4,Vision,She had a dilated pupil.
+pupil,0 (not at all experienced with that sense),Interoception,She had a dilated pupil.
+pupil,0 (not at all experienced with that sense),Olfaction,She had a dilated pupil.
+pupil,0 (not at all experienced with that sense),Taste,She had a dilated pupil.
+pupil,2,Hearing,She had an interested pupil.
+pupil,Rating: 1,Touch,She had an interested pupil.
+pupil,3,Vision,She had an interested pupil.
+pupil,0 (not at all experienced with that sense),Interoception,She had an interested pupil.
+pupil,0 (not at all experienced with that sense),Olfaction,She had an interested pupil.
+pupil,0 (not at all experienced with that sense),Taste,She had an interested pupil.
+push,2,Hearing,He pushed the bed.
+push,4,Touch,He pushed the bed.
+push,3,Vision,He pushed the bed.
+push,3,Interoception,He pushed the bed.
+push,0 (not at all experienced with that sense),Olfaction,He pushed the bed.
+push,0 (not at all experienced with that sense),Taste,He pushed the bed.
+push,2,Hearing,He pushed the cocaine.
+push,Rating: 3,Touch,He pushed the cocaine.
+push,2,Vision,He pushed the cocaine.
+push,Rating: 2,Interoception,He pushed the cocaine.
+push,Rating: 0 (not at all experienced with,Olfaction,He pushed the cocaine.
+push,0 (not at all experienced with that sense),Taste,He pushed the cocaine.
+push,2,Hearing,He pushed the desk.
+push,4,Touch,He pushed the desk.
+push,3,Vision,He pushed the desk.
+push,3,Interoception,He pushed the desk.
+push,0 (not at all experienced with that sense),Olfaction,He pushed the desk.
+push,0 (not at all experienced with that sense),Taste,He pushed the desk.
+push,2,Hearing,He pushed the drugs.
+push,Rating: 3,Touch,He pushed the drugs.
+push,3,Vision,He pushed the drugs.
+push,Rating: 2,Interoception,He pushed the drugs.
+push,0 (not at all experienced with that sense),Olfaction,He pushed the drugs.
+push,0 (not at all experienced with that sense),Taste,He pushed the drugs.
+racket,2,Hearing,That was a badminton racket.
+racket,Rating: 4,Touch,That was a badminton racket.
+racket,4,Vision,That was a badminton racket.
+racket,Rating: 1,Interoception,That was a badminton racket.
+racket,0 (not at all experienced with that sense),Olfaction,That was a badminton racket.
+racket,0 (not at all experienced with that sense),Taste,That was a badminton racket.
+racket,4,Hearing,That was a loud racket.
+racket,Rating: 1,Touch,That was a loud racket.
+racket,2,Vision,That was a loud racket.
+racket,Rating: 1,Interoception,That was a loud racket.
+racket,0 (not at all experienced with that sense),Olfaction,That was a loud racket.
+racket,0 (not at all experienced with that sense),Taste,That was a loud racket.
+racket,4,Hearing,That was a tennis racket.
+racket,Rating: 4,Touch,That was a tennis racket.
+racket,4,Vision,That was a tennis racket.
+racket,Rating: 1,Interoception,That was a tennis racket.
+racket,Rating: 1,Olfaction,That was a tennis racket.
+racket,0 (not at all experienced with that sense),Taste,That was a tennis racket.
+racket,4,Hearing,That was an annoying racket.
+racket,Rating: 1,Touch,That was an annoying racket.
+racket,2,Vision,That was an annoying racket.
+racket,Rating: 1,Interoception,That was an annoying racket.
+racket,0 (not at all experienced with that sense),Olfaction,That was an annoying racket.
+racket,0 (not at all experienced with that sense),Taste,That was an annoying racket.
+rock,4,Hearing,He liked alternative rock.
+rock,Rating: 1,Touch,He liked alternative rock.
+rock,3,Vision,He liked alternative rock.
+rock,Rating: 1,Interoception,He liked alternative rock.
+rock,0 (not at all experienced with that sense),Olfaction,He liked alternative rock.
+rock,0 (not at all experienced with that sense),Taste,He liked alternative rock.
+rock,4,Hearing,He liked electronic rock.
+rock,Rating: 1,Touch,He liked electronic rock.
+rock,2,Vision,He liked electronic rock.
+rock,Rating: 1,Interoception,He liked electronic rock.
+rock,0 (not at all experienced with that sense),Olfaction,He liked electronic rock.
+rock,0 (not at all experienced with that sense),Taste,He liked electronic rock.
+rock,2,Hearing,He liked granite rock.
+rock,3,Touch,He liked granite rock.
+rock,4,Vision,He liked granite rock.
+rock,0 (not at all experienced with that sense),Interoception,He liked granite rock.
+rock,Rating: 1,Olfaction,He liked granite rock.
+rock,1 (very little experienced with that sense),Taste,He liked granite rock.
+rock,2,Hearing,He liked limestone rock.
+rock,3,Touch,He liked limestone rock.
+rock,4,Vision,He liked limestone rock.
+rock,0 (not at all experienced with that sense),Interoception,He liked limestone rock.
+rock,2,Olfaction,He liked limestone rock.
+rock,1 (very slightly experienced with that sense),Taste,He liked limestone rock.
+run,1,Hearing,She ran the company.
+run,Rating: 1,Touch,She ran the company.
+run,2,Vision,She ran the company.
+run,1,Interoception,She ran the company.
+run,0 (not at all experienced with that sense),Olfaction,She ran the company.
+run,0 (not at all experienced with that sense),Taste,She ran the company.
+run,3,Hearing,She ran the marathon.
+run,Rating: 3,Touch,She ran the marathon.
+run,4,Vision,She ran the marathon.
+run,3,Interoception,She ran the marathon.
+run,0 (not at all experienced with that sense),Olfaction,She ran the marathon.
+run,0 (not at all experienced with that sense),Taste,She ran the marathon.
+run,3,Hearing,She ran the race.
+run,Rating: 3,Touch,She ran the race.
+run,4,Vision,She ran the race.
+run,4,Interoception,She ran the race.
+run,0 (not at all experienced with that sense),Olfaction,She ran the race.
+run,0 (not at all experienced with that sense),Taste,She ran the race.
+run,2,Hearing,She ran the shop.
+run,Rating: 1,Touch,She ran the shop.
+run,3,Vision,She ran the shop.
+run,2,Interoception,She ran the shop.
+run,0 (not at all experienced with that sense),Olfaction,She ran the shop.
+run,0 (not at all experienced with that sense),Taste,She ran the shop.
+sage,Rating: 1,Hearing,He saw the bushy sage.
+sage,2,Touch,He saw the bushy sage.
+sage,4,Vision,He saw the bushy sage.
+sage,Rating: 1,Interoception,He saw the bushy sage.
+sage,Rating: 4,Olfaction,He saw the bushy sage.
+sage,2,Taste,He saw the bushy sage.
+sage,1,Hearing,He saw the fragrant sage.
+sage,Rating: 2,Touch,He saw the fragrant sage.
+sage,4,Vision,He saw the fragrant sage.
+sage,Rating: 1,Interoception,He saw the fragrant sage.
+sage,4,Olfaction,He saw the fragrant sage.
+sage,Rating: 3,Taste,He saw the fragrant sage.
+sage,2,Hearing,He saw the renowned sage.
+sage,Rating: 1,Touch,He saw the renowned sage.
+sage,4,Vision,He saw the renowned sage.
+sage,Rating: 1,Interoception,He saw the renowned sage.
+sage,2,Olfaction,He saw the renowned sage.
+sage,Rating: 2,Taste,He saw the renowned sage.
+sage,2,Hearing,He saw the wise sage.
+sage,Rating: 1,Touch,He saw the wise sage.
+sage,3,Vision,He saw the wise sage.
+sage,0 (not at all experienced with that sense),Interoception,He saw the wise sage.
+sage,2,Olfaction,He saw the wise sage.
+sage,1,Taste,He saw the wise sage.
+scale,1,Hearing,It was a fish scale.
+scale,3,Touch,It was a fish scale.
+scale,4,Vision,It was a fish scale.
+scale,1,Interoception,It was a fish scale.
+scale,2,Olfaction,It was a fish scale.
+scale,Rating: 2,Taste,It was a fish scale.
+scale,1,Hearing,It was a lizard scale.
+scale,3,Touch,It was a lizard scale.
+scale,4,Vision,It was a lizard scale.
+scale,Rating: 1,Interoception,It was a lizard scale.
+scale,1 (very slightly experienced with that sense),Olfaction,It was a lizard scale.
+scale,Rating: 1,Taste,It was a lizard scale.
+scale,4,Hearing,It was a major scale.
+scale,Rating: 1,Touch,It was a major scale.
+scale,2,Vision,It was a major scale.
+scale,Rating: 1,Interoception,It was a major scale.
+scale,0 (not at all experienced with that sense),Olfaction,It was a major scale.
+scale,0 (not at all experienced with that sense),Taste,It was a major scale.
+scale,4,Hearing,It was a music scale.
+scale,Rating: 1,Touch,It was a music scale.
+scale,2,Vision,It was a music scale.
+scale,1 (very little experienced with that sense),Interoception,It was a music scale.
+scale,0 (not at all experienced with that sense),Olfaction,It was a music scale.
+scale,0 (not at all experienced with that sense),Taste,It was a music scale.
+scene,2,Hearing,It was a nature scene.
+scene,1 (very little experienced with touch),Touch,It was a nature scene.
+scene,4,Vision,It was a nature scene.
+scene,0 (not at all experienced with that sense),Interoception,It was a nature scene.
+scene,2,Olfaction,It was a nature scene.
+scene,0 (not at all experienced with that sense),Taste,It was a nature scene.
+scene,1 (slightly experienced with hearing),Hearing,It was a panoramic scene.
+scene,0 (not at all experienced with touch),Touch,It was a panoramic scene.
+scene,4,Vision,It was a panoramic scene.
+scene,0 (not at all experienced with that sense),Interoception,It was a panoramic scene.
+scene,0 (not at all experienced with that sense),Olfaction,It was a panoramic scene.
+scene,0 (not at all experienced with that sense),Taste,It was a panoramic scene.
+scene,2,Hearing,It was a touching scene.
+scene,0 (not at all experienced with that sense),Touch,It was a touching scene.
+scene,4,Vision,It was a touching scene.
+scene,1 (very little experienced with that sense),Interoception,It was a touching scene.
+scene,0 (not at all experienced with that sense),Olfaction,It was a touching scene.
+scene,0 (not at all experienced with that sense),Taste,It was a touching scene.
+scene,4,Hearing,It was a well-acted scene.
+scene,0 (not at all experienced with touch),Touch,It was a well-acted scene.
+scene,4,Vision,It was a well-acted scene.
+scene,Rating: 1,Interoception,It was a well-acted scene.
+scene,0 (not at all experienced with that sense),Olfaction,It was a well-acted scene.
+scene,0 (not at all experienced with that sense),Taste,It was a well-acted scene.
+seal,2,Hearing,It was a certified seal.
+seal,Rating: 2,Touch,It was a certified seal.
+seal,3,Vision,It was a certified seal.
+seal,0 (not at all experienced with that sense),Interoception,It was a certified seal.
+seal,1,Olfaction,It was a certified seal.
+seal,0 (not at all experienced with that sense),Taste,It was a certified seal.
+seal,3,Hearing,It was a circus seal.
+seal,2,Touch,It was a circus seal.
+seal,4,Vision,It was a circus seal.
+seal,0 (not at all experienced with that sense),Interoception,It was a circus seal.
+seal,2,Olfaction,It was a circus seal.
+seal,0 (not at all experienced with that sense),Taste,It was a circus seal.
+seal,1,Hearing,It was a gold seal.
+seal,Rating: 3,Touch,It was a gold seal.
+seal,3,Vision,It was a gold seal.
+seal,0 (not at all experienced with that sense),Interoception,It was a gold seal.
+seal,1 (very little experienced with that sense),Olfaction,It was a gold seal.
+seal,0 (not at all experienced with that sense),Taste,It was a gold seal.
+seal,3,Hearing,It was a trained seal.
+seal,Rating: 2,Touch,It was a trained seal.
+seal,4,Vision,It was a trained seal.
+seal,Rating: 0 (not at all experienced with,Interoception,It was a trained seal.
+seal,Rating: 2,Olfaction,It was a trained seal.
+seal,0 (not at all experienced with that sense),Taste,It was a trained seal.
+serve,2,Hearing,She served a lasagna.
+serve,Rating: 1,Touch,She served a lasagna.
+serve,2,Vision,She served a lasagna.
+serve,0 (not at all experienced with that sense),Interoception,She served a lasagna.
+serve,Rating: 1,Olfaction,She served a lasagna.
+serve,0 (not at all experienced with that sense),Taste,She served a lasagna.
+serve,2,Hearing,She served a pie.
+serve,Rating: 1,Touch,She served a pie.
+serve,2,Vision,She served a pie.
+serve,1 (very little experienced with that sense),Interoception,She served a pie.
+serve,1,Olfaction,She served a pie.
+serve,0 (not at all experienced with that sense),Taste,She served a pie.
+serve,2,Hearing,She served a summons.
+serve,Rating: 1,Touch,She served a summons.
+serve,2,Vision,She served a summons.
+serve,0 (not at all experienced with that sense),Interoception,She served a summons.
+serve,0 (not at all experienced with that sense),Olfaction,She served a summons.
+serve,0 (not at all experienced with that sense),Taste,She served a summons.
+serve,3,Hearing,She served a warrant.
+serve,1 (slightly experienced through touch),Touch,She served a warrant.
+serve,2,Vision,She served a warrant.
+serve,0 (not at all experienced with that sense),Interoception,She served a warrant.
+serve,0 (not at all experienced with that sense),Olfaction,She served a warrant.
+serve,0 (not at all experienced with that sense),Taste,She served a warrant.
+sing,4,Hearing,The bird sang.
+sing,0 (not at all experienced with touch),Touch,The bird sang.
+sing,2,Vision,The bird sang.
+sing,1 (very little experienced with that sense),Interoception,The bird sang.
+sing,0 (not at all experienced with that sense),Olfaction,The bird sang.
+sing,0 (not at all experienced with that sense),Taste,The bird sang.
+sing,4,Hearing,The choir sang.
+sing,0 (not at all experienced with that sense),Touch,The choir sang.
+sing,4,Vision,The choir sang.
+sing,2,Interoception,The choir sang.
+sing,0 (not at all experienced with that sense),Olfaction,The choir sang.
+sing,0 (not at all experienced with that sense),Taste,The choir sang.
+sing,4,Hearing,The cricket sang.
+sing,Rating: 1,Touch,The cricket sang.
+sing,2,Vision,The cricket sang.
+sing,1,Interoception,The cricket sang.
+sing,0 (not at all experienced with that sense),Olfaction,The cricket sang.
+sing,0 (not at all experienced with that sense),Taste,The cricket sang.
+sing,4,Hearing,The girl sang.
+sing,0 (not at all experienced with touch),Touch,The girl sang.
+sing,3,Vision,The girl sang.
+sing,2,Interoception,The girl sang.
+sing,0 (not at all experienced with that sense),Olfaction,The girl sang.
+sing,0 (not at all experienced with that sense),Taste,The girl sang.
+spill,2,Hearing,He spilled the drink.
+spill,Rating: 3,Touch,He spilled the drink.
+spill,3,Vision,He spilled the drink.
+spill,Rating: 1,Interoception,He spilled the drink.
+spill,2,Olfaction,He spilled the drink.
+spill,Rating: 2,Taste,He spilled the drink.
+spill,3,Hearing,He spilled the flour.
+spill,Rating: 3,Touch,He spilled the flour.
+spill,4,Vision,He spilled the flour.
+spill,Rating: 1,Interoception,He spilled the flour.
+spill,1 (slightly experienced with that sense),Olfaction,He spilled the flour.
+spill,Rating: 1,Taste,He spilled the flour.
+spill,2,Hearing,He spilled the news.
+spill,Rating: 1,Touch,He spilled the news.
+spill,2,Vision,He spilled the news.
+spill,0 (not at all experienced with that sense),Interoception,He spilled the news.
+spill,0 (not at all experienced with that sense),Olfaction,He spilled the news.
+spill,0 (not at all experienced with that sense),Taste,He spilled the news.
+spill,2,Hearing,He spilled the secret.
+spill,Rating: 1,Touch,He spilled the secret.
+spill,2,Vision,He spilled the secret.
+spill,1 (very little experienced with that sense),Interoception,He spilled the secret.
+spill,0 (not at all experienced with that sense),Olfaction,He spilled the secret.
+spill,Rating: 0 (not at all experienced with,Taste,He spilled the secret.
+stake,2,Hearing,He staked his claim.
+stake,Rating: 2,Touch,He staked his claim.
+stake,3,Vision,He staked his claim.
+stake,Rating: 1,Interoception,He staked his claim.
+stake,Rating: 0 (not at all experienced with,Olfaction,He staked his claim.
+stake,0 (not at all experienced with that sense),Taste,He staked his claim.
+stake,2,Hearing,He staked his horse.
+stake,Rating: 2,Touch,He staked his horse.
+stake,3,Vision,He staked his horse.
+stake,Rating: 1,Interoception,He staked his horse.
+stake,Rating: 1,Olfaction,He staked his horse.
+stake,0 (not at all experienced with that sense),Taste,He staked his horse.
+stake,2,Hearing,He staked his name.
+stake,Rating: 2,Touch,He staked his name.
+stake,2,Vision,He staked his name.
+stake,Rating: 1,Interoception,He staked his name.
+stake,0 (not at all experienced with that sense),Olfaction,He staked his name.
+stake,0 (not at all experienced with that sense),Taste,He staked his name.
+stake,2,Hearing,He staked his tent.
+stake,Rating: 4,Touch,He staked his tent.
+stake,3,Vision,He staked his tent.
+stake,Rating: 1,Interoception,He staked his tent.
+stake,Rating: 1,Olfaction,He staked his tent.
+stake,0 (not at all experienced with that sense),Taste,He staked his tent.
+stall,2,Hearing,They stalled the bus.
+stall,Rating: 1,Touch,They stalled the bus.
+stall,3,Vision,They stalled the bus.
+stall,1,Interoception,They stalled the bus.
+stall,Rating: 0 (not at all experienced with,Olfaction,They stalled the bus.
+stall,0 (not at all experienced with that sense),Taste,They stalled the bus.
+stall,2,Hearing,They stalled the horse.
+stall,Rating: 2,Touch,They stalled the horse.
+stall,3,Vision,They stalled the horse.
+stall,Rating: 1,Interoception,They stalled the horse.
+stall,Rating: 2,Olfaction,They stalled the horse.
+stall,0 (not at all experienced with that sense),Taste,They stalled the horse.
+stall,2,Hearing,They stalled the pig.
+stall,Rating: 2,Touch,They stalled the pig.
+stall,2,Vision,They stalled the pig.
+stall,1,Interoception,They stalled the pig.
+stall,2,Olfaction,They stalled the pig.
+stall,0 (not at all experienced with that sense),Taste,They stalled the pig.
+stall,3,Hearing,They stalled the truck.
+stall,Rating: 2,Touch,They stalled the truck.
+stall,3,Vision,They stalled the truck.
+stall,2,Interoception,They stalled the truck.
+stall,Rating: 1,Olfaction,They stalled the truck.
+stall,0 (not at all experienced with that sense),Taste,They stalled the truck.
+stay,1,Hearing,They stayed cold.
+stay,1,Touch,They stayed cold.
+stay,1,Vision,They stayed cold.
+stay,1,Interoception,They stayed cold.
+stay,0 (not at all experienced with that sense),Olfaction,They stayed cold.
+stay,0 (not at all experienced with that sense),Taste,They stayed cold.
+stay,1,Hearing,They stayed nearby.
+stay,Rating: 1,Touch,They stayed nearby.
+stay,2,Vision,They stayed nearby.
+stay,1 (very little experienced with that sense),Interoception,They stayed nearby.
+stay,0 (not at all experienced with that sense),Olfaction,They stayed nearby.
+stay,0 (not at all experienced with that sense),Taste,They stayed nearby.
+stay,1,Hearing,They stayed overnight.
+stay,Rating: 1,Touch,They stayed overnight.
+stay,2,Vision,They stayed overnight.
+stay,1 (very little experienced with that sense),Interoception,They stayed overnight.
+stay,0 (not at all experienced with that sense),Olfaction,They stayed overnight.
+stay,0 (not at all experienced with that sense),Taste,They stayed overnight.
+stay,1,Hearing,They stayed wet.
+stay,2,Touch,They stayed wet.
+stay,2,Vision,They stayed wet.
+stay,1,Interoception,They stayed wet.
+stay,1 (very slightly experienced with that sense),Olfaction,They stayed wet.
+stay,0 (not at all experienced with that sense),Taste,They stayed wet.
+tap,4,Hearing,He tapped the beer.
+tap,Rating: 3,Touch,He tapped the beer.
+tap,3,Vision,He tapped the beer.
+tap,Rating: 1,Interoception,He tapped the beer.
+tap,Rating: 1,Olfaction,He tapped the beer.
+tap,Rating: 2,Taste,He tapped the beer.
+tap,4,Hearing,He tapped the drums.
+tap,Rating: 4,Touch,He tapped the drums.
+tap,3,Vision,He tapped the drums.
+tap,Rating: 1,Interoception,He tapped the drums.
+tap,0 (not at all experienced with that sense),Olfaction,He tapped the drums.
+tap,0 (not at all experienced with that sense),Taste,He tapped the drums.
+tap,4,Hearing,He tapped the keg.
+tap,Rating: 4,Touch,He tapped the keg.
+tap,3,Vision,He tapped the keg.
+tap,1,Interoception,He tapped the keg.
+tap,Rating: 1,Olfaction,He tapped the keg.
+tap,Rating: 1,Taste,He tapped the keg.
+tap,4,Hearing,He tapped the stick.
+tap,Rating: 3,Touch,He tapped the stick.
+tap,2,Vision,He tapped the stick.
+tap,1,Interoception,He tapped the stick.
+tap,0 (not at all experienced with that sense),Olfaction,He tapped the stick.
+tap,0 (not at all experienced with that sense),Taste,He tapped the stick.
+tape,2,Hearing,He used the double-sided tape.
+tape,3,Touch,He used the double-sided tape.
+tape,3,Vision,He used the double-sided tape.
+tape,0 (not at all experienced with that sense),Interoception,He used the double-sided tape.
+tape,Rating: 1,Olfaction,He used the double-sided tape.
+tape,0 (not at all experienced with that sense),Taste,He used the double-sided tape.
+tape,Rating: 4,Hearing,He used the interview tape.
+tape,Rating: 2,Touch,He used the interview tape.
+tape,3,Vision,He used the interview tape.
+tape,0 (not at all experienced with that sense),Interoception,He used the interview tape.
+tape,Rating: 0 (not at all experienced with,Olfaction,He used the interview tape.
+tape,0 (not at all experienced with that sense),Taste,He used the interview tape.
+tape,2,Hearing,He used the scotch tape.
+tape,Rating: 4,Touch,He used the scotch tape.
+tape,3,Vision,He used the scotch tape.
+tape,0 (not at all experienced with that sense),Interoception,He used the scotch tape.
+tape,Rating: 1,Olfaction,He used the scotch tape.
+tape,0 (not at all experienced with that sense),Taste,He used the scotch tape.
+tape,3,Hearing,He used the video tape.
+tape,Rating: 2,Touch,He used the video tape.
+tape,3,Vision,He used the video tape.
+tape,0 (not at all experienced with that sense),Interoception,He used the video tape.
+tape,Rating: 1,Olfaction,He used the video tape.
+tape,0 (not at all experienced with that sense),Taste,He used the video tape.
+term,1,Hearing,It was a fall term.
+term,0 (not at all experienced with that sense),Touch,It was a fall term.
+term,1,Vision,It was a fall term.
+term,0 (not at all experienced with that sense),Interoception,It was a fall term.
+term,0 (not at all experienced with that sense),Olfaction,It was a fall term.
+term,0 (not at all experienced with that sense),Taste,It was a fall term.
+term,1,Hearing,It was a legal term.
+term,0 (not at all experienced with that sense),Touch,It was a legal term.
+term,1,Vision,It was a legal term.
+term,0 (not at all experienced with that sense),Interoception,It was a legal term.
+term,0 (not at all experienced with that sense),Olfaction,It was a legal term.
+term,0 (not at all experienced with that sense),Taste,It was a legal term.
+term,1,Hearing,It was a technical term.
+term,0 (not at all experienced with that sense),Touch,It was a technical term.
+term,1,Vision,It was a technical term.
+term,0 (not at all experienced with that sense),Interoception,It was a technical term.
+term,0 (not at all experienced with that sense),Olfaction,It was a technical term.
+term,0 (not at all experienced with that sense),Taste,It was a technical term.
+term,1,Hearing,It was a winter term.
+term,0 (not at all experienced with that sense),Touch,It was a winter term.
+term,1,Vision,It was a winter term.
+term,0 (not at all experienced with that sense),Interoception,It was a winter term.
+term,0 (not at all experienced with that sense),Olfaction,It was a winter term.
+term,0 (not at all experienced with that sense),Taste,It was a winter term.
+tick,4,Hearing,It was a clock tick.
+tick,Rating: 1,Touch,It was a clock tick.
+tick,2,Vision,It was a clock tick.
+tick,0 (not at all experienced with that sense),Interoception,It was a clock tick.
+tick,0 (not at all experienced with that sense),Olfaction,It was a clock tick.
+tick,0 (not at all experienced with that sense),Taste,It was a clock tick.
+tick,1,Hearing,It was a diseased tick.
+tick,Rating: 3,Touch,It was a diseased tick.
+tick,3,Vision,It was a diseased tick.
+tick,0 (not at all experienced with that sense),Interoception,It was a diseased tick.
+tick,Rating: 2,Olfaction,It was a diseased tick.
+tick,0 (not at all experienced with that sense),Taste,It was a diseased tick.
+tick,2,Hearing,It was a parasitic tick.
+tick,Rating: 3,Touch,It was a parasitic tick.
+tick,3,Vision,It was a parasitic tick.
+tick,1 (very little experienced with that sense),Interoception,It was a parasitic tick.
+tick,1 (very slightly experienced with that sense),Olfaction,It was a parasitic tick.
+tick,0 (not at all experienced with that sense),Taste,It was a parasitic tick.
+tick,4,Hearing,It was an audible tick.
+tick,Rating: 1,Touch,It was an audible tick.
+tick,1,Vision,It was an audible tick.
+tick,0 (not at all experienced with that sense),Interoception,It was an audible tick.
+tick,0 (not at all experienced with that sense),Olfaction,It was an audible tick.
+tick,0 (not at all experienced with that sense),Taste,It was an audible tick.
+tip,1,Hearing,It was a finger tip.
+tip,4,Touch,It was a finger tip.
+tip,3,Vision,It was a finger tip.
+tip,2,Interoception,It was a finger tip.
+tip,0 (not at all experienced with that sense),Olfaction,It was a finger tip.
+tip,0 (not at all experienced with that sense),Taste,It was a finger tip.
+tip,1,Hearing,It was a generous tip.
+tip,1 (very little experienced with touch),Touch,It was a generous tip.
+tip,2,Vision,It was a generous tip.
+tip,1,Interoception,It was a generous tip.
+tip,0 (not at all experienced with that sense),Olfaction,It was a generous tip.
+tip,0 (not at all experienced with that sense),Taste,It was a generous tip.
+tip,1,Hearing,It was a pencil tip.
+tip,Rating: 4,Touch,It was a pencil tip.
+tip,3,Vision,It was a pencil tip.
+tip,0 (not at all experienced with that sense),Interoception,It was a pencil tip.
+tip,Rating: 0 (not at all experienced with,Olfaction,It was a pencil tip.
+tip,0 (not at all experienced with that sense),Taste,It was a pencil tip.
+tip,1,Hearing,It was a stingy tip.
+tip,1,Touch,It was a stingy tip.
+tip,2,Vision,It was a stingy tip.
+tip,1 (very little experienced with that sense),Interoception,It was a stingy tip.
+tip,0 (not at all experienced with that sense),Olfaction,It was a stingy tip.
+tip,0 (not at all experienced with that sense),Taste,It was a stingy tip.
+title,1,Hearing,She liked the academic title.
+title,0 (not at all experienced with that sense),Touch,She liked the academic title.
+title,1,Vision,She liked the academic title.
+title,0 (not at all experienced with that sense),Interoception,She liked the academic title.
+title,0 (not at all experienced with that sense),Olfaction,She liked the academic title.
+title,0 (not at all experienced with that sense),Taste,She liked the academic title.
+title,1,Hearing,She liked the essay title.
+title,Rating: 0 (not at all experienced with,Touch,She liked the essay title.
+title,2,Vision,She liked the essay title.
+title,0 (not at all experienced with that sense),Interoception,She liked the essay title.
+title,0 (not at all experienced with that sense),Olfaction,She liked the essay title.
+title,0 (not at all experienced with that sense),Taste,She liked the essay title.
+title,2,Hearing,She liked the poem title.
+title,0 (not at all experienced with that sense),Touch,She liked the poem title.
+title,2,Vision,She liked the poem title.
+title,0 (not at all experienced with that sense),Interoception,She liked the poem title.
+title,0 (not at all experienced with that sense),Olfaction,She liked the poem title.
+title,0 (not at all experienced with that sense),Taste,She liked the poem title.
+title,2,Hearing,She liked the professional title.
+title,0 (not at all experienced with that sense),Touch,She liked the professional title.
+title,1,Vision,She liked the professional title.
+title,0 (not at all experienced with that sense),Interoception,She liked the professional title.
+title,0 (not at all experienced with that sense),Olfaction,She liked the professional title.
+title,0 (not at all experienced with that sense),Taste,She liked the professional title.
+toast,Rating: 3,Hearing,They toasted the bread.
+toast,Rating: 3,Touch,They toasted the bread.
+toast,3,Vision,They toasted the bread.
+toast,Rating: 1,Interoception,They toasted the bread.
+toast,4,Olfaction,They toasted the bread.
+toast,4,Taste,They toasted the bread.
+toast,3,Hearing,They toasted the bride.
+toast,Rating: 1,Touch,They toasted the bride.
+toast,3,Vision,They toasted the bride.
+toast,Rating: 1,Interoception,They toasted the bride.
+toast,3,Olfaction,They toasted the bride.
+toast,3,Taste,They toasted the bride.
+toast,2,Hearing,They toasted the host.
+toast,Rating: 2,Touch,They toasted the host.
+toast,3,Vision,They toasted the host.
+toast,Rating: 1,Interoception,They toasted the host.
+toast,Rating: 4,Olfaction,They toasted the host.
+toast,3,Taste,They toasted the host.
+toast,2,Hearing,They toasted the strudel.
+toast,Rating: 2,Touch,They toasted the strudel.
+toast,3,Vision,They toasted the strudel.
+toast,Rating: 1,Interoception,They toasted the strudel.
+toast,Rating: 4,Olfaction,They toasted the strudel.
+toast,4,Taste,They toasted the strudel.
+toll,4,Hearing,It was a bell toll.
+toll,Rating: 1,Touch,It was a bell toll.
+toll,2,Vision,It was a bell toll.
+toll,Rating: 1,Interoception,It was a bell toll.
+toll,0 (not at all experienced with that sense),Olfaction,It was a bell toll.
+toll,0 (not at all experienced with that sense),Taste,It was a bell toll.
+toll,2,Hearing,It was a costly toll.
+toll,0 (not at all experienced with touch),Touch,It was a costly toll.
+toll,2,Vision,It was a costly toll.
+toll,1 (very slightly experienced with that sense),Interoception,It was a costly toll.
+toll,0 (not at all experienced with that sense),Olfaction,It was a costly toll.
+toll,0 (not at all experienced with that sense),Taste,It was a costly toll.
+toll,4,Hearing,It was a loud toll.
+toll,Rating: 1,Touch,It was a loud toll.
+toll,2,Vision,It was a loud toll.
+toll,Rating: 1,Interoception,It was a loud toll.
+toll,0 (not at all experienced with that sense),Olfaction,It was a loud toll.
+toll,0 (not at all experienced with that sense),Taste,It was a loud toll.
+toll,2,Hearing,It was a road toll.
+toll,Rating: 1,Touch,It was a road toll.
+toll,2,Vision,It was a road toll.
+toll,Rating: 0 (not at all experienced with,Interoception,It was a road toll.
+toll,0 (not at all experienced with that sense),Olfaction,It was a road toll.
+toll,0 (not at all experienced with that sense),Taste,It was a road toll.
+track,1,Hearing,She saw the moose tracks.
+track,Rating: 1,Touch,She saw the moose tracks.
+track,4,Vision,She saw the moose tracks.
+track,0 (not at all experienced with that sense),Interoception,She saw the moose tracks.
+track,1 (very little experienced with that sense),Olfaction,She saw the moose tracks.
+track,0 (not at all experienced with that sense),Taste,She saw the moose tracks.
+track,1,Hearing,She saw the snowshoe tracks.
+track,Rating: 1,Touch,She saw the snowshoe tracks.
+track,4,Vision,She saw the snowshoe tracks.
+track,0 (not at all experienced with that sense),Interoception,She saw the snowshoe tracks.
+track,Rating: 1,Olfaction,She saw the snowshoe tracks.
+track,0 (not at all experienced with that sense),Taste,She saw the snowshoe tracks.
+track,2,Hearing,She saw the train tracks.
+track,Rating: 2,Touch,She saw the train tracks.
+track,4,Vision,She saw the train tracks.
+track,0 (not at all experienced with that sense),Interoception,She saw the train tracks.
+track,Rating: 1,Olfaction,She saw the train tracks.
+track,0 (not at all experienced with that sense),Taste,She saw the train tracks.
+track,2,Hearing,She saw the trolley tracks.
+track,Rating: 2,Touch,She saw the trolley tracks.
+track,4,Vision,She saw the trolley tracks.
+track,0 (not at all experienced with that sense),Interoception,She saw the trolley tracks.
+track,Rating: 1,Olfaction,She saw the trolley tracks.
+track,0 (not at all experienced with that sense),Taste,She saw the trolley tracks.
+yard,1 (very little experienced with that sense),Hearing,It was five yards.
+yard,Rating: 1,Touch,It was five yards.
+yard,2,Vision,It was five yards.
+yard,0 (not at all experienced with that sense),Interoception,It was five yards.
+yard,0 (not at all experienced with that sense),Olfaction,It was five yards.
+yard,0 (not at all experienced with that sense),Taste,It was five yards.
+yard,1 (very little experienced with that sense),Hearing,It was ten yards.
+yard,Rating: 1,Touch,It was ten yards.
+yard,2,Vision,It was ten yards.
+yard,0 (not at all experienced with that sense),Interoception,It was ten yards.
+yard,0 (not at all experienced with that sense),Olfaction,It was ten yards.
+yard,0 (not at all experienced with that sense),Taste,It was ten yards.
+yard,2,Hearing,They were big yards.
+yard,Rating: 2,Touch,They were big yards.
+yard,4,Vision,They were big yards.
+yard,0 (not at all experienced with that sense),Interoception,They were big yards.
+yard,1 (slightly experienced with that sense),Olfaction,They were big yards.
+yard,0 (not at all experienced with that sense),Taste,They were big yards.
+yard,2,Hearing,They were cluttered yards.
+yard,Rating: 2,Touch,They were cluttered yards.
+yard,4,Vision,They were cluttered yards.
+yard,0 (not at all experienced with that sense),Interoception,They were cluttered yards.
+yard,2,Olfaction,They were cluttered yards.
+yard,0 (not at all experienced with that sense),Taste,They were cluttered yards.

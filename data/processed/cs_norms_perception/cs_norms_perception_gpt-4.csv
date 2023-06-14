@@ -1,0 +1,449 @@
+word,sentence,Hearing,Interoception,Olfaction,Taste,Touch,Vision
+act,It was a comedic act.,4,1,0,0,1,4
+act,It was a desperate act.,2,1,0,0,1,2
+act,It was a humane act.,2,2,0,0,1,2
+act,It was a magic act.,4,1,0,0,1,4
+appeal,He had a legal appeal.,1,1,0,0,0,1
+appeal,He had a pending appeal.,1,1,0,0,0,1
+appeal,He had a universal appeal.,1,1,0,0,0,1
+appeal,He had an undefinable appeal.,1,1,0,0,0,1
+atmosphere,It was a gaseous atmosphere.,1,1,3,1,2,2
+atmosphere,It was a hostile atmosphere.,2,1,1,0,2,2
+atmosphere,It was a polluted atmosphere.,1,1,3,1,1,2
+atmosphere,It was a tense atmosphere.,2,2,1,0,1,2
+bail,He bailed out the defendant.,2,0,0,0,1,2
+bail,He bailed out the liquid.,2,0,1,0,3,3
+bail,He bailed out the prisoner.,2,1,0,0,1,2
+bail,He bailed out the water.,3,1,0,0,3,3
+band,It was a country band.,4,1,0,0,1,4
+band,It was a gold band.,1,0,1,0,3,4
+band,It was a jazz band.,4,1,0,0,1,4
+band,It was a rubber band.,2,1,2,1,4,3
+bank,He banked the cash.,2,0,0,0,1,2
+bank,He banked the helicopter.,4,1,0,0,1,3
+bank,He banked the money.,2,0,0,0,1,2
+bank,He banked the plane.,3,1,0,0,1,3
+barrier,There was a concrete barrier.,2,0,1,0,3,4
+barrier,There was a language barrier.,1,1,0,0,2,2
+barrier,There was a police barrier.,2,0,0,0,2,3
+barrier,There was a religious barrier.,1,0,0,0,2,2
+bat,He saw a baseball bat.,2,0,1,0,3,4
+bat,He saw a fruit bat.,2,0,1,1,2,4
+bat,He saw a furry bat.,2,0,1,0,4,4
+bat,He saw a wooden bat.,2,0,1,0,3,4
+beam,He saw the balance beam.,1,0,0,0,3,4
+beam,He saw the bright beam.,0,0,0,0,1,4
+beam,He saw the laser beam.,1,0,0,0,1,4
+beam,He saw the wood beam.,1,0,1,0,3,4
+block,She had a mental block.,0,0,0,0,1,1
+block,She had a toy block.,2,0,1,0,3,4
+block,She had a wooden block.,1,0,1,0,3,4
+block,She had a writer's block.,0,0,0,0,1,1
+blood,He has coagulated blood.,1,2,3,2,2,4
+blood,He has noble blood.,1,2,2,2,3,2
+blood,He has royal blood.,1,2,2,1,2,2
+blood,He has thin blood.,2,3,2,2,2,3
+board,It was the executive board.,2,0,0,0,1,2
+board,It was the ironing board.,1,0,1,0,3,3
+board,It was the school board.,2,0,1,0,1,2
+board,It was the wooden board.,2,0,2,0,4,4
+book,He had a best-selling book.,1,0,1,0,4,3
+book,He had a heavy book.,1,0,1,0,3,4
+book,He had a leather-bound book.,1,0,2,0,4,4
+book,He had a popular book.,1,0,1,0,2,3
+break,He broke the dish.,4,1,0,0,3,3
+break,He broke the glass.,4,1,0,0,3,4
+break,He broke the law.,2,1,0,0,1,2
+break,He broke the promise.,1,1,0,0,1,1
+breakfast,They ate a family breakfast.,2,3,3,4,2,4
+breakfast,They ate a lonely breakfast.,2,2,3,4,2,3
+breakfast,They ate a nutritious breakfast.,2,3,3,4,1,3
+breakfast,They ate a pancake breakfast.,2,2,3,4,1,3
+call,They called the debt.,3,1,0,0,0,1
+call,They called the landlord.,4,1,0,0,0,2
+call,They called the loan.,3,1,0,0,0,1
+call,They called the police.,4,1,0,0,0,2
+cape,It was a flowing cape.,1,0,1,0,3,4
+cape,It was a red cape.,1,0,1,0,2,4
+cape,It was a rocky cape.,2,0,1,0,2,4
+cape,It was an island cape.,2,0,2,0,2,4
+case,It was a beer case.,1,0,2,1,2,3
+case,It was a criminal case.,2,1,0,0,1,2
+case,It was a display case.,1,0,0,0,2,4
+case,It was a divorce case.,2,1,0,0,1,2
+cast,She cast a glow.,1,1,0,0,1,3
+cast,She cast a shadow.,1,0,0,0,1,4
+cast,She cast a spear.,3,1,0,0,2,4
+cast,She cast a stone.,3,1,0,0,2,3
+cause,It was a main cause.,1,0,0,0,0,1
+cause,It was a political cause.,1,1,0,0,0,1
+cause,It was a primary cause.,0,0,0,0,0,1
+cause,It was a worthy cause.,1,0,0,0,0,1
+cell,It was a brain cell.,0,1,0,0,1,2
+cell,It was a jail cell.,2,1,2,0,2,4
+cell,It was a prison cell.,2,1,2,0,2,4
+cell,It was a skin cell.,0,1,0,0,2,2
+charm,She had a devilish charm.,2,2,0,0,1,2
+charm,She had a gold charm.,1,0,0,0,2,4
+charm,She had a good-luck charm.,2,1,0,0,2,3
+charm,She had a natural charm.,2,1,0,0,0,1
+check,He checked the alibi.,2,1,0,0,1,2
+check,He checked the engine.,2,1,1,0,3,3
+check,He checked the facts.,1,1,0,0,1,2
+check,He checked the oven.,2,1,2,0,2,3
+chicken,They liked the clucking chicken.,4,1,3,2,2,4
+chicken,They liked the juicy chicken.,2,2,3,4,2,3
+chicken,They liked the pet chicken.,3,1,3,2,3,3
+chicken,They liked the roasted chicken.,2,1,4,4,2,4
+class,It was a boring class.,3,1,0,0,0,3
+class,It was a misbehaving class.,4,1,0,0,0,3
+class,It was a perceptive class.,3,1,0,0,0,2
+class,It was a stimulating class.,4,1,0,0,0,3
+clear,He cleared the desk.,2,1,0,0,2,3
+clear,He cleared the path.,1,1,0,0,2,3
+clear,He cleared the road.,2,1,0,0,1,3
+clear,He cleared the shelf.,2,1,0,0,2,3
+clip,It was a film clip.,4,0,0,0,1,4
+clip,It was a hair clip.,2,1,1,0,3,3
+clip,It was a metal clip.,2,0,1,0,4,3
+clip,It was a video clip.,4,0,0,0,1,4
+clog,The choreographer clogged.,4,1,0,0,2,3
+clog,The dancer clogged.,4,1,0,0,2,4
+clog,The pipe clogged.,2,1,2,0,2,2
+clog,The sink clogged.,2,0,2,0,2,2
+cold,It was a chest cold.,1,4,1,1,3,1
+cold,It was a common cold.,1,3,1,1,3,2
+cold,It was a freezing cold.,1,4,0,0,4,2
+cold,It was an icy cold.,1,4,0,0,4,2
+column,It was a concrete column.,1,0,1,0,3,4
+column,It was a gossip column.,1,0,0,0,2,3
+column,It was a marble column.,1,0,1,0,3,4
+column,It was a sports column.,1,0,0,0,2,3
+company,He liked the investment company.,2,0,0,0,0,2
+company,He liked the pharmaceutical company.,2,0,0,0,0,2
+company,He liked the pleasant company.,3,2,0,0,1,2
+company,He liked the polite company.,2,1,0,0,0,2
+cone,It was a sugar cone.,1,1,2,4,3,4
+cone,It was a traffic cone.,1,0,1,0,3,4
+cone,It was a waffle cone.,1,1,3,3,3,4
+cone,It was an orange cone.,1,0,1,0,3,4
+contribution,He made a charitable contribution.,1,1,0,0,0,1
+contribution,He made a scholarly contribution.,1,0,0,0,0,1
+contribution,He made a voluntary contribution.,2,1,0,0,0,1
+contribution,He made a well-written contribution.,1,0,0,0,0,1
+count,That was the correct count.,2,0,0,0,0,2
+count,That was the final count.,2,0,0,0,0,2
+count,That was the noble count.,2,0,0,0,1,2
+count,That was the vengeful count.,2,0,0,0,1,2
+course,It was a charted course.,1,0,0,0,1,2
+course,It was a collision course.,2,0,0,0,1,2
+course,It was a pass-fail course.,1,0,0,0,0,1
+course,It was an introductory course.,1,0,0,0,0,1
+cross,He crossed a friend.,2,1,0,0,1,2
+cross,He crossed a road.,2,1,0,0,1,3
+cross,He crossed a room.,1,1,0,0,1,2
+cross,He crossed an enemy.,2,1,0,0,2,2
+date,It was a blind date.,2,1,1,1,1,3
+date,It was a dinner date.,2,1,2,2,1,3
+date,It was a historical date.,2,0,0,0,0,2
+date,It was an expiration date.,1,0,0,1,1,2
+degree,It was about associate degrees.,1,0,0,0,0,1
+degree,It was about college degrees.,2,0,0,0,0,1
+degree,It was about fifty degrees.,0,2,0,0,2,2
+degree,It was about forty degrees.,1,2,0,0,1,1
+design,They liked the architectural design.,1,0,0,0,1,4
+design,They liked the floral design.,0,0,0,0,1,4
+design,They liked the geometric design.,0,0,0,0,2,4
+design,They liked the product design.,1,0,0,0,2,3
+dinner,They liked the anniversary dinner.,2,3,3,4,2,3
+dinner,They liked the formal dinner.,2,2,3,3,2,3
+dinner,They liked the light dinner.,2,2,3,4,2,3
+dinner,They liked the turkey dinner.,2,2,3,4,1,3
+drain,They drained the account.,1,1,0,0,1,2
+drain,They drained the budget.,1,0,0,0,1,1
+drain,They drained the pond.,2,0,2,0,2,3
+drain,They drained the pool.,2,0,1,0,2,3
+draw,He drew a gun.,2,1,0,0,1,4
+draw,He drew a sword.,2,1,0,0,2,4
+draw,He drew a tree.,1,1,0,0,2,3
+draw,They drew a picture.,2,1,0,0,2,4
+dream,He had a bad dream.,1,2,0,0,0,2
+dream,He had a career dream.,1,2,0,0,0,2
+dream,He had a childhood dream.,1,2,0,0,0,2
+dream,He had a recurring dream.,2,3,0,0,1,2
+drill,It was a battery-powered drill.,4,1,1,0,3,4
+drill,It was a challenging drill.,4,1,1,0,4,4
+drill,It was a grueling drill.,4,1,1,0,3,4
+drill,It was an electric drill.,4,1,2,0,3,4
+examination,It was a difficult examination.,2,2,0,0,1,2
+examination,It was a multiple-choice examination.,2,2,0,0,1,2
+examination,It was a physical examination.,3,2,1,0,3,3
+examination,It was a prostate examination.,2,4,1,0,4,2
+fan,They had a ceiling fan.,2,0,0,0,2,4
+fan,They had a zealous fan.,3,1,1,0,1,3
+fan,They had an electric fan.,3,1,1,0,2,4
+fan,They had an enthusiastic fan.,3,1,1,0,1,3
+file,She had a data file.,1,0,0,0,2,2
+file,She had a nail file.,2,0,0,0,3,3
+file,She had a steel file.,2,0,1,0,3,3
+file,She had a text file.,1,0,0,0,1,2
+film,It was a censored film.,4,0,0,0,1,4
+film,It was a plastic film.,1,1,2,1,3,4
+film,It was a transparent film.,1,0,1,0,2,4
+film,It was an action film.,4,1,0,0,1,4
+fix,They fixed the date.,1,0,0,0,1,2
+fix,They fixed the dishwasher.,2,1,0,0,3,3
+fix,They fixed the price.,2,0,0,0,1,2
+fix,They fixed the radio.,2,1,0,0,4,3
+foundation,It was a charitable foundation.,1,0,0,0,1,2
+foundation,It was a concrete foundation.,1,0,1,0,3,4
+foundation,It was a wooden foundation.,1,0,1,0,2,3
+foundation,It was an educational foundation.,1,0,0,0,1,2
+function,It was a business function.,3,1,0,0,1,3
+function,It was a linear function.,1,0,0,0,0,1
+function,It was a mathematical function.,1,0,0,0,0,2
+function,It was a social function.,3,1,0,0,1,3
+ground,He was on the camp ground.,1,1,2,0,4,3
+ground,He was on the firm ground.,2,1,2,0,3,3
+ground,He was on the frozen ground.,2,1,2,0,3,4
+ground,He was on the parade ground.,2,0,1,0,2,3
+guard,They liked the coast guard.,2,1,1,0,2,3
+guard,They liked the national guard.,3,1,1,0,1,3
+guard,They liked the night guard.,3,1,1,0,2,3
+guard,They liked the security guard.,2,0,1,0,1,3
+guide,He had a TV guide.,2,0,0,0,1,2
+guide,He had a friendly guide.,3,1,0,0,2,3
+guide,He had a talkative guide.,4,1,0,0,1,3
+guide,He had an assembly guide.,2,0,0,0,1,3
+hail,They hailed a cab.,3,1,0,0,1,3
+hail,They hailed a friend.,3,1,0,0,1,3
+hail,They hailed a guest.,3,1,0,0,1,2
+hail,They hailed a taxi.,2,1,0,0,1,3
+home,It was a childhood home.,2,2,2,0,2,3
+home,It was a funeral home.,2,1,2,0,2,3
+home,It was a nursing home.,2,1,2,0,2,3
+home,It was a summer home.,2,1,2,0,2,3
+intelligence,They had classified intelligence.,2,0,0,0,0,1
+intelligence,They had innate intelligence.,1,1,0,0,0,1
+intelligence,They had military intelligence.,2,1,0,0,0,2
+intelligence,They had natural intelligence.,1,1,0,0,0,1
+issue,It was a political issue.,2,0,0,0,0,1
+issue,It was a sensitive issue.,1,1,0,0,0,1
+issue,It was a special issue.,1,0,0,0,0,1
+issue,It was a weekly issue.,1,0,0,0,0,1
+jam,It was a blackberry jam.,1,2,4,4,3,4
+jam,It was a paper jam.,2,0,1,2,3,3
+jam,It was a peach jam.,1,2,4,4,3,4
+jam,It was a traffic jam.,3,1,1,1,1,4
+key,It was a backspace key.,2,0,0,0,4,2
+key,It was a delete key.,2,0,0,0,4,2
+key,It was a duplicate key.,1,0,1,0,3,3
+key,It was a master key.,1,0,1,0,4,2
+lamb,They liked the cute lamb.,2,1,2,2,2,4
+lamb,They liked the friendly lamb.,2,1,2,2,2,3
+lamb,They liked the grilled lamb.,2,2,4,4,2,3
+lamb,They liked the marinated lamb.,1,2,4,4,2,3
+lap,She lapped the competitors.,2,1,0,0,1,3
+lap,She lapped the milk.,3,1,2,2,3,3
+lap,She lapped the runners.,3,1,0,0,1,3
+lap,She lapped the water.,3,2,1,2,4,3
+load,She loaded the gun.,3,1,1,0,4,3
+load,She loaded the rifle.,3,1,1,0,4,3
+load,She loaded the truck.,2,1,0,0,4,3
+load,She loaded the van.,2,1,0,0,4,3
+lock,She had brown locks.,1,0,1,0,2,4
+lock,She had curly locks.,1,0,0,0,2,3
+lock,She had door locks.,2,0,0,0,3,3
+lock,She had window locks.,2,0,0,0,2,3
+lunch,They liked the afternoon lunch.,2,3,3,3,1,3
+lunch,They liked the hot lunch.,2,2,3,3,1,3
+lunch,They liked the sandwich lunch.,1,2,3,3,1,2
+lunch,They liked the women's lunch.,2,2,2,3,2,2
+market,He liked the fish market.,3,1,3,1,2,4
+market,He liked the flea market.,3,1,2,0,2,4
+market,He liked the housing market.,2,0,2,0,1,2
+market,He liked the stock market.,2,0,1,0,1,2
+match,It was a burning match.,2,0,4,0,2,4
+match,It was a lit match.,2,0,3,0,3,4
+match,It was a soccer match.,4,2,1,0,1,4
+match,It was a tennis match.,4,1,1,0,1,4
+medicine,It was cough medicine.,2,4,3,4,2,3
+medicine,It was orthopedic medicine.,2,3,2,2,2,3
+medicine,It was prescription medicine.,1,3,2,2,2,3
+medicine,It was veterinary medicine.,2,2,2,2,2,3
+message,There was a clear message.,4,0,0,0,0,2
+message,There was a computer message.,2,1,0,0,1,3
+message,There was a phone message.,4,1,0,0,0,2
+message,There was an urgent message.,3,1,0,0,1,2
+mold,It was a clay mold.,1,1,2,1,3,3
+mold,It was a fungal mold.,0,1,4,2,2,3
+mold,It was a harmful mold.,0,1,4,2,2,3
+mold,It was a rubber mold.,1,1,3,2,3,3
+mole,She saw the cancerous mole.,0,1,1,0,2,4
+mole,She saw the cute mole.,1,0,1,0,2,4
+mole,She saw the fast mole.,2,0,1,0,2,4
+mole,She saw the raised mole.,0,0,0,0,2,4
+movement,He liked the civil-rights movement.,2,1,0,0,1,3
+movement,He liked the feminist movement.,2,1,0,0,1,2
+movement,He liked the graceful movement.,2,2,0,0,2,4
+movement,He liked the rhythmic movement.,2,3,0,0,4,3
+newspaper,It was a daily newspaper.,1,0,2,0,4,4
+newspaper,It was a faded newspaper.,1,0,2,0,3,4
+newspaper,It was a national newspaper.,2,0,2,0,2,4
+newspaper,It was a shredded newspaper.,2,0,2,0,3,4
+orange,It was a bright orange.,0,0,2,2,2,4
+orange,It was a juicy orange.,1,2,4,4,4,4
+orange,It was a reddish orange.,0,0,2,2,1,4
+orange,It was a ripe orange.,1,1,4,4,3,4
+page,He saw the blank page.,0,0,1,0,3,4
+page,He saw the loyal page.,2,0,0,0,1,3
+page,He saw the ripped page.,1,0,1,0,4,4
+page,He saw the young page.,1,0,0,0,1,4
+palm,It was a calloused palm.,1,1,0,0,4,3
+palm,It was a tree palm.,1,0,2,0,3,4
+palm,It was a tropical palm.,1,0,2,1,3,4
+palm,It was a wrinkled palm.,1,1,1,0,4,3
+panel,It was a consumer panel.,2,0,0,0,2,2
+panel,It was a control panel.,1,0,0,0,4,4
+panel,It was an advisory panel.,2,0,0,0,1,3
+panel,It was an instrument panel.,2,0,1,0,3,4
+passage,It was a biblical passage.,3,0,0,0,1,2
+passage,It was a literary passage.,1,0,0,0,1,2
+passage,It was a narrow passage.,1,0,1,0,2,3
+passage,It was a secret passage.,2,1,1,0,2,3
+pen,She penned her animals.,2,0,1,0,2,3
+pen,She penned her livestock.,2,0,1,0,3,3
+pen,She penned her memoirs.,2,0,1,0,3,3
+pen,She penned her thoughts.,2,0,1,0,3,3
+perch,It was a freshwater perch.,2,1,2,2,3,3
+perch,It was a lofty perch.,2,0,1,0,2,3
+perch,It was a secure perch.,1,0,1,0,3,3
+perch,It was a tasty perch.,2,2,3,4,2,3
+pick,He picked his coffee.,2,1,2,0,4,2
+pick,He picked his dinner.,2,1,1,1,3,2
+pick,He picked his nose.,2,2,1,1,4,2
+pick,He picked his scab.,2,2,0,0,3,3
+pitcher,He saw the fast pitcher.,3,1,0,0,2,4
+pitcher,He saw the glass pitcher.,1,0,1,1,2,4
+pitcher,He saw the plastic pitcher.,1,0,1,1,3,4
+pitcher,He saw the right-handed pitcher.,2,0,0,0,2,4
+poach,She poached the bear.,2,1,3,1,1,3
+poach,She poached the deer.,3,1,3,2,1,3
+poach,She poached the eggs.,2,1,2,2,1,3
+poach,She poached the vegetables.,2,1,2,2,1,3
+port,It was a delicious port.,1,3,4,4,1,3
+port,It was a seaside port.,2,1,3,1,2,4
+port,It was a sweet port.,2,2,3,4,1,3
+port,It was a windy port.,3,1,2,0,2,4
+position,He was in a distinguished position.,0,1,0,0,1,2
+position,He was in a fetal position.,0,2,0,0,2,2
+position,He was in a prominent position.,0,1,0,0,1,2
+position,He was in a yoga position.,0,2,0,0,2,3
+post,It was a challenging post.,1,0,0,0,2,2
+post,It was a fence post.,2,1,1,0,3,3
+post,It was a teaching post.,2,0,0,0,1,2
+post,It was a wooden post.,1,0,2,0,3,4
+punch,He had the alcoholic punch.,2,2,3,3,1,3
+punch,He had the fruit punch.,2,2,2,3,1,3
+punch,He had the quickest punch.,2,1,0,0,3,3
+punch,He had the strongest punch.,2,2,0,0,4,3
+pupil,She had a brilliant pupil.,2,0,0,0,1,4
+pupil,She had a cloudy pupil.,1,0,0,0,1,4
+pupil,She had a dilated pupil.,1,0,0,0,1,4
+pupil,She had an interested pupil.,2,0,0,0,1,3
+push,He pushed the bed.,2,3,0,0,4,3
+push,He pushed the cocaine.,2,2,0,0,3,2
+push,He pushed the desk.,2,3,0,0,4,3
+push,He pushed the drugs.,2,2,0,0,3,3
+racket,That was a badminton racket.,2,1,0,0,4,4
+racket,That was a loud racket.,4,1,0,0,1,2
+racket,That was a tennis racket.,4,1,1,0,4,4
+racket,That was an annoying racket.,4,1,0,0,1,2
+rock,He liked alternative rock.,4,1,0,0,1,3
+rock,He liked electronic rock.,4,1,0,0,1,2
+rock,He liked granite rock.,2,0,1,1,3,4
+rock,He liked limestone rock.,2,0,2,1,3,4
+run,She ran the company.,1,1,0,0,1,2
+run,She ran the marathon.,3,3,0,0,3,4
+run,She ran the race.,3,4,0,0,3,4
+run,She ran the shop.,2,2,0,0,1,3
+sage,He saw the bushy sage.,1,1,4,2,2,4
+sage,He saw the fragrant sage.,1,1,4,3,2,4
+sage,He saw the renowned sage.,2,1,2,2,1,4
+sage,He saw the wise sage.,2,0,2,1,1,3
+scale,It was a fish scale.,1,1,2,2,3,4
+scale,It was a lizard scale.,1,1,1,1,3,4
+scale,It was a major scale.,4,1,0,0,1,2
+scale,It was a music scale.,4,1,0,0,1,2
+scene,It was a nature scene.,2,0,2,0,1,4
+scene,It was a panoramic scene.,1,0,0,0,0,4
+scene,It was a touching scene.,2,1,0,0,0,4
+scene,It was a well-acted scene.,4,1,0,0,0,4
+seal,It was a certified seal.,2,0,1,0,2,3
+seal,It was a circus seal.,3,0,2,0,2,4
+seal,It was a gold seal.,1,0,1,0,3,3
+seal,It was a trained seal.,3,0,2,0,2,4
+serve,She served a lasagna.,2,0,1,0,1,2
+serve,She served a pie.,2,1,1,0,1,2
+serve,She served a summons.,2,0,0,0,1,2
+serve,She served a warrant.,3,0,0,0,1,2
+sing,The bird sang.,4,1,0,0,0,2
+sing,The choir sang.,4,2,0,0,0,4
+sing,The cricket sang.,4,1,0,0,1,2
+sing,The girl sang.,4,2,0,0,0,3
+spill,He spilled the drink.,2,1,2,2,3,3
+spill,He spilled the flour.,3,1,1,1,3,4
+spill,He spilled the news.,2,0,0,0,1,2
+spill,He spilled the secret.,2,1,0,0,1,2
+stake,He staked his claim.,2,1,0,0,2,3
+stake,He staked his horse.,2,1,1,0,2,3
+stake,He staked his name.,2,1,0,0,2,2
+stake,He staked his tent.,2,1,1,0,4,3
+stall,They stalled the bus.,2,1,0,0,1,3
+stall,They stalled the horse.,2,1,2,0,2,3
+stall,They stalled the pig.,2,1,2,0,2,2
+stall,They stalled the truck.,3,2,1,0,2,3
+stay,They stayed cold.,1,1,0,0,1,1
+stay,They stayed nearby.,1,1,0,0,1,2
+stay,They stayed overnight.,1,1,0,0,1,2
+stay,They stayed wet.,1,1,1,0,2,2
+tap,He tapped the beer.,4,1,1,2,3,3
+tap,He tapped the drums.,4,1,0,0,4,3
+tap,He tapped the keg.,4,1,1,1,4,3
+tap,He tapped the stick.,4,1,0,0,3,2
+tape,He used the double-sided tape.,2,0,1,0,3,3
+tape,He used the interview tape.,4,0,0,0,2,3
+tape,He used the scotch tape.,2,0,1,0,4,3
+tape,He used the video tape.,3,0,1,0,2,3
+term,It was a fall term.,1,0,0,0,0,1
+term,It was a legal term.,1,0,0,0,0,1
+term,It was a technical term.,1,0,0,0,0,1
+term,It was a winter term.,1,0,0,0,0,1
+tick,It was a clock tick.,4,0,0,0,1,2
+tick,It was a diseased tick.,1,0,2,0,3,3
+tick,It was a parasitic tick.,2,1,1,0,3,3
+tick,It was an audible tick.,4,0,0,0,1,1
+tip,It was a finger tip.,1,2,0,0,4,3
+tip,It was a generous tip.,1,1,0,0,1,2
+tip,It was a pencil tip.,1,0,0,0,4,3
+tip,It was a stingy tip.,1,1,0,0,1,2
+title,She liked the academic title.,1,0,0,0,0,1
+title,She liked the essay title.,1,0,0,0,0,2
+title,She liked the poem title.,2,0,0,0,0,2
+title,She liked the professional title.,2,0,0,0,0,1
+toast,They toasted the bread.,3,1,4,4,3,3
+toast,They toasted the bride.,3,1,3,3,1,3
+toast,They toasted the host.,2,1,4,3,2,3
+toast,They toasted the strudel.,2,1,4,4,2,3
+toll,It was a bell toll.,4,1,0,0,1,2
+toll,It was a costly toll.,2,1,0,0,0,2
+toll,It was a loud toll.,4,1,0,0,1,2
+toll,It was a road toll.,2,0,0,0,1,2
+track,She saw the moose tracks.,1,0,1,0,1,4
+track,She saw the snowshoe tracks.,1,0,1,0,1,4
+track,She saw the train tracks.,2,0,1,0,2,4
+track,She saw the trolley tracks.,2,0,1,0,2,4
+yard,It was five yards.,1,0,0,0,1,2
+yard,It was ten yards.,1,0,0,0,1,2
+yard,They were big yards.,2,0,1,0,2,4
+yard,They were cluttered yards.,2,0,2,0,2,4

@@ -1,0 +1,6 @@
+Some words can have different meanings depending on the context. For example, the word 'bark' might be interpreted differently in the following sentences: 
+
+That bark was very loud.
+That bark was very thick.
+
+In this experiment, you will read pairs of sentences, each containing the same word (e.g., "bark"). The word will sometimes have the very same meaning in both sentences. Sometimes, it will be totally unrelated. And sometimes it will be somewhere in between.

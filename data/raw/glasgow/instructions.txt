@@ -1,0 +1,5 @@
+In this experiment, you will be rating a set of words according to aspects of their meaning.
+
+Sometimes words have more than one meaning – for example, the word “nail” has one meaning related to fingers and one related to hammers In such cases, we will display the word in one of its meanings – “nail (finger)” or “nail” (hammer)”. Please rate these words according to your first impression.
+
+It is also possible that you may be presented with a word that you don’t know. If this happens, there is a button “Unfamiliar word” located below the rating scale that you can click on to proceed to the next trial. Finally, it may sometimes be difficult to rate a word on a given scale. For example, the word “desk” might be difficult to categorise as either being a masculine or feminine thing. Likewise, the word “amusing” might be difficult to categorise as something that is big or small. When you are faced with such difficult decisions, please respond as best as you can without thinking too deeply – go with your intuitions.

@@ -1,0 +1,7 @@
+Welcome to the experiment!
+
+In this study, you will read a series of sentences, each containing a target word. 
+
+For example: It was a wooden table. 
+
+In each sentence, the target word will have a particular, context-dependent meaning. Your task will be to rate how much you experience the concept or action that word refers to with five parts of your body: hand/arm, foot/leg, mouth/throat, head, and torso. Ratings will range from 0 (not at all experienced with that body part) to 5 (experienced greatly with that body part). Note that there are no right or wrong answers! In some cases, the word may not have any strong associations. In others, it may be associated with each body part very strongly.

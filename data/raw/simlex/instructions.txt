@@ -1,0 +1,23 @@
+Two words are synonyms if they have very similar meanings. Synonyms represent the same type or category of thing. Here are some examples of synonym pairs: 
+
+- cup/mug
+- glasses/spectacles
+- envy/jealousy
+
+In practice, word pairs that are not exactly synonymous may still be very similar. Here are some very similar pairs - we could say they are nearly synonyms:
+
+- alligator/crocodile
+- love/affection
+- frog/toad
+
+In contrast, although the following word pairs are related, they are not very similar. The words represent entirely different types of things:
+
+- car/tire
+- car/motorway
+- car/crash
+
+In this survey, you are asked to compare word pairs and to rate how similar they are, on a scale from 0 (not at all similar) to 10 (the same concept). Remember, things that are related are not necessarily similar.
+
+If you are ever unsure, think back to the examples of synonymous pairs (glasses/spectacles), and consider how close the words are (or are not) to being synonymous.
+
+There is no right answer to these questions. It is perfectly reasonable to use your intuition or gut feeling as a native English speaker, especially when you are asked to rate word pairs that you think are not similar at all.

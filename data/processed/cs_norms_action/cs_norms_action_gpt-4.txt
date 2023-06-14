@@ -1,0 +1,2240 @@
+act,Rating: 2,Hand_arm,It was a comedic act.
+act,Rating: 1,Foot_leg,It was a comedic act.
+act,2,Torso,It was a comedic act.
+act,Rating: 2,Head,It was a comedic act.
+act,Rating: 2,Mouth_throat,It was a comedic act.
+act,Rating: 2,Hand_arm,It was a desperate act.
+act,Rating: 1,Foot_leg,It was a desperate act.
+act,Rating: 2,Torso,It was a desperate act.
+act,Rating: 2,Head,It was a desperate act.
+act,Rating: 1,Mouth_throat,It was a desperate act.
+act,Rating: 2,Hand_arm,It was a humane act.
+act,Rating: 0 (not at all experienced with,Foot_leg,It was a humane act.
+act,2,Torso,It was a humane act.
+act,2,Head,It was a humane act.
+act,Rating: 1,Mouth_throat,It was a humane act.
+act,Rating: 3,Hand_arm,It was a magic act.
+act,Rating: 1,Foot_leg,It was a magic act.
+act,Rating: 1,Torso,It was a magic act.
+act,Rating: 2,Head,It was a magic act.
+act,Rating: 1,Mouth_throat,It was a magic act.
+appeal,Rating: 1,Hand_arm,He had a legal appeal.
+appeal,Rating: 0 (not at all experienced with,Foot_leg,He had a legal appeal.
+appeal,Rating: 0 (not at all experienced with,Torso,He had a legal appeal.
+appeal,1,Head,He had a legal appeal.
+appeal,Rating: 1,Mouth_throat,He had a legal appeal.
+appeal,Rating: 1,Hand_arm,He had a pending appeal.
+appeal,0 (not at all experienced with that body part,Foot_leg,He had a pending appeal.
+appeal,Rating: 0 (not at all experienced with,Torso,He had a pending appeal.
+appeal,Rating: 1,Head,He had a pending appeal.
+appeal,Rating: 0,Mouth_throat,He had a pending appeal.
+appeal,Rating: 1,Hand_arm,He had a universal appeal.
+appeal,Rating: 0 (not at all experienced with,Foot_leg,He had a universal appeal.
+appeal,Rating: 1,Torso,He had a universal appeal.
+appeal,Rating: 1,Head,He had a universal appeal.
+appeal,Rating: 1,Mouth_throat,He had a universal appeal.
+appeal,Rating: 1,Hand_arm,He had an undefinable appeal.
+appeal,Rating: 0 (not at all experienced with,Foot_leg,He had an undefinable appeal.
+appeal,Rating: 1,Torso,He had an undefinable appeal.
+appeal,Rating: 1,Head,He had an undefinable appeal.
+appeal,Rating: 0 (not at all experienced with,Mouth_throat,He had an undefinable appeal.
+atmosphere,Rating: 1,Hand_arm,It was a gaseous atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Foot_leg,It was a gaseous atmosphere.
+atmosphere,Rating: 2,Torso,It was a gaseous atmosphere.
+atmosphere,Rating: 1,Head,It was a gaseous atmosphere.
+atmosphere,Rating: 1,Mouth_throat,It was a gaseous atmosphere.
+atmosphere,Rating: 1,Hand_arm,It was a hostile atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Foot_leg,It was a hostile atmosphere.
+atmosphere,Rating: 1,Torso,It was a hostile atmosphere.
+atmosphere,Rating: 1,Head,It was a hostile atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Mouth_throat,It was a hostile atmosphere.
+atmosphere,Rating: 1,Hand_arm,It was a polluted atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Foot_leg,It was a polluted atmosphere.
+atmosphere,Rating: 2,Torso,It was a polluted atmosphere.
+atmosphere,2,Head,It was a polluted atmosphere.
+atmosphere,Rating: 1,Mouth_throat,It was a polluted atmosphere.
+atmosphere,Rating: 1,Hand_arm,It was a tense atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Foot_leg,It was a tense atmosphere.
+atmosphere,Rating: 1,Torso,It was a tense atmosphere.
+atmosphere,Rating: 1,Head,It was a tense atmosphere.
+atmosphere,Rating: 0 (not at all experienced with,Mouth_throat,It was a tense atmosphere.
+bail,2,Hand_arm,He bailed out the defendant.
+bail,Rating: 0 (not at all experienced with,Foot_leg,He bailed out the defendant.
+bail,Rating: 1,Torso,He bailed out the defendant.
+bail,Rating: 1,Head,He bailed out the defendant.
+bail,Rating: 1,Mouth_throat,He bailed out the defendant.
+bail,4,Hand_arm,He bailed out the liquid.
+bail,Rating: 0 (not at all experienced with,Foot_leg,He bailed out the liquid.
+bail,Rating: 2,Torso,He bailed out the liquid.
+bail,Rating: 1,Head,He bailed out the liquid.
+bail,Rating: 0 (not at all experienced with,Mouth_throat,He bailed out the liquid.
+bail,2,Hand_arm,He bailed out the prisoner.
+bail,Rating: 0 (not at all experienced with,Foot_leg,He bailed out the prisoner.
+bail,Rating: 1,Torso,He bailed out the prisoner.
+bail,Rating: 1,Head,He bailed out the prisoner.
+bail,Rating: 1,Mouth_throat,He bailed out the prisoner.
+bail,4,Hand_arm,He bailed out the water.
+bail,Rating: 0 (not at all experienced with,Foot_leg,He bailed out the water.
+bail,Rating: 3,Torso,He bailed out the water.
+bail,Rating: 1,Head,He bailed out the water.
+bail,Rating: 0 (not at all experienced with,Mouth_throat,He bailed out the water.
+band,Rating: 2,Hand_arm,It was a country band.
+band,Rating: 2,Foot_leg,It was a country band.
+band,Rating: 2,Torso,It was a country band.
+band,Rating: 2,Head,It was a country band.
+band,Rating: 3,Mouth_throat,It was a country band.
+band,Rating: 1,Hand_arm,It was a gold band.
+band,Rating: 1,Foot_leg,It was a gold band.
+band,Rating: 1,Torso,It was a gold band.
+band,Rating: 1,Head,It was a gold band.
+band,Rating: 1,Mouth_throat,It was a gold band.
+band,Rating: 2,Hand_arm,It was a jazz band.
+band,Rating: 2,Foot_leg,It was a jazz band.
+band,Rating: 2,Torso,It was a jazz band.
+band,Rating: 2,Head,It was a jazz band.
+band,Rating: 4,Mouth_throat,It was a jazz band.
+band,Rating: 3,Hand_arm,It was a rubber band.
+band,Rating: 1,Foot_leg,It was a rubber band.
+band,Rating: 1,Torso,It was a rubber band.
+band,Rating: 1,Head,It was a rubber band.
+band,Rating: 3,Mouth_throat,It was a rubber band.
+bank,Rating: 2,Hand_arm,He banked the cash.
+bank,Rating: 0 (not at all experienced with,Foot_leg,He banked the cash.
+bank,Rating: 0 (not at all experienced with,Torso,He banked the cash.
+bank,Rating: 1,Head,He banked the cash.
+bank,Rating: 0 (not at all experienced with,Mouth_throat,He banked the cash.
+bank,Rating: 1,Hand_arm,He banked the helicopter.
+bank,Rating: 0 (not at all experienced with,Foot_leg,He banked the helicopter.
+bank,Rating: 2,Torso,He banked the helicopter.
+bank,Rating: 2,Head,He banked the helicopter.
+bank,Rating: 0 (not at all experienced with,Mouth_throat,He banked the helicopter.
+bank,Rating: 2,Hand_arm,He banked the money.
+bank,Rating: 0 (not at all experienced with,Foot_leg,He banked the money.
+bank,Rating: 0 (not at all experienced with,Torso,He banked the money.
+bank,Rating: 1,Head,He banked the money.
+bank,Rating: 1,Mouth_throat,He banked the money.
+bank,Rating: 2,Hand_arm,He banked the plane.
+bank,Rating: 1,Foot_leg,He banked the plane.
+bank,Rating: 2,Torso,He banked the plane.
+bank,Rating: 2,Head,He banked the plane.
+bank,Rating: 0 (not at all experienced with,Mouth_throat,He banked the plane.
+barrier,Rating: 1,Hand_arm,There was a concrete barrier.
+barrier,Rating: 1,Foot_leg,There was a concrete barrier.
+barrier,Rating: 1,Torso,There was a concrete barrier.
+barrier,Rating: 0 (not at all experienced with,Head,There was a concrete barrier.
+barrier,0 (not at all experienced with that body part,Mouth_throat,There was a concrete barrier.
+barrier,Rating: 1,Hand_arm,There was a language barrier.
+barrier,Rating: 1,Foot_leg,There was a language barrier.
+barrier,Rating: 0 (not at all experienced with,Torso,There was a language barrier.
+barrier,Rating: 1,Head,There was a language barrier.
+barrier,Rating: 0 (not at all experienced with,Mouth_throat,There was a language barrier.
+barrier,Rating: 1,Hand_arm,There was a police barrier.
+barrier,Rating: 1,Foot_leg,There was a police barrier.
+barrier,Rating: 1,Torso,There was a police barrier.
+barrier,Rating: 0 (not at all experienced with,Head,There was a police barrier.
+barrier,0 (not at all experienced with that body part,Mouth_throat,There was a police barrier.
+barrier,Rating: 1,Hand_arm,There was a religious barrier.
+barrier,Rating: 0 (not at all experienced with,Foot_leg,There was a religious barrier.
+barrier,Rating: 0 (not at all experienced with,Torso,There was a religious barrier.
+barrier,Rating: 1,Head,There was a religious barrier.
+barrier,0 (not at all experienced with that body part,Mouth_throat,There was a religious barrier.
+bat,Rating: 4,Hand_arm,He saw a baseball bat.
+bat,Rating: 1,Foot_leg,He saw a baseball bat.
+bat,Rating: 3,Torso,He saw a baseball bat.
+bat,Rating: 1,Head,He saw a baseball bat.
+bat,Rating: 0 (not at all experienced with,Mouth_throat,He saw a baseball bat.
+bat,Rating: 2,Hand_arm,He saw a fruit bat.
+bat,Rating: 0 (not at all experienced with,Foot_leg,He saw a fruit bat.
+bat,Rating: 1,Torso,He saw a fruit bat.
+bat,Rating: 1,Head,He saw a fruit bat.
+bat,Rating: 4,Mouth_throat,He saw a fruit bat.
+bat,Rating: 2,Hand_arm,He saw a furry bat.
+bat,Rating: 1,Foot_leg,He saw a furry bat.
+bat,Rating: 2,Torso,He saw a furry bat.
+bat,Rating: 1,Head,He saw a furry bat.
+bat,Rating: 0 (not at all experienced with,Mouth_throat,He saw a furry bat.
+bat,Rating: 3,Hand_arm,He saw a wooden bat.
+bat,Rating: 1,Foot_leg,He saw a wooden bat.
+bat,Rating: 3,Torso,He saw a wooden bat.
+bat,Rating: 1,Head,He saw a wooden bat.
+bat,Rating: 0 (not at all experienced with,Mouth_throat,He saw a wooden bat.
+beam,Rating: 2,Hand_arm,He saw the balance beam.
+beam,Rating: 4,Foot_leg,He saw the balance beam.
+beam,Rating: 4,Torso,He saw the balance beam.
+beam,Rating: 1,Head,He saw the balance beam.
+beam,Rating: 0 (not at all experienced with,Mouth_throat,He saw the balance beam.
+beam,Rating: 1,Hand_arm,He saw the bright beam.
+beam,Rating: 0 (not at all experienced with,Foot_leg,He saw the bright beam.
+beam,Rating: 1,Torso,He saw the bright beam.
+beam,Rating: 1,Head,He saw the bright beam.
+beam,Rating: 0 (not at all experienced with,Mouth_throat,He saw the bright beam.
+beam,Rating: 1,Hand_arm,He saw the laser beam.
+beam,Rating: 0 (not at all experienced with,Foot_leg,He saw the laser beam.
+beam,Rating: 0 (not at all experienced with,Torso,He saw the laser beam.
+beam,Rating: 1,Head,He saw the laser beam.
+beam,Rating: 0 (not at all experienced with,Mouth_throat,He saw the laser beam.
+beam,Rating: 1,Hand_arm,He saw the wood beam.
+beam,Rating: 0 (not at all experienced with,Foot_leg,He saw the wood beam.
+beam,Rating: 1,Torso,He saw the wood beam.
+beam,Rating: 1,Head,He saw the wood beam.
+beam,Rating: 0 (not at all experienced with,Mouth_throat,He saw the wood beam.
+block,Rating: 1,Hand_arm,She had a mental block.
+block,Rating: 1,Foot_leg,She had a mental block.
+block,Rating: 0 (not at all experienced with,Torso,She had a mental block.
+block,Rating: 4,Head,She had a mental block.
+block,Rating: 0 (not at all experienced with,Mouth_throat,She had a mental block.
+block,Rating: 4,Hand_arm,She had a toy block.
+block,Rating: 2,Foot_leg,She had a toy block.
+block,Rating: 1,Torso,She had a toy block.
+block,Rating: 1,Head,She had a toy block.
+block,Rating: 1,Mouth_throat,She had a toy block.
+block,Rating: 1,Hand_arm,She had a wooden block.
+block,Rating: 1,Foot_leg,She had a wooden block.
+block,Rating: 1,Torso,She had a wooden block.
+block,Rating: 1,Head,She had a wooden block.
+block,Rating: 1,Mouth_throat,She had a wooden block.
+block,Rating: 2,Hand_arm,She had a writer's block.
+block,Rating: 1,Foot_leg,She had a writer's block.
+block,Rating: 1,Torso,She had a writer's block.
+block,Rating: 2,Head,She had a writer's block.
+block,Rating: 0 (not at all experienced with,Mouth_throat,She had a writer's block.
+blood,Rating: 1,Hand_arm,He has coagulated blood.
+blood,Rating: 1,Foot_leg,He has coagulated blood.
+blood,Rating: 1,Torso,He has coagulated blood.
+blood,2,Head,He has coagulated blood.
+blood,Rating: 1,Mouth_throat,He has coagulated blood.
+blood,Rating: 1,Hand_arm,He has noble blood.
+blood,Rating: 1,Foot_leg,He has noble blood.
+blood,Rating: 2,Torso,He has noble blood.
+blood,Rating: 1,Head,He has noble blood.
+blood,Rating: 1,Mouth_throat,He has noble blood.
+blood,Rating: 1,Hand_arm,He has royal blood.
+blood,Rating: 1,Foot_leg,He has royal blood.
+blood,2,Torso,He has royal blood.
+blood,Rating: 1,Head,He has royal blood.
+blood,Rating: 1,Mouth_throat,He has royal blood.
+blood,Rating: 1,Hand_arm,He has thin blood.
+blood,Rating: 1,Foot_leg,He has thin blood.
+blood,Rating: 2,Torso,He has thin blood.
+blood,Rating: 1,Head,He has thin blood.
+blood,Rating: 1,Mouth_throat,He has thin blood.
+board,Rating: 1,Hand_arm,It was the executive board.
+board,Rating: 0 (not at all experienced with,Foot_leg,It was the executive board.
+board,Rating: 1,Torso,It was the executive board.
+board,Rating: 1,Head,It was the executive board.
+board,Rating: 0 (not at all experienced with,Mouth_throat,It was the executive board.
+board,Rating: 2,Hand_arm,It was the ironing board.
+board,Rating: 1,Foot_leg,It was the ironing board.
+board,Rating: 2,Torso,It was the ironing board.
+board,Rating: 1,Head,It was the ironing board.
+board,Rating: 0 (not at all experienced with,Mouth_throat,It was the ironing board.
+board,Rating: 1,Hand_arm,It was the school board.
+board,Rating: 0 (not at all experienced with,Foot_leg,It was the school board.
+board,Rating: 1,Torso,It was the school board.
+board,Rating: 1,Head,It was the school board.
+board,Rating: 0 (not at all experienced with,Mouth_throat,It was the school board.
+board,Rating: 2,Hand_arm,It was the wooden board.
+board,Rating: 1,Foot_leg,It was the wooden board.
+board,Rating: 1,Torso,It was the wooden board.
+board,Rating: 1,Head,It was the wooden board.
+board,Rating: 0 (not at all experienced with,Mouth_throat,It was the wooden board.
+book,2,Hand_arm,He had a best-selling book.
+book,Rating: 0 (not at all experienced with,Foot_leg,He had a best-selling book.
+book,Rating: 0 (not at all experienced with,Torso,He had a best-selling book.
+book,Rating: 2,Head,He had a best-selling book.
+book,Rating: 0,Mouth_throat,He had a best-selling book.
+book,Rating: 3,Hand_arm,He had a heavy book.
+book,Rating: 1,Foot_leg,He had a heavy book.
+book,Rating: 1,Torso,He had a heavy book.
+book,Rating: 2,Head,He had a heavy book.
+book,Rating: 1,Mouth_throat,He had a heavy book.
+book,Rating: 2,Hand_arm,He had a leather-bound book.
+book,Rating: 0 (not at all experienced with,Foot_leg,He had a leather-bound book.
+book,Rating: 0 (not at all experienced with,Torso,He had a leather-bound book.
+book,Rating: 2,Head,He had a leather-bound book.
+book,Rating: 1,Mouth_throat,He had a leather-bound book.
+book,2,Hand_arm,He had a popular book.
+book,Rating: 0 (not at all experienced with,Foot_leg,He had a popular book.
+book,Rating: 0 (not at all experienced with,Torso,He had a popular book.
+book,Rating: 2,Head,He had a popular book.
+book,Rating: 0 (not at all experienced with,Mouth_throat,He had a popular book.
+break,3,Hand_arm,He broke the dish.
+break,Rating: 2,Foot_leg,He broke the dish.
+break,Rating: 1,Torso,He broke the dish.
+break,Rating: 1,Head,He broke the dish.
+break,Rating: 1,Mouth_throat,He broke the dish.
+break,Rating: 4,Hand_arm,He broke the glass.
+break,Rating: 2,Foot_leg,He broke the glass.
+break,Rating: 1,Torso,He broke the glass.
+break,Rating: 1,Head,He broke the glass.
+break,Rating: 1,Mouth_throat,He broke the glass.
+break,2,Hand_arm,He broke the law.
+break,Rating: 1,Foot_leg,He broke the law.
+break,Rating: 1,Torso,He broke the law.
+break,Rating: 0 (not at all experienced with,Head,He broke the law.
+break,Rating: 0 (not at all experienced with,Mouth_throat,He broke the law.
+break,Rating: 1,Hand_arm,He broke the promise.
+break,Rating: 0 (not at all experienced with,Foot_leg,He broke the promise.
+break,Rating: 0 (not at all experienced with,Torso,He broke the promise.
+break,Rating: 1,Head,He broke the promise.
+break,Rating: 0 (not at all experienced with,Mouth_throat,He broke the promise.
+breakfast,Rating: 3,Hand_arm,They ate a family breakfast.
+breakfast,Rating: 0,Foot_leg,They ate a family breakfast.
+breakfast,Rating: 2,Torso,They ate a family breakfast.
+breakfast,2,Head,They ate a family breakfast.
+breakfast,4,Mouth_throat,They ate a family breakfast.
+breakfast,Rating: 3,Hand_arm,They ate a lonely breakfast.
+breakfast,Rating: 0 (not at all experienced with,Foot_leg,They ate a lonely breakfast.
+breakfast,Rating: 2,Torso,They ate a lonely breakfast.
+breakfast,Rating: 2,Head,They ate a lonely breakfast.
+breakfast,4,Mouth_throat,They ate a lonely breakfast.
+breakfast,Rating: 3,Hand_arm,They ate a nutritious breakfast.
+breakfast,Rating: 0 (not at all experienced with,Foot_leg,They ate a nutritious breakfast.
+breakfast,Rating: 2,Torso,They ate a nutritious breakfast.
+breakfast,Rating: 2,Head,They ate a nutritious breakfast.
+breakfast,4,Mouth_throat,They ate a nutritious breakfast.
+breakfast,Rating: 2,Hand_arm,They ate a pancake breakfast.
+breakfast,Rating: 0 (not at all experienced with,Foot_leg,They ate a pancake breakfast.
+breakfast,Rating: 2,Torso,They ate a pancake breakfast.
+breakfast,Rating: 2,Head,They ate a pancake breakfast.
+breakfast,4,Mouth_throat,They ate a pancake breakfast.
+call,Rating: 2,Hand_arm,They called the debt.
+call,Rating: 0 (not at all experienced with,Foot_leg,They called the debt.
+call,Rating: 0 (not at all experienced with,Torso,They called the debt.
+call,2,Head,They called the debt.
+call,2,Mouth_throat,They called the debt.
+call,Rating: 4,Hand_arm,They called the landlord.
+call,0 (not at all experienced with that body part,Foot_leg,They called the landlord.
+call,Rating: 1,Torso,They called the landlord.
+call,2,Head,They called the landlord.
+call,2,Mouth_throat,They called the landlord.
+call,2,Hand_arm,They called the loan.
+call,0 (not at all experienced with that body part,Foot_leg,They called the loan.
+call,Rating: 0 (not at all experienced with,Torso,They called the loan.
+call,Rating: 2,Head,They called the loan.
+call,2,Mouth_throat,They called the loan.
+call,Rating: 4,Hand_arm,They called the police.
+call,Rating: 0 (not at all experienced with,Foot_leg,They called the police.
+call,0 (not at all experienced with that body part,Torso,They called the police.
+call,Rating: 3,Head,They called the police.
+call,Rating: 4,Mouth_throat,They called the police.
+cape,Rating: 2,Hand_arm,It was a flowing cape.
+cape,Rating: 1,Foot_leg,It was a flowing cape.
+cape,Rating: 4,Torso,It was a flowing cape.
+cape,Rating: 2,Head,It was a flowing cape.
+cape,Rating: 0 (not at all experienced with,Mouth_throat,It was a flowing cape.
+cape,Rating: 2,Hand_arm,It was a red cape.
+cape,Rating: 1,Foot_leg,It was a red cape.
+cape,Rating: 4,Torso,It was a red cape.
+cape,Rating: 4,Head,It was a red cape.
+cape,Rating: 0 (not at all experienced with,Mouth_throat,It was a red cape.
+cape,Rating: 1,Hand_arm,It was a rocky cape.
+cape,Rating: 2,Foot_leg,It was a rocky cape.
+cape,Rating: 2,Torso,It was a rocky cape.
+cape,Rating: 1,Head,It was a rocky cape.
+cape,Rating: 0 (not at all experienced with,Mouth_throat,It was a rocky cape.
+cape,Rating: 1,Hand_arm,It was an island cape.
+cape,Rating: 1,Foot_leg,It was an island cape.
+cape,Rating: 1,Torso,It was an island cape.
+cape,Rating: 1,Head,It was an island cape.
+cape,Rating: 0 (not at all experienced with,Mouth_throat,It was an island cape.
+case,2,Hand_arm,It was a beer case.
+case,Rating: 1,Foot_leg,It was a beer case.
+case,Rating: 2,Torso,It was a beer case.
+case,Rating: 1,Head,It was a beer case.
+case,Rating: 3,Mouth_throat,It was a beer case.
+case,Rating: 1,Hand_arm,It was a criminal case.
+case,Rating: 0 (not at all experienced with,Foot_leg,It was a criminal case.
+case,Rating: 0 (not at all experienced with,Torso,It was a criminal case.
+case,Rating: 1,Head,It was a criminal case.
+case,Rating: 0 (not at all experienced with,Mouth_throat,It was a criminal case.
+case,Rating: 1,Hand_arm,It was a display case.
+case,Rating: 0 (not at all experienced with,Foot_leg,It was a display case.
+case,Rating: 1,Torso,It was a display case.
+case,Rating: 1,Head,It was a display case.
+case,Rating: 0 (not at all experienced with,Mouth_throat,It was a display case.
+case,Rating: 1,Hand_arm,It was a divorce case.
+case,Rating: 0 (not at all experienced with,Foot_leg,It was a divorce case.
+case,Rating: 0 (not at all experienced with,Torso,It was a divorce case.
+case,Rating: 1,Head,It was a divorce case.
+case,Rating: 0 (not at all experienced with,Mouth_throat,It was a divorce case.
+cast,Rating: 2,Hand_arm,She cast a glow.
+cast,Rating: 1,Foot_leg,She cast a glow.
+cast,Rating: 1,Torso,She cast a glow.
+cast,Rating: 1,Head,She cast a glow.
+cast,Rating: 0 (not at all experienced with,Mouth_throat,She cast a glow.
+cast,Rating: 3,Hand_arm,She cast a shadow.
+cast,Rating: 1,Foot_leg,She cast a shadow.
+cast,Rating: 2,Torso,She cast a shadow.
+cast,Rating: 1,Head,She cast a shadow.
+cast,Rating: 0 (not at all experienced with,Mouth_throat,She cast a shadow.
+cast,4,Hand_arm,She cast a spear.
+cast,Rating: 1,Foot_leg,She cast a spear.
+cast,Rating: 4,Torso,She cast a spear.
+cast,2,Head,She cast a spear.
+cast,Rating: 1,Mouth_throat,She cast a spear.
+cast,4,Hand_arm,She cast a stone.
+cast,Rating: 1,Foot_leg,She cast a stone.
+cast,Rating: 3,Torso,She cast a stone.
+cast,2,Head,She cast a stone.
+cast,Rating: 0 (not at all experienced with,Mouth_throat,She cast a stone.
+cause,Rating: 1,Hand_arm,It was a main cause.
+cause,0 (not at all experienced with that body part,Foot_leg,It was a main cause.
+cause,Rating: 0 (not at all experienced with,Torso,It was a main cause.
+cause,Rating: 1,Head,It was a main cause.
+cause,0 (not at all experienced with that body part,Mouth_throat,It was a main cause.
+cause,Rating: 1,Hand_arm,It was a political cause.
+cause,0 (not at all experienced with that body part,Foot_leg,It was a political cause.
+cause,Rating: 1,Torso,It was a political cause.
+cause,Rating: 2,Head,It was a political cause.
+cause,Rating: 1,Mouth_throat,It was a political cause.
+cause,Rating: 1,Hand_arm,It was a primary cause.
+cause,0 (not at all experienced with that body part,Foot_leg,It was a primary cause.
+cause,0 (not at all experienced with that body part,Torso,It was a primary cause.
+cause,Rating: 1,Head,It was a primary cause.
+cause,0 (not at all experienced with that body part,Mouth_throat,It was a primary cause.
+cause,Rating: 1,Hand_arm,It was a worthy cause.
+cause,0 (not at all experienced with that body part,Foot_leg,It was a worthy cause.
+cause,Rating: 0 (not at all experienced with,Torso,It was a worthy cause.
+cause,Rating: 1,Head,It was a worthy cause.
+cause,Rating: 0 (not at all experienced with,Mouth_throat,It was a worthy cause.
+cell,Rating: 0,Hand_arm,It was a brain cell.
+cell,0 (not at all experienced with that body part,Foot_leg,It was a brain cell.
+cell,Rating: 0 (not at all experienced with,Torso,It was a brain cell.
+cell,Rating: 0,Head,It was a brain cell.
+cell,Rating: 0 (not at all experienced with,Mouth_throat,It was a brain cell.
+cell,Rating: 1,Hand_arm,It was a jail cell.
+cell,Rating: 1,Foot_leg,It was a jail cell.
+cell,Rating: 1,Torso,It was a jail cell.
+cell,Rating: 1,Head,It was a jail cell.
+cell,Rating: 0 (not at all experienced with,Mouth_throat,It was a jail cell.
+cell,Rating: 1,Hand_arm,It was a prison cell.
+cell,Rating: 1,Foot_leg,It was a prison cell.
+cell,Rating: 1,Torso,It was a prison cell.
+cell,Rating: 1,Head,It was a prison cell.
+cell,Rating: 0 (not at all experienced with,Mouth_throat,It was a prison cell.
+cell,Rating: 1,Hand_arm,It was a skin cell.
+cell,Rating: 0 (not at all experienced with,Foot_leg,It was a skin cell.
+cell,Rating: 0 (not at all experienced with,Torso,It was a skin cell.
+cell,Rating: 1,Head,It was a skin cell.
+cell,Rating: 0 (not at all experienced with,Mouth_throat,It was a skin cell.
+charm,Rating: 1,Hand_arm,She had a devilish charm.
+charm,0 (not at all experienced with that body part,Foot_leg,She had a devilish charm.
+charm,Rating: 1,Torso,She had a devilish charm.
+charm,Rating: 1,Head,She had a devilish charm.
+charm,Rating: 1,Mouth_throat,She had a devilish charm.
+charm,Rating: 1,Hand_arm,She had a gold charm.
+charm,Rating: 0 (not at all experienced with,Foot_leg,She had a gold charm.
+charm,Rating: 0 (not at all experienced with,Torso,She had a gold charm.
+charm,Rating: 1,Head,She had a gold charm.
+charm,Rating: 1,Mouth_throat,She had a gold charm.
+charm,Rating: 1,Hand_arm,She had a good-luck charm.
+charm,Rating: 0 (not at all experienced with,Foot_leg,She had a good-luck charm.
+charm,Rating: 0 (not at all experienced with,Torso,She had a good-luck charm.
+charm,Rating: 1,Head,She had a good-luck charm.
+charm,Rating: 1,Mouth_throat,She had a good-luck charm.
+charm,Rating: 1,Hand_arm,She had a natural charm.
+charm,Rating: 0 (not at all experienced with,Foot_leg,She had a natural charm.
+charm,Rating: 1,Torso,She had a natural charm.
+charm,Rating: 1,Head,She had a natural charm.
+charm,Rating: 1,Mouth_throat,She had a natural charm.
+check,Rating: 2,Hand_arm,He checked the alibi.
+check,Rating: 0 (not at all experienced with,Foot_leg,He checked the alibi.
+check,Rating: 1,Torso,He checked the alibi.
+check,2,Head,He checked the alibi.
+check,Rating: 1,Mouth_throat,He checked the alibi.
+check,Rating: 4,Hand_arm,He checked the engine.
+check,Rating: 0 (not at all experienced with,Foot_leg,He checked the engine.
+check,Rating: 1,Torso,He checked the engine.
+check,Rating: 2,Head,He checked the engine.
+check,Rating: 0 (not at all experienced with,Mouth_throat,He checked the engine.
+check,Rating: 2,Hand_arm,He checked the facts.
+check,Rating: 0 (not at all experienced with,Foot_leg,He checked the facts.
+check,Rating: 0 (not at all experienced with,Torso,He checked the facts.
+check,Rating: 2,Head,He checked the facts.
+check,Rating: 1,Mouth_throat,He checked the facts.
+check,4,Hand_arm,He checked the oven.
+check,Rating: 0 (not at all experienced with,Foot_leg,He checked the oven.
+check,Rating: 1,Torso,He checked the oven.
+check,Rating: 2,Head,He checked the oven.
+check,Rating: 0 (not at all experienced with,Mouth_throat,He checked the oven.
+chicken,Rating: 2,Hand_arm,They liked the clucking chicken.
+chicken,Rating: 1,Foot_leg,They liked the clucking chicken.
+chicken,Rating: 1,Torso,They liked the clucking chicken.
+chicken,Rating: 1,Head,They liked the clucking chicken.
+chicken,Rating: 4,Mouth_throat,They liked the clucking chicken.
+chicken,2,Hand_arm,They liked the juicy chicken.
+chicken,Rating: 1,Foot_leg,They liked the juicy chicken.
+chicken,Rating: 1,Torso,They liked the juicy chicken.
+chicken,Rating: 1,Head,They liked the juicy chicken.
+chicken,Rating: 4,Mouth_throat,They liked the juicy chicken.
+chicken,Rating: 2,Hand_arm,They liked the pet chicken.
+chicken,Rating: 2,Foot_leg,They liked the pet chicken.
+chicken,Rating: 1,Torso,They liked the pet chicken.
+chicken,Rating: 1,Head,They liked the pet chicken.
+chicken,Rating: 4,Mouth_throat,They liked the pet chicken.
+chicken,2,Hand_arm,They liked the roasted chicken.
+chicken,Rating: 1,Foot_leg,They liked the roasted chicken.
+chicken,Rating: 1,Torso,They liked the roasted chicken.
+chicken,Rating: 1,Head,They liked the roasted chicken.
+chicken,Rating: 4,Mouth_throat,They liked the roasted chicken.
+class,Rating: 2,Hand_arm,It was a boring class.
+class,Rating: 0 (not at all experienced with,Foot_leg,It was a boring class.
+class,Rating: 1,Torso,It was a boring class.
+class,Rating: 3,Head,It was a boring class.
+class,Rating: 1,Mouth_throat,It was a boring class.
+class,Rating: 2,Hand_arm,It was a misbehaving class.
+class,Rating: 0 (not at all experienced with,Foot_leg,It was a misbehaving class.
+class,Rating: 0 (not at all experienced with,Torso,It was a misbehaving class.
+class,Rating: 2,Head,It was a misbehaving class.
+class,Rating: 1,Mouth_throat,It was a misbehaving class.
+class,Rating: 2,Hand_arm,It was a perceptive class.
+class,Rating: 0 (not at all experienced with,Foot_leg,It was a perceptive class.
+class,Rating: 0 (not at all experienced with,Torso,It was a perceptive class.
+class,Rating: 3,Head,It was a perceptive class.
+class,Rating: 0 (not at all experienced with,Mouth_throat,It was a perceptive class.
+class,Rating: 1,Hand_arm,It was a stimulating class.
+class,Rating: 0 (not at all experienced with,Foot_leg,It was a stimulating class.
+class,0 (not at all experienced with that body part,Torso,It was a stimulating class.
+class,Rating: 4,Head,It was a stimulating class.
+class,Rating: 0 (not at all experienced with,Mouth_throat,It was a stimulating class.
+clear,4,Hand_arm,He cleared the desk.
+clear,Rating: 1,Foot_leg,He cleared the desk.
+clear,Rating: 1,Torso,He cleared the desk.
+clear,Rating: 1,Head,He cleared the desk.
+clear,Rating: 0 (not at all experienced with,Mouth_throat,He cleared the desk.
+clear,Rating: 4,Hand_arm,He cleared the path.
+clear,Rating: 4,Foot_leg,He cleared the path.
+clear,Rating: 2,Torso,He cleared the path.
+clear,Rating: 1,Head,He cleared the path.
+clear,Rating: 1,Mouth_throat,He cleared the path.
+clear,Rating: 4,Hand_arm,He cleared the road.
+clear,Rating: 2,Foot_leg,He cleared the road.
+clear,Rating: 2,Torso,He cleared the road.
+clear,Rating: 1,Head,He cleared the road.
+clear,Rating: 0 (not at all experienced with,Mouth_throat,He cleared the road.
+clear,Rating: 4,Hand_arm,He cleared the shelf.
+clear,Rating: 0 (not at all experienced with,Foot_leg,He cleared the shelf.
+clear,Rating: 1,Torso,He cleared the shelf.
+clear,Rating: 1,Head,He cleared the shelf.
+clear,Rating: 0 (not at all experienced with,Mouth_throat,He cleared the shelf.
+clip,Rating: 1,Hand_arm,It was a film clip.
+clip,Rating: 0 (not at all experienced with,Foot_leg,It was a film clip.
+clip,Rating: 0 (not at all experienced with,Torso,It was a film clip.
+clip,Rating: 1,Head,It was a film clip.
+clip,Rating: 1,Mouth_throat,It was a film clip.
+clip,Rating: 4,Hand_arm,It was a hair clip.
+clip,Rating: 0 (not at all experienced with,Foot_leg,It was a hair clip.
+clip,Rating: 0 (not at all experienced with,Torso,It was a hair clip.
+clip,Rating: 4,Head,It was a hair clip.
+clip,Rating: 2,Mouth_throat,It was a hair clip.
+clip,Rating: 2,Hand_arm,It was a metal clip.
+clip,Rating: 1,Foot_leg,It was a metal clip.
+clip,Rating: 0 (not at all experienced with,Torso,It was a metal clip.
+clip,Rating: 1,Head,It was a metal clip.
+clip,Rating: 3,Mouth_throat,It was a metal clip.
+clip,Rating: 1,Hand_arm,It was a video clip.
+clip,Rating: 0 (not at all experienced with,Foot_leg,It was a video clip.
+clip,Rating: 0 (not at all experienced with,Torso,It was a video clip.
+clip,Rating: 1,Head,It was a video clip.
+clip,Rating: 1,Mouth_throat,It was a video clip.
+clog,2,Hand_arm,The choreographer clogged.
+clog,4,Foot_leg,The choreographer clogged.
+clog,Rating: 2,Torso,The choreographer clogged.
+clog,Rating: 1,Head,The choreographer clogged.
+clog,1,Mouth_throat,The choreographer clogged.
+clog,Rating: 1,Hand_arm,The dancer clogged.
+clog,4,Foot_leg,The dancer clogged.
+clog,Rating: 2,Torso,The dancer clogged.
+clog,Rating: 1,Head,The dancer clogged.
+clog,0,Mouth_throat,The dancer clogged.
+clog,2,Hand_arm,The pipe clogged.
+clog,Rating: 1,Foot_leg,The pipe clogged.
+clog,Rating: 0 (not at all experienced with,Torso,The pipe clogged.
+clog,1,Head,The pipe clogged.
+clog,Rating: 1,Mouth_throat,The pipe clogged.
+clog,2,Hand_arm,The sink clogged.
+clog,Rating: 1,Foot_leg,The sink clogged.
+clog,Rating: 1,Torso,The sink clogged.
+clog,1,Head,The sink clogged.
+clog,Rating: 1,Mouth_throat,The sink clogged.
+cold,Rating: 2,Hand_arm,It was a chest cold.
+cold,Rating: 0 (not at all experienced with,Foot_leg,It was a chest cold.
+cold,4,Torso,It was a chest cold.
+cold,Rating: 3,Head,It was a chest cold.
+cold,2,Mouth_throat,It was a chest cold.
+cold,Rating: 2,Hand_arm,It was a common cold.
+cold,Rating: 1,Foot_leg,It was a common cold.
+cold,Rating: 2,Torso,It was a common cold.
+cold,Rating: 3,Head,It was a common cold.
+cold,Rating: 3,Mouth_throat,It was a common cold.
+cold,Rating: 2,Hand_arm,It was a freezing cold.
+cold,Rating: 1,Foot_leg,It was a freezing cold.
+cold,3,Torso,It was a freezing cold.
+cold,Rating: 2,Head,It was a freezing cold.
+cold,Rating: 1,Mouth_throat,It was a freezing cold.
+cold,Rating: 2,Hand_arm,It was an icy cold.
+cold,Rating: 1,Foot_leg,It was an icy cold.
+cold,2,Torso,It was an icy cold.
+cold,Rating: 2,Head,It was an icy cold.
+cold,Rating: 1,Mouth_throat,It was an icy cold.
+column,Rating: 1,Hand_arm,It was a concrete column.
+column,Rating: 1,Foot_leg,It was a concrete column.
+column,Rating: 1,Torso,It was a concrete column.
+column,Rating: 1,Head,It was a concrete column.
+column,Rating: 0 (not at all experienced with,Mouth_throat,It was a concrete column.
+column,Rating: 1,Hand_arm,It was a gossip column.
+column,Rating: 0 (not at all experienced with,Foot_leg,It was a gossip column.
+column,Rating: 0 (not at all experienced with,Torso,It was a gossip column.
+column,Rating: 0,Head,It was a gossip column.
+column,Rating: 0 (not at all experienced with,Mouth_throat,It was a gossip column.
+column,Rating: 1,Hand_arm,It was a marble column.
+column,Rating: 1,Foot_leg,It was a marble column.
+column,Rating: 1,Torso,It was a marble column.
+column,Rating: 1,Head,It was a marble column.
+column,Rating: 0 (not at all experienced with,Mouth_throat,It was a marble column.
+column,Rating: 1,Hand_arm,It was a sports column.
+column,Rating: 0 (not at all experienced with,Foot_leg,It was a sports column.
+column,Rating: 0,Torso,It was a sports column.
+column,Rating: 0,Head,It was a sports column.
+column,Rating: 0 (not at all experienced with,Mouth_throat,It was a sports column.
+company,Rating: 1,Hand_arm,He liked the investment company.
+company,Rating: 0 (not at all experienced with,Foot_leg,He liked the investment company.
+company,Rating: 0 (not at all experienced with,Torso,He liked the investment company.
+company,Rating: 1,Head,He liked the investment company.
+company,Rating: 0 (not at all experienced with,Mouth_throat,He liked the investment company.
+company,Rating: 1,Hand_arm,He liked the pharmaceutical company.
+company,Rating: 0 (not at all experienced with,Foot_leg,He liked the pharmaceutical company.
+company,Rating: 0 (not at all experienced with,Torso,He liked the pharmaceutical company.
+company,Rating: 1,Head,He liked the pharmaceutical company.
+company,Rating: 0 (not at all experienced with,Mouth_throat,He liked the pharmaceutical company.
+company,Rating: 1,Hand_arm,He liked the pleasant company.
+company,Rating: 0 (not at all experienced with,Foot_leg,He liked the pleasant company.
+company,Rating: 1,Torso,He liked the pleasant company.
+company,Rating: 1,Head,He liked the pleasant company.
+company,Rating: 1,Mouth_throat,He liked the pleasant company.
+company,Rating: 1,Hand_arm,He liked the polite company.
+company,Rating: 0 (not at all experienced with,Foot_leg,He liked the polite company.
+company,Rating: 1,Torso,He liked the polite company.
+company,Rating: 1,Head,He liked the polite company.
+company,Rating: 1,Mouth_throat,He liked the polite company.
+cone,Rating: 2,Hand_arm,It was a sugar cone.
+cone,Rating: 1,Foot_leg,It was a sugar cone.
+cone,Rating: 1,Torso,It was a sugar cone.
+cone,Rating: 1,Head,It was a sugar cone.
+cone,Rating: 4,Mouth_throat,It was a sugar cone.
+cone,Rating: 1,Hand_arm,It was a traffic cone.
+cone,Rating: 1,Foot_leg,It was a traffic cone.
+cone,Rating: 1,Torso,It was a traffic cone.
+cone,Rating: 1,Head,It was a traffic cone.
+cone,Rating: 1,Mouth_throat,It was a traffic cone.
+cone,Rating: 2,Hand_arm,It was a waffle cone.
+cone,Rating: 1,Foot_leg,It was a waffle cone.
+cone,Rating: 1,Torso,It was a waffle cone.
+cone,Rating: 1,Head,It was a waffle cone.
+cone,Rating: 4,Mouth_throat,It was a waffle cone.
+cone,Rating: 1,Hand_arm,It was an orange cone.
+cone,Rating: 1,Foot_leg,It was an orange cone.
+cone,Rating: 1,Torso,It was an orange cone.
+cone,Rating: 1,Head,It was an orange cone.
+cone,Rating: 1,Mouth_throat,It was an orange cone.
+contribution,2,Hand_arm,He made a charitable contribution.
+contribution,Rating: 0 (not at all experienced with,Foot_leg,He made a charitable contribution.
+contribution,Rating: 0 (not at all experienced with,Torso,He made a charitable contribution.
+contribution,1,Head,He made a charitable contribution.
+contribution,Rating: 1,Mouth_throat,He made a charitable contribution.
+contribution,Rating: 1,Hand_arm,He made a scholarly contribution.
+contribution,0 (not at all experienced with that body part,Foot_leg,He made a scholarly contribution.
+contribution,0 (not at all experienced with that body part,Torso,He made a scholarly contribution.
+contribution,Rating: 2,Head,He made a scholarly contribution.
+contribution,Rating: 1,Mouth_throat,He made a scholarly contribution.
+contribution,Rating: 1,Hand_arm,He made a voluntary contribution.
+contribution,Rating: 0 (not at all experienced with,Foot_leg,He made a voluntary contribution.
+contribution,Rating: 0 (not at all experienced with,Torso,He made a voluntary contribution.
+contribution,Rating: 1,Head,He made a voluntary contribution.
+contribution,Rating: 1,Mouth_throat,He made a voluntary contribution.
+contribution,Rating: 1,Hand_arm,He made a well-written contribution.
+contribution,Rating: 0 (not at all experienced with,Foot_leg,He made a well-written contribution.
+contribution,0 (not at all experienced with that body part,Torso,He made a well-written contribution.
+contribution,Rating: 2,Head,He made a well-written contribution.
+contribution,Rating: 0,Mouth_throat,He made a well-written contribution.
+count,2,Hand_arm,That was the correct count.
+count,0 (not at all experienced with that body part,Foot_leg,That was the correct count.
+count,0 (not at all experienced with that body part,Torso,That was the correct count.
+count,2,Head,That was the correct count.
+count,0 (not at all experienced with that body part,Mouth_throat,That was the correct count.
+count,Rating: 2,Hand_arm,That was the final count.
+count,Rating: 0 (not at all experienced with,Foot_leg,That was the final count.
+count,0 (not at all experienced with that body part,Torso,That was the final count.
+count,Rating: 2,Head,That was the final count.
+count,Rating: 1,Mouth_throat,That was the final count.
+count,Rating: 1,Hand_arm,That was the noble count.
+count,0 (not at all experienced with that body part,Foot_leg,That was the noble count.
+count,0 (not at all experienced with that body part,Torso,That was the noble count.
+count,Rating: 1,Head,That was the noble count.
+count,0 (not at all experienced with that body part,Mouth_throat,That was the noble count.
+count,Rating: 1,Hand_arm,That was the vengeful count.
+count,Rating: 0 (not at all experienced with,Foot_leg,That was the vengeful count.
+count,Rating: 0 (not at all experienced with,Torso,That was the vengeful count.
+count,Rating: 1,Head,That was the vengeful count.
+count,Rating: 0 (not at all experienced with,Mouth_throat,That was the vengeful count.
+course,Rating: 1,Hand_arm,It was a charted course.
+course,Rating: 1,Foot_leg,It was a charted course.
+course,Rating: 1,Torso,It was a charted course.
+course,Rating: 1,Head,It was a charted course.
+course,Rating: 0 (not at all experienced with,Mouth_throat,It was a charted course.
+course,Rating: 1,Hand_arm,It was a collision course.
+course,Rating: 1,Foot_leg,It was a collision course.
+course,Rating: 1,Torso,It was a collision course.
+course,Rating: 1,Head,It was a collision course.
+course,Rating: 0 (not at all experienced with,Mouth_throat,It was a collision course.
+course,Rating: 1,Hand_arm,It was a pass-fail course.
+course,Rating: 0 (not at all experienced with,Foot_leg,It was a pass-fail course.
+course,0 (not at all experienced with that body part,Torso,It was a pass-fail course.
+course,Rating: 2,Head,It was a pass-fail course.
+course,0 (not at all experienced with that body part,Mouth_throat,It was a pass-fail course.
+course,Rating: 1,Hand_arm,It was an introductory course.
+course,Rating: 0 (not at all experienced with,Foot_leg,It was an introductory course.
+course,Rating: 0 (not at all experienced with,Torso,It was an introductory course.
+course,Rating: 2,Head,It was an introductory course.
+course,Rating: 0 (not at all experienced with,Mouth_throat,It was an introductory course.
+cross,Rating: 1,Hand_arm,He crossed a friend.
+cross,Rating: 4,Foot_leg,He crossed a friend.
+cross,Rating: 2,Torso,He crossed a friend.
+cross,Rating: 1,Head,He crossed a friend.
+cross,Rating: 1,Mouth_throat,He crossed a friend.
+cross,Rating: 1,Hand_arm,He crossed a road.
+cross,Rating: 4,Foot_leg,He crossed a road.
+cross,Rating: 3,Torso,He crossed a road.
+cross,Rating: 1,Head,He crossed a road.
+cross,Rating: 0 (not at all experienced with,Mouth_throat,He crossed a road.
+cross,Rating: 1,Hand_arm,He crossed a room.
+cross,4,Foot_leg,He crossed a room.
+cross,Rating: 3,Torso,He crossed a room.
+cross,Rating: 1,Head,He crossed a room.
+cross,Rating: 0 (not at all experienced with,Mouth_throat,He crossed a room.
+cross,Rating: 2,Hand_arm,He crossed an enemy.
+cross,Rating: 4,Foot_leg,He crossed an enemy.
+cross,2,Torso,He crossed an enemy.
+cross,Rating: 1,Head,He crossed an enemy.
+cross,Rating: 0 (not at all experienced with,Mouth_throat,He crossed an enemy.
+date,Rating: 1,Hand_arm,It was a blind date.
+date,Rating: 0 (not at all experienced with,Foot_leg,It was a blind date.
+date,Rating: 1,Torso,It was a blind date.
+date,Rating: 2,Head,It was a blind date.
+date,Rating: 2,Mouth_throat,It was a blind date.
+date,Rating: 2,Hand_arm,It was a dinner date.
+date,Rating: 1,Foot_leg,It was a dinner date.
+date,Rating: 1,Torso,It was a dinner date.
+date,Rating: 2,Head,It was a dinner date.
+date,Rating: 4,Mouth_throat,It was a dinner date.
+date,Rating: 1,Hand_arm,It was a historical date.
+date,0 (not at all experienced with that body part,Foot_leg,It was a historical date.
+date,Rating: 0 (not at all experienced with,Torso,It was a historical date.
+date,Rating: 1,Head,It was a historical date.
+date,Rating: 1,Mouth_throat,It was a historical date.
+date,Rating: 1,Hand_arm,It was an expiration date.
+date,0 (not at all experienced with that body part,Foot_leg,It was an expiration date.
+date,Rating: 0 (not at all experienced with,Torso,It was an expiration date.
+date,Rating: 1,Head,It was an expiration date.
+date,Rating: 1,Mouth_throat,It was an expiration date.
+degree,Rating: 1,Hand_arm,It was about associate degrees.
+degree,Rating: 0 (not at all experienced with,Foot_leg,It was about associate degrees.
+degree,0 (not at all experienced with that body part,Torso,It was about associate degrees.
+degree,Rating: 1,Head,It was about associate degrees.
+degree,0 (not at all experienced with that body part,Mouth_throat,It was about associate degrees.
+degree,Rating: 1,Hand_arm,It was about college degrees.
+degree,0 (not at all experienced with that body part,Foot_leg,It was about college degrees.
+degree,0 (not at all experienced with that body part,Torso,It was about college degrees.
+degree,Rating: 1,Head,It was about college degrees.
+degree,0 (not at all experienced with that body part,Mouth_throat,It was about college degrees.
+degree,Rating: 1,Hand_arm,It was about fifty degrees.
+degree,Rating: 0 (not at all experienced with,Foot_leg,It was about fifty degrees.
+degree,Rating: 0 (not at all experienced with,Torso,It was about fifty degrees.
+degree,Rating: 1,Head,It was about fifty degrees.
+degree,0 (not at all experienced with that body part,Mouth_throat,It was about fifty degrees.
+degree,Rating: 0,Hand_arm,It was about forty degrees.
+degree,Rating: 0 (not at all experienced with,Foot_leg,It was about forty degrees.
+degree,Rating: 0 (not at all experienced with,Torso,It was about forty degrees.
+degree,Rating: 1,Head,It was about forty degrees.
+degree,Rating: 0 (not at all experienced with,Mouth_throat,It was about forty degrees.
+design,Rating: 1,Hand_arm,They liked the architectural design.
+design,Rating: 0 (not at all experienced with,Foot_leg,They liked the architectural design.
+design,0 (not at all experienced with that body part,Torso,They liked the architectural design.
+design,2,Head,They liked the architectural design.
+design,Rating: 0 (not at all experienced with,Mouth_throat,They liked the architectural design.
+design,2,Hand_arm,They liked the floral design.
+design,Rating: 0 (not at all experienced with,Foot_leg,They liked the floral design.
+design,0 (not at all experienced with that body part,Torso,They liked the floral design.
+design,Rating: 1,Head,They liked the floral design.
+design,0 (not at all experienced with that body part,Mouth_throat,They liked the floral design.
+design,Rating: 1,Hand_arm,They liked the geometric design.
+design,Rating: 0 (not at all experienced with,Foot_leg,They liked the geometric design.
+design,Rating: 0 (not at all experienced with,Torso,They liked the geometric design.
+design,Rating: 2,Head,They liked the geometric design.
+design,Rating: 0 (not at all experienced with,Mouth_throat,They liked the geometric design.
+design,Rating: 2,Hand_arm,They liked the product design.
+design,Rating: 0 (not at all experienced with,Foot_leg,They liked the product design.
+design,Rating: 0 (not at all experienced with,Torso,They liked the product design.
+design,2,Head,They liked the product design.
+design,Rating: 0 (not at all experienced with,Mouth_throat,They liked the product design.
+dinner,2,Hand_arm,They liked the anniversary dinner.
+dinner,Rating: 0 (not at all experienced with,Foot_leg,They liked the anniversary dinner.
+dinner,Rating: 3,Torso,They liked the anniversary dinner.
+dinner,Rating: 1,Head,They liked the anniversary dinner.
+dinner,Rating: 5,Mouth_throat,They liked the anniversary dinner.
+dinner,Rating: 2,Hand_arm,They liked the formal dinner.
+dinner,Rating: 0,Foot_leg,They liked the formal dinner.
+dinner,Rating: 3,Torso,They liked the formal dinner.
+dinner,Rating: 2,Head,They liked the formal dinner.
+dinner,4,Mouth_throat,They liked the formal dinner.
+dinner,2,Hand_arm,They liked the light dinner.
+dinner,Rating: 0 (not at all experienced with,Foot_leg,They liked the light dinner.
+dinner,Rating: 3,Torso,They liked the light dinner.
+dinner,2,Head,They liked the light dinner.
+dinner,4,Mouth_throat,They liked the light dinner.
+dinner,2,Hand_arm,They liked the turkey dinner.
+dinner,Rating: 0 (not at all experienced with,Foot_leg,They liked the turkey dinner.
+dinner,Rating: 2,Torso,They liked the turkey dinner.
+dinner,Rating: 1,Head,They liked the turkey dinner.
+dinner,Rating: 5,Mouth_throat,They liked the turkey dinner.
+drain,Rating: 1,Hand_arm,They drained the account.
+drain,Rating: 0 (not at all experienced with,Foot_leg,They drained the account.
+drain,Rating: 0 (not at all experienced with,Torso,They drained the account.
+drain,Rating: 1,Head,They drained the account.
+drain,Rating: 0,Mouth_throat,They drained the account.
+drain,Rating: 1,Hand_arm,They drained the budget.
+drain,Rating: 0 (not at all experienced with,Foot_leg,They drained the budget.
+drain,Rating: 0 (not at all experienced with,Torso,They drained the budget.
+drain,Rating: 1,Head,They drained the budget.
+drain,Rating: 0 (not at all experienced with,Mouth_throat,They drained the budget.
+drain,Rating: 1,Hand_arm,They drained the pond.
+drain,Rating: 1,Foot_leg,They drained the pond.
+drain,Rating: 1,Torso,They drained the pond.
+drain,Rating: 1,Head,They drained the pond.
+drain,Rating: 1,Mouth_throat,They drained the pond.
+drain,Rating: 1,Hand_arm,They drained the pool.
+drain,Rating: 1,Foot_leg,They drained the pool.
+drain,Rating: 1,Torso,They drained the pool.
+drain,Rating: 1,Head,They drained the pool.
+drain,Rating: 0 (not at all experienced with,Mouth_throat,They drained the pool.
+draw,4,Hand_arm,He drew a gun.
+draw,Rating: 1,Foot_leg,He drew a gun.
+draw,Rating: 2,Torso,He drew a gun.
+draw,Rating: 1,Head,He drew a gun.
+draw,Rating: 1,Mouth_throat,He drew a gun.
+draw,4,Hand_arm,He drew a sword.
+draw,Rating: 1,Foot_leg,He drew a sword.
+draw,Rating: 3,Torso,He drew a sword.
+draw,Rating: 2,Head,He drew a sword.
+draw,Rating: 1,Mouth_throat,He drew a sword.
+draw,4,Hand_arm,He drew a tree.
+draw,Rating: 1,Foot_leg,He drew a tree.
+draw,Rating: 1,Torso,He drew a tree.
+draw,Rating: 2,Head,He drew a tree.
+draw,Rating: 0 (not at all experienced with,Mouth_throat,He drew a tree.
+draw,4,Hand_arm,They drew a picture.
+draw,Rating: 1,Foot_leg,They drew a picture.
+draw,Rating: 1,Torso,They drew a picture.
+draw,Rating: 2,Head,They drew a picture.
+draw,Rating: 0 (not at all experienced with,Mouth_throat,They drew a picture.
+dream,Rating: 0,Hand_arm,He had a bad dream.
+dream,Rating: 0 (not at all experienced with,Foot_leg,He had a bad dream.
+dream,Rating: 0 (not at all experienced with,Torso,He had a bad dream.
+dream,Rating: 4,Head,He had a bad dream.
+dream,Rating: 0 (not at all experienced with,Mouth_throat,He had a bad dream.
+dream,Rating: 1,Hand_arm,He had a career dream.
+dream,Rating: 0 (not at all experienced with,Foot_leg,He had a career dream.
+dream,Rating: 0 (not at all experienced with,Torso,He had a career dream.
+dream,Rating: 4,Head,He had a career dream.
+dream,Rating: 0 (not at all experienced with,Mouth_throat,He had a career dream.
+dream,Rating: 2,Hand_arm,He had a childhood dream.
+dream,Rating: 0 (not at all experienced with,Foot_leg,He had a childhood dream.
+dream,Rating: 0 (not at all experienced with,Torso,He had a childhood dream.
+dream,Rating: 4,Head,He had a childhood dream.
+dream,Rating: 0 (not at all experienced with,Mouth_throat,He had a childhood dream.
+dream,Rating: 4,Hand_arm,He had a recurring dream.
+dream,Rating: 0 (not at all experienced with,Foot_leg,He had a recurring dream.
+dream,Rating: 0 (not at all experienced with,Torso,He had a recurring dream.
+dream,Rating: 4,Head,He had a recurring dream.
+dream,Rating: 0 (not at all experienced with,Mouth_throat,He had a recurring dream.
+drill,4,Hand_arm,It was a battery-powered drill.
+drill,Rating: 1,Foot_leg,It was a battery-powered drill.
+drill,Rating: 2,Torso,It was a battery-powered drill.
+drill,Rating: 1,Head,It was a battery-powered drill.
+drill,Rating: 0 (not at all experienced with,Mouth_throat,It was a battery-powered drill.
+drill,4,Hand_arm,It was a challenging drill.
+drill,Rating: 1,Foot_leg,It was a challenging drill.
+drill,Rating: 2,Torso,It was a challenging drill.
+drill,Rating: 1,Head,It was a challenging drill.
+drill,Rating: 1,Mouth_throat,It was a challenging drill.
+drill,Rating: 3,Hand_arm,It was a grueling drill.
+drill,Rating: 2,Foot_leg,It was a grueling drill.
+drill,Rating: 3,Torso,It was a grueling drill.
+drill,Rating: 1,Head,It was a grueling drill.
+drill,Rating: 1,Mouth_throat,It was a grueling drill.
+drill,4,Hand_arm,It was an electric drill.
+drill,Rating: 1,Foot_leg,It was an electric drill.
+drill,Rating: 1,Torso,It was an electric drill.
+drill,Rating: 1,Head,It was an electric drill.
+drill,Rating: 0 (not at all experienced with,Mouth_throat,It was an electric drill.
+examination,Rating: 2,Hand_arm,It was a difficult examination.
+examination,Rating: 0 (not at all experienced with,Foot_leg,It was a difficult examination.
+examination,Rating: 0 (not at all experienced with,Torso,It was a difficult examination.
+examination,Rating: 4,Head,It was a difficult examination.
+examination,Rating: 1,Mouth_throat,It was a difficult examination.
+examination,Rating: 2,Hand_arm,It was a multiple-choice examination.
+examination,Rating: 0 (not at all experienced with,Foot_leg,It was a multiple-choice examination.
+examination,Rating: 0 (not at all experienced with,Torso,It was a multiple-choice examination.
+examination,Rating: 4,Head,It was a multiple-choice examination.
+examination,Rating: 1,Mouth_throat,It was a multiple-choice examination.
+examination,Rating: 3,Hand_arm,It was a physical examination.
+examination,Rating: 0 (not at all experienced with,Foot_leg,It was a physical examination.
+examination,Rating: 1,Torso,It was a physical examination.
+examination,2,Head,It was a physical examination.
+examination,Rating: 1,Mouth_throat,It was a physical examination.
+examination,Rating: 2,Hand_arm,It was a prostate examination.
+examination,Rating: 0 (not at all experienced with,Foot_leg,It was a prostate examination.
+examination,Rating: 1,Torso,It was a prostate examination.
+examination,Rating: 2,Head,It was a prostate examination.
+examination,Rating: 0 (not at all experienced with,Mouth_throat,It was a prostate examination.
+fan,Rating: 1,Hand_arm,They had a ceiling fan.
+fan,Rating: 0 (not at all experienced with,Foot_leg,They had a ceiling fan.
+fan,Rating: 1,Torso,They had a ceiling fan.
+fan,Rating: 1,Head,They had a ceiling fan.
+fan,Rating: 0 (not at all experienced with,Mouth_throat,They had a ceiling fan.
+fan,Rating: 2,Hand_arm,They had a zealous fan.
+fan,Rating: 1,Foot_leg,They had a zealous fan.
+fan,Rating: 1,Torso,They had a zealous fan.
+fan,Rating: 1,Head,They had a zealous fan.
+fan,Rating: 1,Mouth_throat,They had a zealous fan.
+fan,Rating: 1,Hand_arm,They had an electric fan.
+fan,Rating: 0 (not at all experienced with,Foot_leg,They had an electric fan.
+fan,Rating: 1,Torso,They had an electric fan.
+fan,Rating: 1,Head,They had an electric fan.
+fan,Rating: 1,Mouth_throat,They had an electric fan.
+fan,Rating: 2,Hand_arm,They had an enthusiastic fan.
+fan,Rating: 0 (not at all experienced with,Foot_leg,They had an enthusiastic fan.
+fan,Rating: 1,Torso,They had an enthusiastic fan.
+fan,Rating: 1,Head,They had an enthusiastic fan.
+fan,Rating: 1,Mouth_throat,They had an enthusiastic fan.
+file,Rating: 1,Hand_arm,She had a data file.
+file,Rating: 0 (not at all experienced with,Foot_leg,She had a data file.
+file,Rating: 0 (not at all experienced with,Torso,She had a data file.
+file,Rating: 1,Head,She had a data file.
+file,Rating: 0 (not at all experienced with,Mouth_throat,She had a data file.
+file,2,Hand_arm,She had a nail file.
+file,Rating: 1,Foot_leg,She had a nail file.
+file,Rating: 0 (not at all experienced with,Torso,She had a nail file.
+file,Rating: 1,Head,She had a nail file.
+file,Rating: 0 (not at all experienced with,Mouth_throat,She had a nail file.
+file,Rating: 2,Hand_arm,She had a steel file.
+file,Rating: 1,Foot_leg,She had a steel file.
+file,Rating: 1,Torso,She had a steel file.
+file,Rating: 1,Head,She had a steel file.
+file,Rating: 0 (not at all experienced with,Mouth_throat,She had a steel file.
+file,Rating: 1,Hand_arm,She had a text file.
+file,Rating: 0 (not at all experienced with,Foot_leg,She had a text file.
+file,0 (not at all experienced with that body part,Torso,She had a text file.
+file,Rating: 1,Head,She had a text file.
+file,0 (not at all experienced with that body part,Mouth_throat,She had a text file.
+film,Rating: 1,Hand_arm,It was a censored film.
+film,Rating: 0 (not at all experienced with,Foot_leg,It was a censored film.
+film,Rating: 0 (not at all experienced with,Torso,It was a censored film.
+film,Rating: 1,Head,It was a censored film.
+film,Rating: 1,Mouth_throat,It was a censored film.
+film,Rating: 2,Hand_arm,It was a plastic film.
+film,Rating: 1,Foot_leg,It was a plastic film.
+film,Rating: 0 (not at all experienced with,Torso,It was a plastic film.
+film,Rating: 1,Head,It was a plastic film.
+film,Rating: 2,Mouth_throat,It was a plastic film.
+film,Rating: 1,Hand_arm,It was a transparent film.
+film,Rating: 0 (not at all experienced with,Foot_leg,It was a transparent film.
+film,Rating: 0 (not at all experienced with,Torso,It was a transparent film.
+film,Rating: 1,Head,It was a transparent film.
+film,Rating: 1,Mouth_throat,It was a transparent film.
+film,Rating: 1,Hand_arm,It was an action film.
+film,Rating: 0 (not at all experienced with,Foot_leg,It was an action film.
+film,Rating: 1,Torso,It was an action film.
+film,Rating: 1,Head,It was an action film.
+film,Rating: 0 (not at all experienced with,Mouth_throat,It was an action film.
+fix,Rating: 2,Hand_arm,They fixed the date.
+fix,Rating: 0 (not at all experienced with,Foot_leg,They fixed the date.
+fix,Rating: 0 (not at all experienced with,Torso,They fixed the date.
+fix,Rating: 1,Head,They fixed the date.
+fix,Rating: 1,Mouth_throat,They fixed the date.
+fix,4,Hand_arm,They fixed the dishwasher.
+fix,Rating: 0 (not at all experienced with,Foot_leg,They fixed the dishwasher.
+fix,Rating: 1,Torso,They fixed the dishwasher.
+fix,Rating: 2,Head,They fixed the dishwasher.
+fix,Rating: 1,Mouth_throat,They fixed the dishwasher.
+fix,2,Hand_arm,They fixed the price.
+fix,Rating: 0 (not at all experienced with,Foot_leg,They fixed the price.
+fix,Rating: 1,Torso,They fixed the price.
+fix,Rating: 1,Head,They fixed the price.
+fix,Rating: 1,Mouth_throat,They fixed the price.
+fix,Rating: 4,Hand_arm,They fixed the radio.
+fix,Rating: 0 (not at all experienced with,Foot_leg,They fixed the radio.
+fix,Rating: 1,Torso,They fixed the radio.
+fix,Rating: 2,Head,They fixed the radio.
+fix,Rating: 1,Mouth_throat,They fixed the radio.
+foundation,Rating: 1,Hand_arm,It was a charitable foundation.
+foundation,Rating: 0 (not at all experienced with,Foot_leg,It was a charitable foundation.
+foundation,Rating: 0 (not at all experienced with,Torso,It was a charitable foundation.
+foundation,Rating: 1,Head,It was a charitable foundation.
+foundation,Rating: 0 (not at all experienced with,Mouth_throat,It was a charitable foundation.
+foundation,Rating: 1,Hand_arm,It was a concrete foundation.
+foundation,Rating: 1,Foot_leg,It was a concrete foundation.
+foundation,Rating: 1,Torso,It was a concrete foundation.
+foundation,Rating: 1,Head,It was a concrete foundation.
+foundation,Rating: 0 (not at all experienced with,Mouth_throat,It was a concrete foundation.
+foundation,Rating: 1,Hand_arm,It was a wooden foundation.
+foundation,Rating: 1,Foot_leg,It was a wooden foundation.
+foundation,Rating: 1,Torso,It was a wooden foundation.
+foundation,Rating: 1,Head,It was a wooden foundation.
+foundation,0 (not at all experienced with that body part,Mouth_throat,It was a wooden foundation.
+foundation,Rating: 1,Hand_arm,It was an educational foundation.
+foundation,Rating: 0 (not at all experienced with,Foot_leg,It was an educational foundation.
+foundation,0 (not at all experienced with that body part,Torso,It was an educational foundation.
+foundation,Rating: 1,Head,It was an educational foundation.
+foundation,0 (not at all experienced with that body part,Mouth_throat,It was an educational foundation.
+function,Rating: 1,Hand_arm,It was a business function.
+function,Rating: 0 (not at all experienced with,Foot_leg,It was a business function.
+function,Rating: 1,Torso,It was a business function.
+function,Rating: 1,Head,It was a business function.
+function,Rating: 0 (not at all experienced with,Mouth_throat,It was a business function.
+function,1,Hand_arm,It was a linear function.
+function,0 (not at all experienced with that body part,Foot_leg,It was a linear function.
+function,0 (not at all experienced with that body part,Torso,It was a linear function.
+function,Rating: 1,Head,It was a linear function.
+function,0 (not at all experienced with that body part,Mouth_throat,It was a linear function.
+function,Rating: 1,Hand_arm,It was a mathematical function.
+function,0 (not at all experienced with that body part,Foot_leg,It was a mathematical function.
+function,0 (not at all experienced with that body part,Torso,It was a mathematical function.
+function,Rating: 2,Head,It was a mathematical function.
+function,Rating: 0 (not at all experienced with,Mouth_throat,It was a mathematical function.
+function,Rating: 1,Hand_arm,It was a social function.
+function,Rating: 0 (not at all experienced with,Foot_leg,It was a social function.
+function,Rating: 1,Torso,It was a social function.
+function,Rating: 2,Head,It was a social function.
+function,Rating: 1,Mouth_throat,It was a social function.
+ground,Rating: 1,Hand_arm,He was on the camp ground.
+ground,Rating: 4,Foot_leg,He was on the camp ground.
+ground,Rating: 1,Torso,He was on the camp ground.
+ground,Rating: 0 (not at all experienced with,Head,He was on the camp ground.
+ground,0 (not at all experienced with that body part,Mouth_throat,He was on the camp ground.
+ground,Rating: 1,Hand_arm,He was on the firm ground.
+ground,Rating: 4,Foot_leg,He was on the firm ground.
+ground,Rating: 1,Torso,He was on the firm ground.
+ground,Rating: 0 (not at all experienced with,Head,He was on the firm ground.
+ground,0 (not at all experienced with that body part,Mouth_throat,He was on the firm ground.
+ground,Rating: 1,Hand_arm,He was on the frozen ground.
+ground,Rating: 4,Foot_leg,He was on the frozen ground.
+ground,Rating: 2,Torso,He was on the frozen ground.
+ground,Rating: 1,Head,He was on the frozen ground.
+ground,Rating: 0 (not at all experienced with,Mouth_throat,He was on the frozen ground.
+ground,Rating: 1,Hand_arm,He was on the parade ground.
+ground,Rating: 4,Foot_leg,He was on the parade ground.
+ground,Rating: 1,Torso,He was on the parade ground.
+ground,Rating: 0 (not at all experienced with,Head,He was on the parade ground.
+ground,0 (not at all experienced with that body part,Mouth_throat,He was on the parade ground.
+guard,2,Hand_arm,They liked the coast guard.
+guard,Rating: 1,Foot_leg,They liked the coast guard.
+guard,2,Torso,They liked the coast guard.
+guard,2,Head,They liked the coast guard.
+guard,Rating: 1,Mouth_throat,They liked the coast guard.
+guard,2,Hand_arm,They liked the national guard.
+guard,Rating: 1,Foot_leg,They liked the national guard.
+guard,2,Torso,They liked the national guard.
+guard,Rating: 1,Head,They liked the national guard.
+guard,Rating: 1,Mouth_throat,They liked the national guard.
+guard,2,Hand_arm,They liked the night guard.
+guard,Rating: 1,Foot_leg,They liked the night guard.
+guard,2,Torso,They liked the night guard.
+guard,2,Head,They liked the night guard.
+guard,Rating: 1,Mouth_throat,They liked the night guard.
+guard,2,Hand_arm,They liked the security guard.
+guard,Rating: 1,Foot_leg,They liked the security guard.
+guard,2,Torso,They liked the security guard.
+guard,2,Head,They liked the security guard.
+guard,Rating: 1,Mouth_throat,They liked the security guard.
+guide,Rating: 2,Hand_arm,He had a friendly guide.
+guide,Rating: 1,Foot_leg,He had a friendly guide.
+guide,Rating: 1,Torso,He had a friendly guide.
+guide,Rating: 2,Head,He had a friendly guide.
+guide,Rating: 1,Mouth_throat,He had a friendly guide.
+guide,Rating: 2,Hand_arm,He had a talkative guide.
+guide,Rating: 1,Foot_leg,He had a talkative guide.
+guide,Rating: 1,Torso,He had a talkative guide.
+guide,Rating: 2,Head,He had a talkative guide.
+guide,2,Mouth_throat,He had a talkative guide.
+guide,Rating: 2,Hand_arm,He had a TV guide.
+guide,Rating: 0 (not at all experienced with,Foot_leg,He had a TV guide.
+guide,Rating: 1,Torso,He had a TV guide.
+guide,Rating: 1,Head,He had a TV guide.
+guide,Rating: 1,Mouth_throat,He had a TV guide.
+guide,Rating: 3,Hand_arm,He had an assembly guide.
+guide,Rating: 1,Foot_leg,He had an assembly guide.
+guide,Rating: 1,Torso,He had an assembly guide.
+guide,Rating: 2,Head,He had an assembly guide.
+guide,Rating: 1,Mouth_throat,He had an assembly guide.
+hail,Rating: 4,Hand_arm,They hailed a cab.
+hail,Rating: 0 (not at all experienced with,Foot_leg,They hailed a cab.
+hail,Rating: 1,Torso,They hailed a cab.
+hail,2,Head,They hailed a cab.
+hail,Rating: 1,Mouth_throat,They hailed a cab.
+hail,3,Hand_arm,They hailed a friend.
+hail,Rating: 0 (not at all experienced with,Foot_leg,They hailed a friend.
+hail,1,Torso,They hailed a friend.
+hail,2,Head,They hailed a friend.
+hail,Rating: 1,Mouth_throat,They hailed a friend.
+hail,Rating: 4,Hand_arm,They hailed a guest.
+hail,Rating: 1,Foot_leg,They hailed a guest.
+hail,1,Torso,They hailed a guest.
+hail,Rating: 1,Head,They hailed a guest.
+hail,Rating: 1,Mouth_throat,They hailed a guest.
+hail,4,Hand_arm,They hailed a taxi.
+hail,Rating: 0 (not at all experienced with,Foot_leg,They hailed a taxi.
+hail,Rating: 1,Torso,They hailed a taxi.
+hail,2,Head,They hailed a taxi.
+hail,1,Mouth_throat,They hailed a taxi.
+home,Rating: 1,Hand_arm,It was a childhood home.
+home,Rating: 1,Foot_leg,It was a childhood home.
+home,Rating: 1,Torso,It was a childhood home.
+home,Rating: 1,Head,It was a childhood home.
+home,Rating: 1,Mouth_throat,It was a childhood home.
+home,Rating: 1,Hand_arm,It was a funeral home.
+home,Rating: 1,Foot_leg,It was a funeral home.
+home,Rating: 1,Torso,It was a funeral home.
+home,Rating: 1,Head,It was a funeral home.
+home,Rating: 1,Mouth_throat,It was a funeral home.
+home,Rating: 1,Hand_arm,It was a nursing home.
+home,Rating: 1,Foot_leg,It was a nursing home.
+home,Rating: 1,Torso,It was a nursing home.
+home,Rating: 1,Head,It was a nursing home.
+home,Rating: 1,Mouth_throat,It was a nursing home.
+home,Rating: 1,Hand_arm,It was a summer home.
+home,Rating: 1,Foot_leg,It was a summer home.
+home,Rating: 1,Torso,It was a summer home.
+home,Rating: 1,Head,It was a summer home.
+home,Rating: 1,Mouth_throat,It was a summer home.
+intelligence,1,Hand_arm,They had classified intelligence.
+intelligence,0 (not at all experienced with that body part,Foot_leg,They had classified intelligence.
+intelligence,Rating: 0 (not at all experienced with,Torso,They had classified intelligence.
+intelligence,Rating: 4,Head,They had classified intelligence.
+intelligence,0 (not at all experienced with that body part,Mouth_throat,They had classified intelligence.
+intelligence,Rating: 4,Hand_arm,They had innate intelligence.
+intelligence,0 (not at all experienced with that body part,Foot_leg,They had innate intelligence.
+intelligence,0 (not at all experienced with that body part,Torso,They had innate intelligence.
+intelligence,Rating: 4,Head,They had innate intelligence.
+intelligence,Rating: 0 (not at all experienced with,Mouth_throat,They had innate intelligence.
+intelligence,Rating: 4,Hand_arm,They had military intelligence.
+intelligence,0 (not at all experienced with that body part,Foot_leg,They had military intelligence.
+intelligence,Rating: 0 (not at all experienced with,Torso,They had military intelligence.
+intelligence,Rating: 4,Head,They had military intelligence.
+intelligence,Rating: 0 (not at all experienced with,Mouth_throat,They had military intelligence.
+intelligence,Rating: 4,Hand_arm,They had natural intelligence.
+intelligence,0 (not at all experienced with that body part,Foot_leg,They had natural intelligence.
+intelligence,Rating: 0 (not at all experienced with,Torso,They had natural intelligence.
+intelligence,Rating: 4,Head,They had natural intelligence.
+intelligence,0 (not at all experienced with that body part,Mouth_throat,They had natural intelligence.
+issue,Rating: 1,Hand_arm,It was a political issue.
+issue,Rating: 0 (not at all experienced with,Foot_leg,It was a political issue.
+issue,Rating: 0 (not at all experienced with,Torso,It was a political issue.
+issue,Rating: 1,Head,It was a political issue.
+issue,Rating: 1,Mouth_throat,It was a political issue.
+issue,Rating: 1,Hand_arm,It was a sensitive issue.
+issue,0 (not at all experienced with that body part,Foot_leg,It was a sensitive issue.
+issue,Rating: 0 (not at all experienced with,Torso,It was a sensitive issue.
+issue,Rating: 1,Head,It was a sensitive issue.
+issue,Rating: 0 (not at all experienced with,Mouth_throat,It was a sensitive issue.
+issue,Rating: 1,Hand_arm,It was a special issue.
+issue,Rating: 0 (not at all experienced with,Foot_leg,It was a special issue.
+issue,0 (not at all experienced with that body part,Torso,It was a special issue.
+issue,Rating: 1,Head,It was a special issue.
+issue,Rating: 0 (not at all experienced with,Mouth_throat,It was a special issue.
+issue,Rating: 1,Hand_arm,It was a weekly issue.
+issue,Rating: 0 (not at all experienced with,Foot_leg,It was a weekly issue.
+issue,Rating: 0 (not at all experienced with,Torso,It was a weekly issue.
+issue,Rating: 1,Head,It was a weekly issue.
+issue,Rating: 0 (not at all experienced with,Mouth_throat,It was a weekly issue.
+jam,Rating: 2,Hand_arm,It was a blackberry jam.
+jam,Rating: 0 (not at all experienced with,Foot_leg,It was a blackberry jam.
+jam,Rating: 1,Torso,It was a blackberry jam.
+jam,Rating: 1,Head,It was a blackberry jam.
+jam,Rating: 4,Mouth_throat,It was a blackberry jam.
+jam,Rating: 2,Hand_arm,It was a paper jam.
+jam,Rating: 1,Foot_leg,It was a paper jam.
+jam,Rating: 0 (not at all experienced with,Torso,It was a paper jam.
+jam,Rating: 1,Head,It was a paper jam.
+jam,Rating: 2,Mouth_throat,It was a paper jam.
+jam,Rating: 2,Hand_arm,It was a peach jam.
+jam,Rating: 0 (not at all experienced with,Foot_leg,It was a peach jam.
+jam,Rating: 1,Torso,It was a peach jam.
+jam,Rating: 1,Head,It was a peach jam.
+jam,Rating: 4,Mouth_throat,It was a peach jam.
+jam,Rating: 1,Hand_arm,It was a traffic jam.
+jam,Rating: 1,Foot_leg,It was a traffic jam.
+jam,Rating: 1,Torso,It was a traffic jam.
+jam,Rating: 1,Head,It was a traffic jam.
+jam,Rating: 2,Mouth_throat,It was a traffic jam.
+key,2,Hand_arm,It was a backspace key.
+key,Rating: 0 (not at all experienced with,Foot_leg,It was a backspace key.
+key,Rating: 0 (not at all experienced with,Torso,It was a backspace key.
+key,Rating: 1,Head,It was a backspace key.
+key,0 (not at all experienced with that body part,Mouth_throat,It was a backspace key.
+key,Rating: 2,Hand_arm,It was a delete key.
+key,Rating: 0 (not at all experienced with,Foot_leg,It was a delete key.
+key,Rating: 0 (not at all experienced with,Torso,It was a delete key.
+key,Rating: 1,Head,It was a delete key.
+key,Rating: 0 (not at all experienced with,Mouth_throat,It was a delete key.
+key,Rating: 2,Hand_arm,It was a duplicate key.
+key,Rating: 0 (not at all experienced with,Foot_leg,It was a duplicate key.
+key,Rating: 0 (not at all experienced with,Torso,It was a duplicate key.
+key,Rating: 1,Head,It was a duplicate key.
+key,Rating: 1,Mouth_throat,It was a duplicate key.
+key,2,Hand_arm,It was a master key.
+key,Rating: 1,Foot_leg,It was a master key.
+key,Rating: 0 (not at all experienced with,Torso,It was a master key.
+key,Rating: 1,Head,It was a master key.
+key,Rating: 1,Mouth_throat,It was a master key.
+lamb,2,Hand_arm,They liked the cute lamb.
+lamb,Rating: 1,Foot_leg,They liked the cute lamb.
+lamb,Rating: 1,Torso,They liked the cute lamb.
+lamb,Rating: 1,Head,They liked the cute lamb.
+lamb,2,Mouth_throat,They liked the cute lamb.
+lamb,2,Hand_arm,They liked the friendly lamb.
+lamb,Rating: 1,Foot_leg,They liked the friendly lamb.
+lamb,Rating: 1,Torso,They liked the friendly lamb.
+lamb,Rating: 1,Head,They liked the friendly lamb.
+lamb,3,Mouth_throat,They liked the friendly lamb.
+lamb,2,Hand_arm,They liked the grilled lamb.
+lamb,Rating: 0 (not at all experienced with,Foot_leg,They liked the grilled lamb.
+lamb,Rating: 1,Torso,They liked the grilled lamb.
+lamb,Rating: 1,Head,They liked the grilled lamb.
+lamb,4,Mouth_throat,They liked the grilled lamb.
+lamb,2,Hand_arm,They liked the marinated lamb.
+lamb,Rating: 0 (not at all experienced with,Foot_leg,They liked the marinated lamb.
+lamb,Rating: 1,Torso,They liked the marinated lamb.
+lamb,Rating: 1,Head,They liked the marinated lamb.
+lamb,4,Mouth_throat,They liked the marinated lamb.
+lap,Rating: 2,Hand_arm,She lapped the competitors.
+lap,Rating: 4,Foot_leg,She lapped the competitors.
+lap,Rating: 4,Torso,She lapped the competitors.
+lap,Rating: 1,Head,She lapped the competitors.
+lap,Rating: 0,Mouth_throat,She lapped the competitors.
+lap,Rating: 2,Hand_arm,She lapped the milk.
+lap,Rating: 0 (not at all experienced with,Foot_leg,She lapped the milk.
+lap,Rating: 2,Torso,She lapped the milk.
+lap,Rating: 2,Head,She lapped the milk.
+lap,4,Mouth_throat,She lapped the milk.
+lap,Rating: 2,Hand_arm,She lapped the runners.
+lap,Rating: 4,Foot_leg,She lapped the runners.
+lap,Rating: 4,Torso,She lapped the runners.
+lap,Rating: 2,Head,She lapped the runners.
+lap,Rating: 2,Mouth_throat,She lapped the runners.
+lap,Rating: 3,Hand_arm,She lapped the water.
+lap,Rating: 0 (not at all experienced with,Foot_leg,She lapped the water.
+lap,Rating: 2,Torso,She lapped the water.
+lap,Rating: 2,Head,She lapped the water.
+lap,4,Mouth_throat,She lapped the water.
+load,4,Hand_arm,She loaded the gun.
+load,Rating: 0 (not at all experienced with,Foot_leg,She loaded the gun.
+load,Rating: 1,Torso,She loaded the gun.
+load,Rating: 1,Head,She loaded the gun.
+load,Rating: 0 (not at all experienced with,Mouth_throat,She loaded the gun.
+load,4,Hand_arm,She loaded the rifle.
+load,Rating: 0 (not at all experienced with,Foot_leg,She loaded the rifle.
+load,Rating: 2,Torso,She loaded the rifle.
+load,Rating: 1,Head,She loaded the rifle.
+load,Rating: 0 (not at all experienced with,Mouth_throat,She loaded the rifle.
+load,4,Hand_arm,She loaded the truck.
+load,Rating: 1,Foot_leg,She loaded the truck.
+load,Rating: 3,Torso,She loaded the truck.
+load,Rating: 1,Head,She loaded the truck.
+load,Rating: 0 (not at all experienced with,Mouth_throat,She loaded the truck.
+load,Rating: 4,Hand_arm,She loaded the van.
+load,Rating: 1,Foot_leg,She loaded the van.
+load,Rating: 3,Torso,She loaded the van.
+load,Rating: 1,Head,She loaded the van.
+load,Rating: 0 (not at all experienced with,Mouth_throat,She loaded the van.
+lock,Rating: 2,Hand_arm,She had brown locks.
+lock,Rating: 0 (not at all experienced with,Foot_leg,She had brown locks.
+lock,Rating: 0 (not at all experienced with,Torso,She had brown locks.
+lock,Rating: 2,Head,She had brown locks.
+lock,Rating: 1,Mouth_throat,She had brown locks.
+lock,Rating: 2,Hand_arm,She had curly locks.
+lock,Rating: 0 (not at all experienced with,Foot_leg,She had curly locks.
+lock,Rating: 0 (not at all experienced with,Torso,She had curly locks.
+lock,Rating: 2,Head,She had curly locks.
+lock,Rating: 1,Mouth_throat,She had curly locks.
+lock,2,Hand_arm,She had door locks.
+lock,Rating: 1,Foot_leg,She had door locks.
+lock,Rating: 0 (not at all experienced with,Torso,She had door locks.
+lock,Rating: 1,Head,She had door locks.
+lock,Rating: 0 (not at all experienced with,Mouth_throat,She had door locks.
+lock,2,Hand_arm,She had window locks.
+lock,Rating: 1,Foot_leg,She had window locks.
+lock,Rating: 0 (not at all experienced with,Torso,She had window locks.
+lock,Rating: 1,Head,She had window locks.
+lock,Rating: 1,Mouth_throat,She had window locks.
+lunch,2,Hand_arm,They liked the afternoon lunch.
+lunch,Rating: 0 (not at all experienced with,Foot_leg,They liked the afternoon lunch.
+lunch,Rating: 3,Torso,They liked the afternoon lunch.
+lunch,2,Head,They liked the afternoon lunch.
+lunch,4,Mouth_throat,They liked the afternoon lunch.
+lunch,2,Hand_arm,They liked the hot lunch.
+lunch,Rating: 0 (not at all experienced with,Foot_leg,They liked the hot lunch.
+lunch,Rating: 3,Torso,They liked the hot lunch.
+lunch,Rating: 1,Head,They liked the hot lunch.
+lunch,4,Mouth_throat,They liked the hot lunch.
+lunch,2,Hand_arm,They liked the sandwich lunch.
+lunch,Rating: 0 (not at all experienced with,Foot_leg,They liked the sandwich lunch.
+lunch,2,Torso,They liked the sandwich lunch.
+lunch,2,Head,They liked the sandwich lunch.
+lunch,4,Mouth_throat,They liked the sandwich lunch.
+lunch,2,Hand_arm,They liked the women's lunch.
+lunch,Rating: 0 (not at all experienced with,Foot_leg,They liked the women's lunch.
+lunch,2,Torso,They liked the women's lunch.
+lunch,Rating: 1,Head,They liked the women's lunch.
+lunch,4,Mouth_throat,They liked the women's lunch.
+market,Rating: 1,Hand_arm,He liked the fish market.
+market,Rating: 1,Foot_leg,He liked the fish market.
+market,Rating: 1,Torso,He liked the fish market.
+market,Rating: 1,Head,He liked the fish market.
+market,Rating: 1,Mouth_throat,He liked the fish market.
+market,Rating: 2,Hand_arm,He liked the flea market.
+market,Rating: 1,Foot_leg,He liked the flea market.
+market,Rating: 1,Torso,He liked the flea market.
+market,Rating: 1,Head,He liked the flea market.
+market,Rating: 1,Mouth_throat,He liked the flea market.
+market,Rating: 1,Hand_arm,He liked the housing market.
+market,Rating: 1,Foot_leg,He liked the housing market.
+market,Rating: 1,Torso,He liked the housing market.
+market,Rating: 1,Head,He liked the housing market.
+market,Rating: 0 (not at all experienced with,Mouth_throat,He liked the housing market.
+market,Rating: 1,Hand_arm,He liked the stock market.
+market,Rating: 0 (not at all experienced with,Foot_leg,He liked the stock market.
+market,Rating: 0 (not at all experienced with,Torso,He liked the stock market.
+market,Rating: 1,Head,He liked the stock market.
+market,Rating: 0 (not at all experienced with,Mouth_throat,He liked the stock market.
+match,Rating: 2,Hand_arm,It was a burning match.
+match,Rating: 1,Foot_leg,It was a burning match.
+match,Rating: 0 (not at all experienced with,Torso,It was a burning match.
+match,Rating: 1,Head,It was a burning match.
+match,Rating: 1,Mouth_throat,It was a burning match.
+match,Rating: 2,Hand_arm,It was a lit match.
+match,Rating: 1,Foot_leg,It was a lit match.
+match,Rating: 0 (not at all experienced with,Torso,It was a lit match.
+match,Rating: 1,Head,It was a lit match.
+match,Rating: 1,Mouth_throat,It was a lit match.
+match,Rating: 2,Hand_arm,It was a soccer match.
+match,Rating: 4,Foot_leg,It was a soccer match.
+match,Rating: 3,Torso,It was a soccer match.
+match,Rating: 2,Head,It was a soccer match.
+match,Rating: 1,Mouth_throat,It was a soccer match.
+match,Rating: 3,Hand_arm,It was a tennis match.
+match,Rating: 2,Foot_leg,It was a tennis match.
+match,2,Torso,It was a tennis match.
+match,Rating: 2,Head,It was a tennis match.
+match,Rating: 1,Mouth_throat,It was a tennis match.
+medicine,Rating: 2,Hand_arm,It was cough medicine.
+medicine,Rating: 0 (not at all experienced with,Foot_leg,It was cough medicine.
+medicine,Rating: 2,Torso,It was cough medicine.
+medicine,Rating: 2,Head,It was cough medicine.
+medicine,Rating: 4,Mouth_throat,It was cough medicine.
+medicine,Rating: 3,Hand_arm,It was orthopedic medicine.
+medicine,Rating: 1,Foot_leg,It was orthopedic medicine.
+medicine,Rating: 2,Torso,It was orthopedic medicine.
+medicine,Rating: 2,Head,It was orthopedic medicine.
+medicine,3,Mouth_throat,It was orthopedic medicine.
+medicine,Rating: 2,Hand_arm,It was prescription medicine.
+medicine,Rating: 0 (not at all experienced with,Foot_leg,It was prescription medicine.
+medicine,2,Torso,It was prescription medicine.
+medicine,2,Head,It was prescription medicine.
+medicine,Rating: 4,Mouth_throat,It was prescription medicine.
+medicine,Rating: 2,Hand_arm,It was veterinary medicine.
+medicine,Rating: 1,Foot_leg,It was veterinary medicine.
+medicine,Rating: 1,Torso,It was veterinary medicine.
+medicine,2,Head,It was veterinary medicine.
+medicine,Rating: 4,Mouth_throat,It was veterinary medicine.
+message,Rating: 2,Hand_arm,There was a clear message.
+message,Rating: 0 (not at all experienced with,Foot_leg,There was a clear message.
+message,Rating: 0 (not at all experienced with,Torso,There was a clear message.
+message,Rating: 2,Head,There was a clear message.
+message,1,Mouth_throat,There was a clear message.
+message,Rating: 2,Hand_arm,There was a computer message.
+message,Rating: 0 (not at all experienced with,Foot_leg,There was a computer message.
+message,Rating: 0 (not at all experienced with,Torso,There was a computer message.
+message,Rating: 3,Head,There was a computer message.
+message,Rating: 1,Mouth_throat,There was a computer message.
+message,Rating: 3,Hand_arm,There was a phone message.
+message,Rating: 0 (not at all experienced with,Foot_leg,There was a phone message.
+message,0 (not at all experienced with that body part,Torso,There was a phone message.
+message,Rating: 3,Head,There was a phone message.
+message,2,Mouth_throat,There was a phone message.
+message,Rating: 2,Hand_arm,There was an urgent message.
+message,Rating: 0 (not at all experienced with,Foot_leg,There was an urgent message.
+message,0 (not at all experienced with that body part,Torso,There was an urgent message.
+message,2,Head,There was an urgent message.
+message,Rating: 2,Mouth_throat,There was an urgent message.
+mold,2,Hand_arm,It was a clay mold.
+mold,Rating: 1,Foot_leg,It was a clay mold.
+mold,Rating: 1,Torso,It was a clay mold.
+mold,Rating: 1,Head,It was a clay mold.
+mold,Rating: 1,Mouth_throat,It was a clay mold.
+mold,Rating: 1,Hand_arm,It was a fungal mold.
+mold,Rating: 1,Foot_leg,It was a fungal mold.
+mold,Rating: 0 (not at all experienced with,Torso,It was a fungal mold.
+mold,1,Head,It was a fungal mold.
+mold,Rating: 1,Mouth_throat,It was a fungal mold.
+mold,Rating: 1,Hand_arm,It was a harmful mold.
+mold,Rating: 1,Foot_leg,It was a harmful mold.
+mold,Rating: 0 (not at all experienced with,Torso,It was a harmful mold.
+mold,Rating: 1,Head,It was a harmful mold.
+mold,Rating: 1,Mouth_throat,It was a harmful mold.
+mold,2,Hand_arm,It was a rubber mold.
+mold,Rating: 1,Foot_leg,It was a rubber mold.
+mold,Rating: 1,Torso,It was a rubber mold.
+mold,Rating: 1,Head,It was a rubber mold.
+mold,Rating: 1,Mouth_throat,It was a rubber mold.
+mole,Rating: 1,Hand_arm,She saw the cancerous mole.
+mole,Rating: 0 (not at all experienced with,Foot_leg,She saw the cancerous mole.
+mole,0 (not at all experienced with that body part,Torso,She saw the cancerous mole.
+mole,Rating: 1,Head,She saw the cancerous mole.
+mole,Rating: 0 (not at all experienced with,Mouth_throat,She saw the cancerous mole.
+mole,1,Hand_arm,She saw the cute mole.
+mole,Rating: 0 (not at all experienced with,Foot_leg,She saw the cute mole.
+mole,Rating: 0 (not at all experienced with,Torso,She saw the cute mole.
+mole,Rating: 1,Head,She saw the cute mole.
+mole,Rating: 0,Mouth_throat,She saw the cute mole.
+mole,Rating: 1,Hand_arm,She saw the fast mole.
+mole,Rating: 1,Foot_leg,She saw the fast mole.
+mole,Rating: 0 (not at all experienced with,Torso,She saw the fast mole.
+mole,Rating: 1,Head,She saw the fast mole.
+mole,Rating: 0,Mouth_throat,She saw the fast mole.
+mole,Rating: 0,Hand_arm,She saw the raised mole.
+mole,Rating: 0 (not at all experienced with,Foot_leg,She saw the raised mole.
+mole,Rating: 0 (not at all experienced with,Torso,She saw the raised mole.
+mole,Rating: 0,Head,She saw the raised mole.
+mole,Rating: 0 (not at all experienced with,Mouth_throat,She saw the raised mole.
+movement,2,Hand_arm,He liked the civil-rights movement.
+movement,Rating: 2,Foot_leg,He liked the civil-rights movement.
+movement,Rating: 2,Torso,He liked the civil-rights movement.
+movement,2,Head,He liked the civil-rights movement.
+movement,Rating: 0 (not at all experienced with,Mouth_throat,He liked the civil-rights movement.
+movement,Rating: 2,Hand_arm,He liked the feminist movement.
+movement,Rating: 3,Foot_leg,He liked the feminist movement.
+movement,Rating: 3,Torso,He liked the feminist movement.
+movement,2,Head,He liked the feminist movement.
+movement,Rating: 0 (not at all experienced with,Mouth_throat,He liked the feminist movement.
+movement,Rating: 2,Hand_arm,He liked the graceful movement.
+movement,Rating: 4,Foot_leg,He liked the graceful movement.
+movement,Rating: 3,Torso,He liked the graceful movement.
+movement,Rating: 2,Head,He liked the graceful movement.
+movement,Rating: 1,Mouth_throat,He liked the graceful movement.
+movement,Rating: 3,Hand_arm,He liked the rhythmic movement.
+movement,4,Foot_leg,He liked the rhythmic movement.
+movement,Rating: 4,Torso,He liked the rhythmic movement.
+movement,Rating: 2,Head,He liked the rhythmic movement.
+movement,Rating: 0 (not at all experienced with,Mouth_throat,He liked the rhythmic movement.
+newspaper,Rating: 3,Hand_arm,It was a daily newspaper.
+newspaper,Rating: 0 (not at all experienced with,Foot_leg,It was a daily newspaper.
+newspaper,Rating: 0 (not at all experienced with,Torso,It was a daily newspaper.
+newspaper,Rating: 2,Head,It was a daily newspaper.
+newspaper,Rating: 1,Mouth_throat,It was a daily newspaper.
+newspaper,Rating: 2,Hand_arm,It was a faded newspaper.
+newspaper,Rating: 1,Foot_leg,It was a faded newspaper.
+newspaper,Rating: 0 (not at all experienced with,Torso,It was a faded newspaper.
+newspaper,Rating: 2,Head,It was a faded newspaper.
+newspaper,Rating: 1,Mouth_throat,It was a faded newspaper.
+newspaper,Rating: 3,Hand_arm,It was a national newspaper.
+newspaper,Rating: 0 (not at all experienced with,Foot_leg,It was a national newspaper.
+newspaper,Rating: 0 (not at all experienced with,Torso,It was a national newspaper.
+newspaper,Rating: 2,Head,It was a national newspaper.
+newspaper,Rating: 1,Mouth_throat,It was a national newspaper.
+newspaper,Rating: 2,Hand_arm,It was a shredded newspaper.
+newspaper,Rating: 1,Foot_leg,It was a shredded newspaper.
+newspaper,Rating: 0 (not at all experienced with,Torso,It was a shredded newspaper.
+newspaper,Rating: 2,Head,It was a shredded newspaper.
+newspaper,Rating: 1,Mouth_throat,It was a shredded newspaper.
+orange,Rating: 1,Hand_arm,It was a bright orange.
+orange,Rating: 0 (not at all experienced with,Foot_leg,It was a bright orange.
+orange,Rating: 1,Torso,It was a bright orange.
+orange,Rating: 1,Head,It was a bright orange.
+orange,2,Mouth_throat,It was a bright orange.
+orange,Rating: 4,Hand_arm,It was a juicy orange.
+orange,Rating: 1,Foot_leg,It was a juicy orange.
+orange,Rating: 1,Torso,It was a juicy orange.
+orange,Rating: 2,Head,It was a juicy orange.
+orange,Rating: 4,Mouth_throat,It was a juicy orange.
+orange,Rating: 1,Hand_arm,It was a reddish orange.
+orange,Rating: 0 (not at all experienced with,Foot_leg,It was a reddish orange.
+orange,Rating: 0 (not at all experienced with,Torso,It was a reddish orange.
+orange,Rating: 1,Head,It was a reddish orange.
+orange,Rating: 4,Mouth_throat,It was a reddish orange.
+orange,Rating: 2,Hand_arm,It was a ripe orange.
+orange,Rating: 1,Foot_leg,It was a ripe orange.
+orange,Rating: 0 (not at all experienced with,Torso,It was a ripe orange.
+orange,Rating: 1,Head,It was a ripe orange.
+orange,Rating: 4,Mouth_throat,It was a ripe orange.
+page,Rating: 2,Hand_arm,He saw the blank page.
+page,Rating: 0 (not at all experienced with,Foot_leg,He saw the blank page.
+page,Rating: 0 (not at all experienced with,Torso,He saw the blank page.
+page,Rating: 1,Head,He saw the blank page.
+page,Rating: 0 (not at all experienced with,Mouth_throat,He saw the blank page.
+page,Rating: 1,Hand_arm,He saw the loyal page.
+page,Rating: 0 (not at all experienced with,Foot_leg,He saw the loyal page.
+page,Rating: 0,Torso,He saw the loyal page.
+page,Rating: 1,Head,He saw the loyal page.
+page,Rating: 0,Mouth_throat,He saw the loyal page.
+page,Rating: 2,Hand_arm,He saw the ripped page.
+page,Rating: 0 (not at all experienced with,Foot_leg,He saw the ripped page.
+page,Rating: 0 (not at all experienced with,Torso,He saw the ripped page.
+page,Rating: 1,Head,He saw the ripped page.
+page,Rating: 0 (not at all experienced with,Mouth_throat,He saw the ripped page.
+page,Rating: 1,Hand_arm,He saw the young page.
+page,Rating: 0 (not at all experienced with,Foot_leg,He saw the young page.
+page,Rating: 0 (not at all experienced with,Torso,He saw the young page.
+page,Rating: 2,Head,He saw the young page.
+page,Rating: 0 (not at all experienced with,Mouth_throat,He saw the young page.
+palm,4,Hand_arm,It was a calloused palm.
+palm,Rating: 0 (not at all experienced with,Foot_leg,It was a calloused palm.
+palm,Rating: 0 (not at all experienced with,Torso,It was a calloused palm.
+palm,Rating: 1,Head,It was a calloused palm.
+palm,0 (not at all experienced with that body part,Mouth_throat,It was a calloused palm.
+palm,Rating: 2,Hand_arm,It was a tree palm.
+palm,Rating: 0 (not at all experienced with,Foot_leg,It was a tree palm.
+palm,Rating: 1,Torso,It was a tree palm.
+palm,Rating: 0 (not at all experienced with,Head,It was a tree palm.
+palm,0 (not at all experienced with that body part,Mouth_throat,It was a tree palm.
+palm,2,Hand_arm,It was a tropical palm.
+palm,Rating: 0 (not at all experienced with,Foot_leg,It was a tropical palm.
+palm,Rating: 1,Torso,It was a tropical palm.
+palm,1,Head,It was a tropical palm.
+palm,0 (not at all experienced with that body part,Mouth_throat,It was a tropical palm.
+palm,4,Hand_arm,It was a wrinkled palm.
+palm,Rating: 0 (not at all experienced with,Foot_leg,It was a wrinkled palm.
+palm,Rating: 0 (not at all experienced with,Torso,It was a wrinkled palm.
+palm,Rating: 0 (not at all experienced with,Head,It was a wrinkled palm.
+palm,0 (not at all experienced with that body part,Mouth_throat,It was a wrinkled palm.
+panel,Rating: 1,Hand_arm,It was a consumer panel.
+panel,Rating: 0 (not at all experienced with,Foot_leg,It was a consumer panel.
+panel,Rating: 1,Torso,It was a consumer panel.
+panel,Rating: 1,Head,It was a consumer panel.
+panel,Rating: 0 (not at all experienced with,Mouth_throat,It was a consumer panel.
+panel,Rating: 3,Hand_arm,It was a control panel.
+panel,Rating: 0 (not at all experienced with,Foot_leg,It was a control panel.
+panel,Rating: 1,Torso,It was a control panel.
+panel,Rating: 1,Head,It was a control panel.
+panel,Rating: 0 (not at all experienced with,Mouth_throat,It was a control panel.
+panel,Rating: 1,Hand_arm,It was an advisory panel.
+panel,Rating: 0 (not at all experienced with,Foot_leg,It was an advisory panel.
+panel,Rating: 0 (not at all experienced with,Torso,It was an advisory panel.
+panel,Rating: 1,Head,It was an advisory panel.
+panel,Rating: 0 (not at all experienced with,Mouth_throat,It was an advisory panel.
+panel,Rating: 2,Hand_arm,It was an instrument panel.
+panel,Rating: 0 (not at all experienced with,Foot_leg,It was an instrument panel.
+panel,Rating: 1,Torso,It was an instrument panel.
+panel,Rating: 1,Head,It was an instrument panel.
+panel,Rating: 0 (not at all experienced with,Mouth_throat,It was an instrument panel.
+passage,Rating: 1,Hand_arm,It was a biblical passage.
+passage,Rating: 0 (not at all experienced with,Foot_leg,It was a biblical passage.
+passage,Rating: 1,Torso,It was a biblical passage.
+passage,2,Head,It was a biblical passage.
+passage,Rating: 1,Mouth_throat,It was a biblical passage.
+passage,Rating: 1,Hand_arm,It was a literary passage.
+passage,Rating: 0 (not at all experienced with,Foot_leg,It was a literary passage.
+passage,Rating: 0 (not at all experienced with,Torso,It was a literary passage.
+passage,Rating: 1,Head,It was a literary passage.
+passage,0 (not at all experienced with that body part,Mouth_throat,It was a literary passage.
+passage,Rating: 1,Hand_arm,It was a narrow passage.
+passage,Rating: 2,Foot_leg,It was a narrow passage.
+passage,Rating: 2,Torso,It was a narrow passage.
+passage,Rating: 1,Head,It was a narrow passage.
+passage,Rating: 0 (not at all experienced with,Mouth_throat,It was a narrow passage.
+passage,Rating: 1,Hand_arm,It was a secret passage.
+passage,Rating: 2,Foot_leg,It was a secret passage.
+passage,Rating: 2,Torso,It was a secret passage.
+passage,Rating: 1,Head,It was a secret passage.
+passage,Rating: 0 (not at all experienced with,Mouth_throat,It was a secret passage.
+pen,4,Hand_arm,She penned her animals.
+pen,Rating: 0 (not at all experienced with,Foot_leg,She penned her animals.
+pen,Rating: 1,Torso,She penned her animals.
+pen,Rating: 1,Head,She penned her animals.
+pen,Rating: 0 (not at all experienced with,Mouth_throat,She penned her animals.
+pen,4,Hand_arm,She penned her livestock.
+pen,Rating: 1,Foot_leg,She penned her livestock.
+pen,Rating: 1,Torso,She penned her livestock.
+pen,Rating: 1,Head,She penned her livestock.
+pen,Rating: 0 (not at all experienced with,Mouth_throat,She penned her livestock.
+pen,4,Hand_arm,She penned her memoirs.
+pen,Rating: 0 (not at all experienced with,Foot_leg,She penned her memoirs.
+pen,Rating: 0 (not at all experienced with,Torso,She penned her memoirs.
+pen,Rating: 2,Head,She penned her memoirs.
+pen,Rating: 0,Mouth_throat,She penned her memoirs.
+pen,4,Hand_arm,She penned her thoughts.
+pen,Rating: 0 (not at all experienced with,Foot_leg,She penned her thoughts.
+pen,Rating: 1,Torso,She penned her thoughts.
+pen,2,Head,She penned her thoughts.
+pen,Rating: 1,Mouth_throat,She penned her thoughts.
+perch,Rating: 1,Hand_arm,It was a freshwater perch.
+perch,Rating: 1,Foot_leg,It was a freshwater perch.
+perch,Rating: 1,Torso,It was a freshwater perch.
+perch,Rating: 1,Head,It was a freshwater perch.
+perch,Rating: 4,Mouth_throat,It was a freshwater perch.
+perch,Rating: 2,Hand_arm,It was a lofty perch.
+perch,Rating: 2,Foot_leg,It was a lofty perch.
+perch,Rating: 2,Torso,It was a lofty perch.
+perch,Rating: 1,Head,It was a lofty perch.
+perch,Rating: 0 (not at all experienced with,Mouth_throat,It was a lofty perch.
+perch,Rating: 1,Hand_arm,It was a secure perch.
+perch,Rating: 3,Foot_leg,It was a secure perch.
+perch,Rating: 2,Torso,It was a secure perch.
+perch,Rating: 1,Head,It was a secure perch.
+perch,Rating: 1,Mouth_throat,It was a secure perch.
+perch,Rating: 1,Hand_arm,It was a tasty perch.
+perch,Rating: 1,Foot_leg,It was a tasty perch.
+perch,Rating: 1,Torso,It was a tasty perch.
+perch,Rating: 1,Head,It was a tasty perch.
+perch,Rating: 4,Mouth_throat,It was a tasty perch.
+pick,4,Hand_arm,He picked his coffee.
+pick,Rating: 0 (not at all experienced with,Foot_leg,He picked his coffee.
+pick,Rating: 1,Torso,He picked his coffee.
+pick,Rating: 1,Head,He picked his coffee.
+pick,Rating: 1,Mouth_throat,He picked his coffee.
+pick,Rating: 4,Hand_arm,He picked his dinner.
+pick,Rating: 1,Foot_leg,He picked his dinner.
+pick,Rating: 1,Torso,He picked his dinner.
+pick,Rating: 1,Head,He picked his dinner.
+pick,Rating: 4,Mouth_throat,He picked his dinner.
+pick,Rating: 4,Hand_arm,He picked his nose.
+pick,Rating: 0 (not at all experienced with,Foot_leg,He picked his nose.
+pick,Rating: 0 (not at all experienced with,Torso,He picked his nose.
+pick,Rating: 4,Head,He picked his nose.
+pick,Rating: 0 (not at all experienced with,Mouth_throat,He picked his nose.
+pick,4,Hand_arm,He picked his scab.
+pick,Rating: 0 (not at all experienced with,Foot_leg,He picked his scab.
+pick,Rating: 1,Torso,He picked his scab.
+pick,Rating: 1,Head,He picked his scab.
+pick,Rating: 0 (not at all experienced with,Mouth_throat,He picked his scab.
+pitcher,Rating: 4,Hand_arm,He saw the fast pitcher.
+pitcher,Rating: 1,Foot_leg,He saw the fast pitcher.
+pitcher,Rating: 4,Torso,He saw the fast pitcher.
+pitcher,Rating: 1,Head,He saw the fast pitcher.
+pitcher,Rating: 1,Mouth_throat,He saw the fast pitcher.
+pitcher,Rating: 4,Hand_arm,He saw the glass pitcher.
+pitcher,Rating: 0 (not at all experienced with,Foot_leg,He saw the glass pitcher.
+pitcher,Rating: 2,Torso,He saw the glass pitcher.
+pitcher,Rating: 1,Head,He saw the glass pitcher.
+pitcher,Rating: 1,Mouth_throat,He saw the glass pitcher.
+pitcher,3,Hand_arm,He saw the plastic pitcher.
+pitcher,Rating: 0 (not at all experienced with,Foot_leg,He saw the plastic pitcher.
+pitcher,Rating: 2,Torso,He saw the plastic pitcher.
+pitcher,Rating: 1,Head,He saw the plastic pitcher.
+pitcher,Rating: 2,Mouth_throat,He saw the plastic pitcher.
+pitcher,4,Hand_arm,He saw the right-handed pitcher.
+pitcher,Rating: 1,Foot_leg,He saw the right-handed pitcher.
+pitcher,Rating: 3,Torso,He saw the right-handed pitcher.
+pitcher,Rating: 1,Head,He saw the right-handed pitcher.
+pitcher,Rating: 0,Mouth_throat,He saw the right-handed pitcher.
+poach,Rating: 4,Hand_arm,She poached the bear.
+poach,Rating: 2,Foot_leg,She poached the bear.
+poach,Rating: 2,Torso,She poached the bear.
+poach,Rating: 2,Head,She poached the bear.
+poach,Rating: 1,Mouth_throat,She poached the bear.
+poach,Rating: 4,Hand_arm,She poached the deer.
+poach,Rating: 3,Foot_leg,She poached the deer.
+poach,Rating: 2,Torso,She poached the deer.
+poach,Rating: 2,Head,She poached the deer.
+poach,Rating: 1,Mouth_throat,She poached the deer.
+poach,Rating: 4,Hand_arm,She poached the eggs.
+poach,Rating: 0 (not at all experienced with,Foot_leg,She poached the eggs.
+poach,Rating: 1,Torso,She poached the eggs.
+poach,Rating: 2,Head,She poached the eggs.
+poach,Rating: 1,Mouth_throat,She poached the eggs.
+poach,3,Hand_arm,She poached the vegetables.
+poach,Rating: 0 (not at all experienced with,Foot_leg,She poached the vegetables.
+poach,Rating: 1,Torso,She poached the vegetables.
+poach,Rating: 1,Head,She poached the vegetables.
+poach,Rating: 1,Mouth_throat,She poached the vegetables.
+port,Rating: 2,Hand_arm,It was a delicious port.
+port,Rating: 0 (not at all experienced with,Foot_leg,It was a delicious port.
+port,Rating: 1,Torso,It was a delicious port.
+port,Rating: 2,Head,It was a delicious port.
+port,Rating: 4,Mouth_throat,It was a delicious port.
+port,Rating: 1,Hand_arm,It was a seaside port.
+port,Rating: 1,Foot_leg,It was a seaside port.
+port,Rating: 1,Torso,It was a seaside port.
+port,Rating: 1,Head,It was a seaside port.
+port,Rating: 0 (not at all experienced with,Mouth_throat,It was a seaside port.
+port,Rating: 1,Hand_arm,It was a sweet port.
+port,Rating: 0 (not at all experienced with,Foot_leg,It was a sweet port.
+port,Rating: 1,Torso,It was a sweet port.
+port,Rating: 1,Head,It was a sweet port.
+port,Rating: 4,Mouth_throat,It was a sweet port.
+port,Rating: 1,Hand_arm,It was a windy port.
+port,Rating: 1,Foot_leg,It was a windy port.
+port,Rating: 1,Torso,It was a windy port.
+port,Rating: 1,Head,It was a windy port.
+port,Rating: 0 (not at all experienced with,Mouth_throat,It was a windy port.
+position,Rating: 1,Hand_arm,He was in a distinguished position.
+position,Rating: 1,Foot_leg,He was in a distinguished position.
+position,2,Torso,He was in a distinguished position.
+position,Rating: 1,Head,He was in a distinguished position.
+position,Rating: 0 (not at all experienced with,Mouth_throat,He was in a distinguished position.
+position,2,Hand_arm,He was in a fetal position.
+position,Rating: 2,Foot_leg,He was in a fetal position.
+position,3,Torso,He was in a fetal position.
+position,2,Head,He was in a fetal position.
+position,Rating: 0 (not at all experienced with,Mouth_throat,He was in a fetal position.
+position,Rating: 1,Hand_arm,He was in a prominent position.
+position,Rating: 1,Foot_leg,He was in a prominent position.
+position,Rating: 2,Torso,He was in a prominent position.
+position,Rating: 1,Head,He was in a prominent position.
+position,Rating: 0 (not at all experienced with,Mouth_throat,He was in a prominent position.
+position,Rating: 2,Hand_arm,He was in a yoga position.
+position,Rating: 4,Foot_leg,He was in a yoga position.
+position,4,Torso,He was in a yoga position.
+position,2,Head,He was in a yoga position.
+position,Rating: 0 (not at all experienced with,Mouth_throat,He was in a yoga position.
+post,Rating: 1,Hand_arm,It was a challenging post.
+post,Rating: 1,Foot_leg,It was a challenging post.
+post,Rating: 1,Torso,It was a challenging post.
+post,Rating: 1,Head,It was a challenging post.
+post,Rating: 0 (not at all experienced with,Mouth_throat,It was a challenging post.
+post,Rating: 2,Hand_arm,It was a fence post.
+post,Rating: 2,Foot_leg,It was a fence post.
+post,Rating: 1,Torso,It was a fence post.
+post,Rating: 1,Head,It was a fence post.
+post,Rating: 1,Mouth_throat,It was a fence post.
+post,Rating: 2,Hand_arm,It was a teaching post.
+post,Rating: 0 (not at all experienced with,Foot_leg,It was a teaching post.
+post,Rating: 1,Torso,It was a teaching post.
+post,Rating: 2,Head,It was a teaching post.
+post,Rating: 1,Mouth_throat,It was a teaching post.
+post,Rating: 1,Hand_arm,It was a wooden post.
+post,Rating: 1,Foot_leg,It was a wooden post.
+post,Rating: 1,Torso,It was a wooden post.
+post,Rating: 1,Head,It was a wooden post.
+post,Rating: 0 (not at all experienced with,Mouth_throat,It was a wooden post.
+punch,Rating: 2,Hand_arm,He had the alcoholic punch.
+punch,Rating: 0 (not at all experienced with,Foot_leg,He had the alcoholic punch.
+punch,Rating: 2,Torso,He had the alcoholic punch.
+punch,Rating: 1,Head,He had the alcoholic punch.
+punch,Rating: 4,Mouth_throat,He had the alcoholic punch.
+punch,Rating: 2,Hand_arm,He had the fruit punch.
+punch,Rating: 0 (not at all experienced with,Foot_leg,He had the fruit punch.
+punch,Rating: 1,Torso,He had the fruit punch.
+punch,Rating: 0,Head,He had the fruit punch.
+punch,Rating: 4,Mouth_throat,He had the fruit punch.
+punch,4,Hand_arm,He had the quickest punch.
+punch,Rating: 1,Foot_leg,He had the quickest punch.
+punch,3,Torso,He had the quickest punch.
+punch,Rating: 1,Head,He had the quickest punch.
+punch,Rating: 0 (not at all experienced with,Mouth_throat,He had the quickest punch.
+punch,4,Hand_arm,He had the strongest punch.
+punch,Rating: 1,Foot_leg,He had the strongest punch.
+punch,Rating: 4,Torso,He had the strongest punch.
+punch,Rating: 1,Head,He had the strongest punch.
+punch,Rating: 0 (not at all experienced with,Mouth_throat,He had the strongest punch.
+pupil,Rating: 1,Hand_arm,She had a brilliant pupil.
+pupil,0 (not at all experienced with that body part,Foot_leg,She had a brilliant pupil.
+pupil,Rating: 0 (not at all experienced with,Torso,She had a brilliant pupil.
+pupil,Rating: 4,Head,She had a brilliant pupil.
+pupil,0 (not at all experienced with that body part,Mouth_throat,She had a brilliant pupil.
+pupil,2,Hand_arm,She had a cloudy pupil.
+pupil,0 (not at all experienced with that body part,Foot_leg,She had a cloudy pupil.
+pupil,Rating: 0 (not at all experienced with,Torso,She had a cloudy pupil.
+pupil,Rating: 4,Head,She had a cloudy pupil.
+pupil,0 (not at all experienced with that body part,Mouth_throat,She had a cloudy pupil.
+pupil,2,Hand_arm,She had a dilated pupil.
+pupil,0 (not at all experienced with that body part,Foot_leg,She had a dilated pupil.
+pupil,0 (not at all experienced with that body part,Torso,She had a dilated pupil.
+pupil,Rating: 4,Head,She had a dilated pupil.
+pupil,0 (not at all experienced with that body part,Mouth_throat,She had a dilated pupil.
+pupil,1,Hand_arm,She had an interested pupil.
+pupil,0 (not at all experienced with that body part,Foot_leg,She had an interested pupil.
+pupil,Rating: 0 (not at all experienced with,Torso,She had an interested pupil.
+pupil,Rating: 4,Head,She had an interested pupil.
+pupil,0 (not at all experienced with that body part,Mouth_throat,She had an interested pupil.
+push,4,Hand_arm,He pushed the bed.
+push,Rating: 4,Foot_leg,He pushed the bed.
+push,4,Torso,He pushed the bed.
+push,1,Head,He pushed the bed.
+push,Rating: 0 (not at all experienced with,Mouth_throat,He pushed the bed.
+push,4,Hand_arm,He pushed the cocaine.
+push,Rating: 1,Foot_leg,He pushed the cocaine.
+push,Rating: 1,Torso,He pushed the cocaine.
+push,Rating: 1,Head,He pushed the cocaine.
+push,Rating: 0 (not at all experienced with,Mouth_throat,He pushed the cocaine.
+push,4,Hand_arm,He pushed the desk.
+push,Rating: 1,Foot_leg,He pushed the desk.
+push,Rating: 3,Torso,He pushed the desk.
+push,1 (very little experience with the head),Head,He pushed the desk.
+push,Rating: 0 (not at all experienced with,Mouth_throat,He pushed the desk.
+push,4,Hand_arm,He pushed the drugs.
+push,Rating: 1,Foot_leg,He pushed the drugs.
+push,Rating: 2,Torso,He pushed the drugs.
+push,Rating: 1,Head,He pushed the drugs.
+push,Rating: 0 (not at all experienced with,Mouth_throat,He pushed the drugs.
+racket,Rating: 4,Hand_arm,That was a badminton racket.
+racket,Rating: 1,Foot_leg,That was a badminton racket.
+racket,Rating: 2,Torso,That was a badminton racket.
+racket,Rating: 1,Head,That was a badminton racket.
+racket,Rating: 0 (not at all experienced with,Mouth_throat,That was a badminton racket.
+racket,Rating: 2,Hand_arm,That was a loud racket.
+racket,Rating: 1,Foot_leg,That was a loud racket.
+racket,Rating: 1,Torso,That was a loud racket.
+racket,Rating: 1,Head,That was a loud racket.
+racket,Rating: 1,Mouth_throat,That was a loud racket.
+racket,4,Hand_arm,That was a tennis racket.
+racket,Rating: 1,Foot_leg,That was a tennis racket.
+racket,2,Torso,That was a tennis racket.
+racket,Rating: 1,Head,That was a tennis racket.
+racket,Rating: 0 (not at all experienced with,Mouth_throat,That was a tennis racket.
+racket,Rating: 2,Hand_arm,That was an annoying racket.
+racket,Rating: 1,Foot_leg,That was an annoying racket.
+racket,Rating: 1,Torso,That was an annoying racket.
+racket,Rating: 1,Head,That was an annoying racket.
+racket,Rating: 1,Mouth_throat,That was an annoying racket.
+rock,Rating: 2,Hand_arm,He liked alternative rock.
+rock,Rating: 1,Foot_leg,He liked alternative rock.
+rock,Rating: 2,Torso,He liked alternative rock.
+rock,Rating: 2,Head,He liked alternative rock.
+rock,Rating: 1,Mouth_throat,He liked alternative rock.
+rock,Rating: 2,Hand_arm,He liked electronic rock.
+rock,Rating: 2,Foot_leg,He liked electronic rock.
+rock,Rating: 2,Torso,He liked electronic rock.
+rock,Rating: 2,Head,He liked electronic rock.
+rock,Rating: 1,Mouth_throat,He liked electronic rock.
+rock,Rating: 1,Hand_arm,He liked granite rock.
+rock,Rating: 1,Foot_leg,He liked granite rock.
+rock,Rating: 1,Torso,He liked granite rock.
+rock,Rating: 1,Head,He liked granite rock.
+rock,Rating: 0 (not at all experienced with,Mouth_throat,He liked granite rock.
+rock,Rating: 1,Hand_arm,He liked limestone rock.
+rock,Rating: 1,Foot_leg,He liked limestone rock.
+rock,Rating: 1,Torso,He liked limestone rock.
+rock,Rating: 1,Head,He liked limestone rock.
+rock,Rating: 0 (not at all experienced with,Mouth_throat,He liked limestone rock.
+run,Rating: 1,Hand_arm,She ran the company.
+run,Rating: 2,Foot_leg,She ran the company.
+run,Rating: 3,Torso,She ran the company.
+run,Rating: 1,Head,She ran the company.
+run,Rating: 1,Mouth_throat,She ran the company.
+run,Rating: 1,Hand_arm,She ran the marathon.
+run,4,Foot_leg,She ran the marathon.
+run,4,Torso,She ran the marathon.
+run,Rating: 1,Head,She ran the marathon.
+run,Rating: 1,Mouth_throat,She ran the marathon.
+run,Rating: 1,Hand_arm,She ran the race.
+run,Rating: 5,Foot_leg,She ran the race.
+run,Rating: 4,Torso,She ran the race.
+run,Rating: 1,Head,She ran the race.
+run,Rating: 0 (not at all experienced with,Mouth_throat,She ran the race.
+run,Rating: 1,Hand_arm,She ran the shop.
+run,Rating: 4,Foot_leg,She ran the shop.
+run,Rating: 4,Torso,She ran the shop.
+run,Rating: 1,Head,She ran the shop.
+run,Rating: 1,Mouth_throat,She ran the shop.
+sage,Rating: 1,Hand_arm,He saw the bushy sage.
+sage,Rating: 1,Foot_leg,He saw the bushy sage.
+sage,Rating: 1,Torso,He saw the bushy sage.
+sage,Rating: 1,Head,He saw the bushy sage.
+sage,Rating: 1,Mouth_throat,He saw the bushy sage.
+sage,Rating: 1,Hand_arm,He saw the fragrant sage.
+sage,Rating: 0 (not at all experienced with,Foot_leg,He saw the fragrant sage.
+sage,Rating: 1,Torso,He saw the fragrant sage.
+sage,Rating: 1,Head,He saw the fragrant sage.
+sage,Rating: 4,Mouth_throat,He saw the fragrant sage.
+sage,Rating: 1,Hand_arm,He saw the renowned sage.
+sage,Rating: 0 (not at all experienced with,Foot_leg,He saw the renowned sage.
+sage,Rating: 0 (not at all experienced with,Torso,He saw the renowned sage.
+sage,Rating: 2,Head,He saw the renowned sage.
+sage,Rating: 1,Mouth_throat,He saw the renowned sage.
+sage,Rating: 1,Hand_arm,He saw the wise sage.
+sage,Rating: 0 (not at all experienced with,Foot_leg,He saw the wise sage.
+sage,Rating: 0 (not at all experienced with,Torso,He saw the wise sage.
+sage,Rating: 4,Head,He saw the wise sage.
+sage,Rating: 1,Mouth_throat,He saw the wise sage.
+scale,Rating: 1,Hand_arm,It was a fish scale.
+scale,Rating: 1,Foot_leg,It was a fish scale.
+scale,Rating: 1,Torso,It was a fish scale.
+scale,Rating: 1,Head,It was a fish scale.
+scale,Rating: 2,Mouth_throat,It was a fish scale.
+scale,Rating: 1,Hand_arm,It was a lizard scale.
+scale,Rating: 1,Foot_leg,It was a lizard scale.
+scale,Rating: 1,Torso,It was a lizard scale.
+scale,Rating: 1,Head,It was a lizard scale.
+scale,Rating: 1,Mouth_throat,It was a lizard scale.
+scale,Rating: 2,Hand_arm,It was a major scale.
+scale,Rating: 1,Foot_leg,It was a major scale.
+scale,Rating: 1,Torso,It was a major scale.
+scale,Rating: 2,Head,It was a major scale.
+scale,Rating: 2,Mouth_throat,It was a major scale.
+scale,Rating: 2,Hand_arm,It was a music scale.
+scale,Rating: 1,Foot_leg,It was a music scale.
+scale,Rating: 1,Torso,It was a music scale.
+scale,Rating: 3,Head,It was a music scale.
+scale,Rating: 3,Mouth_throat,It was a music scale.
+scene,Rating: 1,Hand_arm,It was a nature scene.
+scene,Rating: 1,Foot_leg,It was a nature scene.
+scene,Rating: 1,Torso,It was a nature scene.
+scene,Rating: 1,Head,It was a nature scene.
+scene,Rating: 0 (not at all experienced with,Mouth_throat,It was a nature scene.
+scene,Rating: 1,Hand_arm,It was a panoramic scene.
+scene,Rating: 0 (not at all experienced with,Foot_leg,It was a panoramic scene.
+scene,Rating: 1,Torso,It was a panoramic scene.
+scene,Rating: 1,Head,It was a panoramic scene.
+scene,0 (not at all experienced with that body part,Mouth_throat,It was a panoramic scene.
+scene,Rating: 1,Hand_arm,It was a touching scene.
+scene,Rating: 0 (not at all experienced with,Foot_leg,It was a touching scene.
+scene,Rating: 0 (not at all experienced with,Torso,It was a touching scene.
+scene,Rating: 1,Head,It was a touching scene.
+scene,Rating: 0 (not at all experienced with,Mouth_throat,It was a touching scene.
+scene,Rating: 1,Hand_arm,It was a well-acted scene.
+scene,Rating: 0 (not at all experienced with,Foot_leg,It was a well-acted scene.
+scene,Rating: 0 (not at all experienced with,Torso,It was a well-acted scene.
+scene,Rating: 2,Head,It was a well-acted scene.
+scene,Rating: 0 (not at all experienced with,Mouth_throat,It was a well-acted scene.
+seal,Rating: 1,Hand_arm,It was a certified seal.
+seal,Rating: 1,Foot_leg,It was a certified seal.
+seal,Rating: 1,Torso,It was a certified seal.
+seal,Rating: 1,Head,It was a certified seal.
+seal,Rating: 1,Mouth_throat,It was a certified seal.
+seal,Rating: 2,Hand_arm,It was a circus seal.
+seal,Rating: 1,Foot_leg,It was a circus seal.
+seal,Rating: 2,Torso,It was a circus seal.
+seal,Rating: 1,Head,It was a circus seal.
+seal,Rating: 2,Mouth_throat,It was a circus seal.
+seal,Rating: 1,Hand_arm,It was a gold seal.
+seal,Rating: 1,Foot_leg,It was a gold seal.
+seal,Rating: 1,Torso,It was a gold seal.
+seal,Rating: 1,Head,It was a gold seal.
+seal,Rating: 1,Mouth_throat,It was a gold seal.
+seal,Rating: 1,Hand_arm,It was a trained seal.
+seal,Rating: 1,Foot_leg,It was a trained seal.
+seal,Rating: 2,Torso,It was a trained seal.
+seal,Rating: 1,Head,It was a trained seal.
+seal,Rating: 2,Mouth_throat,It was a trained seal.
+serve,Rating: 4,Hand_arm,She served a lasagna.
+serve,Rating: 0 (not at all experienced with,Foot_leg,She served a lasagna.
+serve,Rating: 1,Torso,She served a lasagna.
+serve,Rating: 1,Head,She served a lasagna.
+serve,Rating: 1,Mouth_throat,She served a lasagna.
+serve,4,Hand_arm,She served a pie.
+serve,Rating: 1,Foot_leg,She served a pie.
+serve,Rating: 1,Torso,She served a pie.
+serve,Rating: 1,Head,She served a pie.
+serve,Rating: 1,Mouth_throat,She served a pie.
+serve,3,Hand_arm,She served a summons.
+serve,Rating: 1,Foot_leg,She served a summons.
+serve,Rating: 1,Torso,She served a summons.
+serve,Rating: 1,Head,She served a summons.
+serve,Rating: 1,Mouth_throat,She served a summons.
+serve,3,Hand_arm,She served a warrant.
+serve,Rating: 1,Foot_leg,She served a warrant.
+serve,Rating: 1,Torso,She served a warrant.
+serve,Rating: 1,Head,She served a warrant.
+serve,Rating: 1,Mouth_throat,She served a warrant.
+sing,Rating: 1,Hand_arm,The bird sang.
+sing,Rating: 0 (not at all experienced with,Foot_leg,The bird sang.
+sing,Rating: 2,Torso,The bird sang.
+sing,Rating: 4,Head,The bird sang.
+sing,4,Mouth_throat,The bird sang.
+sing,Rating: 4,Hand_arm,The choir sang.
+sing,Rating: 0 (not at all experienced with,Foot_leg,The choir sang.
+sing,3,Torso,The choir sang.
+sing,Rating: 4,Head,The choir sang.
+sing,4,Mouth_throat,The choir sang.
+sing,Rating: 4,Hand_arm,The cricket sang.
+sing,Rating: 0,Foot_leg,The cricket sang.
+sing,2,Torso,The cricket sang.
+sing,Rating: 4,Head,The cricket sang.
+sing,Rating: 5,Mouth_throat,The cricket sang.
+sing,Rating: 4,Hand_arm,The girl sang.
+sing,Rating: 0 (not at all experienced with,Foot_leg,The girl sang.
+sing,3,Torso,The girl sang.
+sing,Rating: 4,Head,The girl sang.
+sing,4,Mouth_throat,The girl sang.
+spill,3,Hand_arm,He spilled the drink.
+spill,Rating: 1,Foot_leg,He spilled the drink.
+spill,Rating: 1,Torso,He spilled the drink.
+spill,Rating: 1,Head,He spilled the drink.
+spill,Rating: 1,Mouth_throat,He spilled the drink.
+spill,3,Hand_arm,He spilled the flour.
+spill,Rating: 1,Foot_leg,He spilled the flour.
+spill,Rating: 2,Torso,He spilled the flour.
+spill,Rating: 1,Head,He spilled the flour.
+spill,Rating: 0 (not at all experienced with,Mouth_throat,He spilled the flour.
+spill,2,Hand_arm,He spilled the news.
+spill,Rating: 1,Foot_leg,He spilled the news.
+spill,Rating: 1,Torso,He spilled the news.
+spill,Rating: 1,Head,He spilled the news.
+spill,Rating: 1,Mouth_throat,He spilled the news.
+spill,2,Hand_arm,He spilled the secret.
+spill,Rating: 1,Foot_leg,He spilled the secret.
+spill,Rating: 1,Torso,He spilled the secret.
+spill,Rating: 1,Head,He spilled the secret.
+spill,Rating: 2,Mouth_throat,He spilled the secret.
+stake,2,Hand_arm,He staked his claim.
+stake,Rating: 2,Foot_leg,He staked his claim.
+stake,Rating: 1,Torso,He staked his claim.
+stake,Rating: 1,Head,He staked his claim.
+stake,Rating: 1,Mouth_throat,He staked his claim.
+stake,2,Hand_arm,He staked his horse.
+stake,Rating: 2,Foot_leg,He staked his horse.
+stake,Rating: 2,Torso,He staked his horse.
+stake,Rating: 1,Head,He staked his horse.
+stake,Rating: 0 (not at all experienced with,Mouth_throat,He staked his horse.
+stake,Rating: 2,Hand_arm,He staked his name.
+stake,Rating: 1,Foot_leg,He staked his name.
+stake,Rating: 1,Torso,He staked his name.
+stake,Rating: 1,Head,He staked his name.
+stake,Rating: 1,Mouth_throat,He staked his name.
+stake,4,Hand_arm,He staked his tent.
+stake,Rating: 4,Foot_leg,He staked his tent.
+stake,Rating: 2,Torso,He staked his tent.
+stake,Rating: 1,Head,He staked his tent.
+stake,Rating: 0 (not at all experienced with,Mouth_throat,He staked his tent.
+stall,Rating: 1,Hand_arm,They stalled the bus.
+stall,Rating: 3,Foot_leg,They stalled the bus.
+stall,Rating: 1,Torso,They stalled the bus.
+stall,Rating: 1,Head,They stalled the bus.
+stall,Rating: 0 (not at all experienced with,Mouth_throat,They stalled the bus.
+stall,Rating: 1,Hand_arm,They stalled the horse.
+stall,Rating: 3,Foot_leg,They stalled the horse.
+stall,Rating: 1,Torso,They stalled the horse.
+stall,Rating: 1,Head,They stalled the horse.
+stall,Rating: 1,Mouth_throat,They stalled the horse.
+stall,Rating: 1,Hand_arm,They stalled the pig.
+stall,Rating: 1,Foot_leg,They stalled the pig.
+stall,Rating: 1,Torso,They stalled the pig.
+stall,Rating: 1,Head,They stalled the pig.
+stall,Rating: 1,Mouth_throat,They stalled the pig.
+stall,Rating: 2,Hand_arm,They stalled the truck.
+stall,Rating: 4,Foot_leg,They stalled the truck.
+stall,Rating: 1,Torso,They stalled the truck.
+stall,Rating: 1,Head,They stalled the truck.
+stall,Rating: 0 (not at all experienced with,Mouth_throat,They stalled the truck.
+stay,Rating: 1,Hand_arm,They stayed cold.
+stay,Rating: 0,Foot_leg,They stayed cold.
+stay,Rating: 1,Torso,They stayed cold.
+stay,1,Head,They stayed cold.
+stay,0 (not at all experienced with that body part,Mouth_throat,They stayed cold.
+stay,Rating: 1,Hand_arm,They stayed nearby.
+stay,Rating: 1,Foot_leg,They stayed nearby.
+stay,Rating: 1,Torso,They stayed nearby.
+stay,Rating: 1,Head,They stayed nearby.
+stay,Rating: 0 (not at all experienced with,Mouth_throat,They stayed nearby.
+stay,Rating: 1,Hand_arm,They stayed overnight.
+stay,Rating: 1,Foot_leg,They stayed overnight.
+stay,Rating: 1,Torso,They stayed overnight.
+stay,Rating: 1,Head,They stayed overnight.
+stay,Rating: 0 (not at all experienced with,Mouth_throat,They stayed overnight.
+stay,1,Hand_arm,They stayed wet.
+stay,Rating: 1,Foot_leg,They stayed wet.
+stay,Rating: 1,Torso,They stayed wet.
+stay,Rating: 1,Head,They stayed wet.
+stay,0 (not at all experienced with that body part,Mouth_throat,They stayed wet.
+tap,Rating: 4,Hand_arm,He tapped the beer.
+tap,Rating: 2,Foot_leg,He tapped the beer.
+tap,Rating: 1,Torso,He tapped the beer.
+tap,Rating: 1,Head,He tapped the beer.
+tap,Rating: 2,Mouth_throat,He tapped the beer.
+tap,4,Hand_arm,He tapped the drums.
+tap,Rating: 2,Foot_leg,He tapped the drums.
+tap,Rating: 1,Torso,He tapped the drums.
+tap,Rating: 1,Head,He tapped the drums.
+tap,Rating: 0 (not at all experienced with,Mouth_throat,He tapped the drums.
+tap,4,Hand_arm,He tapped the keg.
+tap,Rating: 1,Foot_leg,He tapped the keg.
+tap,Rating: 1,Torso,He tapped the keg.
+tap,Rating: 1,Head,He tapped the keg.
+tap,Rating: 1,Mouth_throat,He tapped the keg.
+tap,Rating: 4,Hand_arm,He tapped the stick.
+tap,Rating: 2,Foot_leg,He tapped the stick.
+tap,Rating: 1,Torso,He tapped the stick.
+tap,Rating: 1,Head,He tapped the stick.
+tap,Rating: 0 (not at all experienced with,Mouth_throat,He tapped the stick.
+tape,Rating: 3,Hand_arm,He used the double-sided tape.
+tape,Rating: 0 (not at all experienced with,Foot_leg,He used the double-sided tape.
+tape,Rating: 0 (not at all experienced with,Torso,He used the double-sided tape.
+tape,Rating: 1,Head,He used the double-sided tape.
+tape,Rating: 1,Mouth_throat,He used the double-sided tape.
+tape,Rating: 3,Hand_arm,He used the interview tape.
+tape,Rating: 0 (not at all experienced with,Foot_leg,He used the interview tape.
+tape,Rating: 0 (not at all experienced with,Torso,He used the interview tape.
+tape,Rating: 1,Head,He used the interview tape.
+tape,Rating: 1,Mouth_throat,He used the interview tape.
+tape,3,Hand_arm,He used the scotch tape.
+tape,Rating: 1,Foot_leg,He used the scotch tape.
+tape,Rating: 0 (not at all experienced with,Torso,He used the scotch tape.
+tape,Rating: 1,Head,He used the scotch tape.
+tape,Rating: 1,Mouth_throat,He used the scotch tape.
+tape,Rating: 2,Hand_arm,He used the video tape.
+tape,Rating: 0 (not at all experienced with,Foot_leg,He used the video tape.
+tape,Rating: 0 (not at all experienced with,Torso,He used the video tape.
+tape,Rating: 1,Head,He used the video tape.
+tape,Rating: 1,Mouth_throat,He used the video tape.
+term,Rating: 1,Hand_arm,It was a fall term.
+term,Rating: 0 (not at all experienced with,Foot_leg,It was a fall term.
+term,0 (not at all experienced with that body part,Torso,It was a fall term.
+term,Rating: 1,Head,It was a fall term.
+term,0 (not at all experienced with that body part,Mouth_throat,It was a fall term.
+term,Rating: 1,Hand_arm,It was a legal term.
+term,0 (not at all experienced with that body part,Foot_leg,It was a legal term.
+term,Rating: 0 (not at all experienced with,Torso,It was a legal term.
+term,Rating: 2,Head,It was a legal term.
+term,Rating: 1,Mouth_throat,It was a legal term.
+term,Rating: 1,Hand_arm,It was a technical term.
+term,0 (not at all experienced with that body part,Foot_leg,It was a technical term.
+term,0 (not at all experienced with that body part,Torso,It was a technical term.
+term,Rating: 2,Head,It was a technical term.
+term,Rating: 0 (not at all experienced with,Mouth_throat,It was a technical term.
+term,Rating: 1,Hand_arm,It was a winter term.
+term,Rating: 0 (not at all experienced with,Foot_leg,It was a winter term.
+term,0 (not at all experienced with that body part,Torso,It was a winter term.
+term,Rating: 1,Head,It was a winter term.
+term,Rating: 0 (not at all experienced with,Mouth_throat,It was a winter term.
+tick,Rating: 1,Hand_arm,It was a clock tick.
+tick,Rating: 0 (not at all experienced with,Foot_leg,It was a clock tick.
+tick,Rating: 0 (not at all experienced with,Torso,It was a clock tick.
+tick,Rating: 1,Head,It was a clock tick.
+tick,Rating: 1,Mouth_throat,It was a clock tick.
+tick,Rating: 1,Hand_arm,It was a diseased tick.
+tick,Rating: 1,Foot_leg,It was a diseased tick.
+tick,Rating: 0 (not at all experienced with,Torso,It was a diseased tick.
+tick,Rating: 1,Head,It was a diseased tick.
+tick,Rating: 0 (not at all experienced with,Mouth_throat,It was a diseased tick.
+tick,Rating: 1,Hand_arm,It was a parasitic tick.
+tick,Rating: 1,Foot_leg,It was a parasitic tick.
+tick,Rating: 1,Torso,It was a parasitic tick.
+tick,Rating: 2,Head,It was a parasitic tick.
+tick,1,Mouth_throat,It was a parasitic tick.
+tick,Rating: 2,Hand_arm,It was an audible tick.
+tick,Rating: 0 (not at all experienced with,Foot_leg,It was an audible tick.
+tick,Rating: 0 (not at all experienced with,Torso,It was an audible tick.
+tick,Rating: 2,Head,It was an audible tick.
+tick,Rating: 1,Mouth_throat,It was an audible tick.
+tip,Rating: 4,Hand_arm,It was a finger tip.
+tip,Rating: 1,Foot_leg,It was a finger tip.
+tip,Rating: 0 (not at all experienced with,Torso,It was a finger tip.
+tip,Rating: 1,Head,It was a finger tip.
+tip,Rating: 1,Mouth_throat,It was a finger tip.
+tip,Rating: 2,Hand_arm,It was a generous tip.
+tip,Rating: 0 (not at all experienced with,Foot_leg,It was a generous tip.
+tip,Rating: 0 (not at all experienced with,Torso,It was a generous tip.
+tip,Rating: 1,Head,It was a generous tip.
+tip,Rating: 0,Mouth_throat,It was a generous tip.
+tip,Rating: 2,Hand_arm,It was a pencil tip.
+tip,Rating: 1,Foot_leg,It was a pencil tip.
+tip,Rating: 0 (not at all experienced with,Torso,It was a pencil tip.
+tip,Rating: 1,Head,It was a pencil tip.
+tip,Rating: 1,Mouth_throat,It was a pencil tip.
+tip,Rating: 1,Hand_arm,It was a stingy tip.
+tip,Rating: 0 (not at all experienced with,Foot_leg,It was a stingy tip.
+tip,Rating: 0 (not at all experienced with,Torso,It was a stingy tip.
+tip,Rating: 1,Head,It was a stingy tip.
+tip,1,Mouth_throat,It was a stingy tip.
+title,Rating: 1,Hand_arm,She liked the academic title.
+title,0 (not at all experienced with that body part,Foot_leg,She liked the academic title.
+title,0 (not at all experienced with that body part,Torso,She liked the academic title.
+title,Rating: 1,Head,She liked the academic title.
+title,0 (not at all experienced with that body part,Mouth_throat,She liked the academic title.
+title,Rating: 1,Hand_arm,She liked the essay title.
+title,0 (not at all experienced with that body part,Foot_leg,She liked the essay title.
+title,0 (not at all experienced with that body part,Torso,She liked the essay title.
+title,Rating: 2,Head,She liked the essay title.
+title,0 (not at all experienced with that body part,Mouth_throat,She liked the essay title.
+title,Rating: 1,Hand_arm,She liked the poem title.
+title,0 (not at all experienced with that body part,Foot_leg,She liked the poem title.
+title,0 (not at all experienced with that body part,Torso,She liked the poem title.
+title,Rating: 1,Head,She liked the poem title.
+title,Rating: 1,Mouth_throat,She liked the poem title.
+title,Rating: 1,Hand_arm,She liked the professional title.
+title,0 (not at all experienced with that body part,Foot_leg,She liked the professional title.
+title,0 (not at all experienced with that body part,Torso,She liked the professional title.
+title,1,Head,She liked the professional title.
+title,Rating: 1,Mouth_throat,She liked the professional title.
+toast,Rating: 3,Hand_arm,They toasted the bread.
+toast,Rating: 0 (not at all experienced with,Foot_leg,They toasted the bread.
+toast,Rating: 1,Torso,They toasted the bread.
+toast,Rating: 1,Head,They toasted the bread.
+toast,Rating: 4,Mouth_throat,They toasted the bread.
+toast,Rating: 4,Hand_arm,They toasted the bride.
+toast,Rating: 0 (not at all experienced with,Foot_leg,They toasted the bride.
+toast,Rating: 1,Torso,They toasted the bride.
+toast,Rating: 1,Head,They toasted the bride.
+toast,Rating: 4,Mouth_throat,They toasted the bride.
+toast,Rating: 3,Hand_arm,They toasted the host.
+toast,Rating: 0 (not at all experienced with,Foot_leg,They toasted the host.
+toast,Rating: 1,Torso,They toasted the host.
+toast,Rating: 1,Head,They toasted the host.
+toast,4,Mouth_throat,They toasted the host.
+toast,Rating: 3,Hand_arm,They toasted the strudel.
+toast,Rating: 0 (not at all experienced with,Foot_leg,They toasted the strudel.
+toast,Rating: 1,Torso,They toasted the strudel.
+toast,Rating: 1,Head,They toasted the strudel.
+toast,3,Mouth_throat,They toasted the strudel.
+toll,Rating: 1,Hand_arm,It was a bell toll.
+toll,Rating: 0 (not at all experienced with,Foot_leg,It was a bell toll.
+toll,Rating: 1,Torso,It was a bell toll.
+toll,Rating: 1,Head,It was a bell toll.
+toll,Rating: 1,Mouth_throat,It was a bell toll.
+toll,Rating: 1,Hand_arm,It was a costly toll.
+toll,Rating: 0 (not at all experienced with,Foot_leg,It was a costly toll.
+toll,0 (not at all experienced with that body part,Torso,It was a costly toll.
+toll,Rating: 1,Head,It was a costly toll.
+toll,Rating: 0 (not at all experienced with,Mouth_throat,It was a costly toll.
+toll,Rating: 1,Hand_arm,It was a loud toll.
+toll,Rating: 0 (not at all experienced with,Foot_leg,It was a loud toll.
+toll,Rating: 0 (not at all experienced with,Torso,It was a loud toll.
+toll,Rating: 1,Head,It was a loud toll.
+toll,Rating: 1,Mouth_throat,It was a loud toll.
+toll,Rating: 1,Hand_arm,It was a road toll.
+toll,Rating: 1,Foot_leg,It was a road toll.
+toll,Rating: 0 (not at all experienced with,Torso,It was a road toll.
+toll,Rating: 1,Head,It was a road toll.
+toll,Rating: 1,Mouth_throat,It was a road toll.
+track,Rating: 1,Hand_arm,She saw the moose tracks.
+track,Rating: 4,Foot_leg,She saw the moose tracks.
+track,Rating: 1,Torso,She saw the moose tracks.
+track,Rating: 1,Head,She saw the moose tracks.
+track,Rating: 0 (not at all experienced with,Mouth_throat,She saw the moose tracks.
+track,Rating: 1,Hand_arm,She saw the snowshoe tracks.
+track,Rating: 4,Foot_leg,She saw the snowshoe tracks.
+track,Rating: 1,Torso,She saw the snowshoe tracks.
+track,Rating: 1,Head,She saw the snowshoe tracks.
+track,Rating: 0 (not at all experienced with,Mouth_throat,She saw the snowshoe tracks.
+track,Rating: 1,Hand_arm,She saw the train tracks.
+track,Rating: 1,Foot_leg,She saw the train tracks.
+track,Rating: 1,Torso,She saw the train tracks.
+track,Rating: 1,Head,She saw the train tracks.
+track,Rating: 0 (not at all experienced with,Mouth_throat,She saw the train tracks.
+track,Rating: 1,Hand_arm,She saw the trolley tracks.
+track,Rating: 1,Foot_leg,She saw the trolley tracks.
+track,Rating: 1,Torso,She saw the trolley tracks.
+track,Rating: 1,Head,She saw the trolley tracks.
+track,Rating: 0 (not at all experienced with,Mouth_throat,She saw the trolley tracks.
+yard,Rating: 1,Hand_arm,It was five yards.
+yard,Rating: 1,Foot_leg,It was five yards.
+yard,Rating: 1,Torso,It was five yards.
+yard,Rating: 0,Head,It was five yards.
+yard,Rating: 0 (not at all experienced with,Mouth_throat,It was five yards.
+yard,Rating: 1,Hand_arm,It was ten yards.
+yard,Rating: 1,Foot_leg,It was ten yards.
+yard,Rating: 1,Torso,It was ten yards.
+yard,Rating: 0,Head,It was ten yards.
+yard,0 (not at all experienced with that body part,Mouth_throat,It was ten yards.
+yard,Rating: 1,Hand_arm,They were big yards.
+yard,Rating: 2,Foot_leg,They were big yards.
+yard,Rating: 1,Torso,They were big yards.
+yard,Rating: 1,Head,They were big yards.
+yard,Rating: 0 (not at all experienced with,Mouth_throat,They were big yards.
+yard,Rating: 1,Hand_arm,They were cluttered yards.
+yard,Rating: 2,Foot_leg,They were cluttered yards.
+yard,Rating: 2,Torso,They were cluttered yards.
+yard,Rating: 1,Head,They were cluttered yards.
+yard,Rating: 0 (not at all experienced with,Mouth_throat,They were cluttered yards.
