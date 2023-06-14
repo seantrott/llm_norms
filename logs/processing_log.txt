@@ -1,0 +1,44 @@
+Processing Action norms...
+2240 entries.
+2240 entries after dropping NA.
+Now pivoting dataframe...
+Pivot successful: 448 entries.
+Saving to data/processed/cs_norms_action/cs_norms_action_gpt-4.csv.
+
+
+Processing Perception norms...
+2688 entries.
+2688 entries after dropping NA.
+Now pivoting dataframe...
+Pivot successful: 448 entries.
+Saving to data/processed/cs_norms_perception/cs_norms_perception_gpt-4.csv.
+
+
+Processing Glasgow norms...
+7838 entries.
+7837 entries after dropping NA.
+Now pivoting dataframe...
+Pivot successful: 871 entries.
+Saving to data/processed/glasgow/glasgow_gpt-4.csv.
+
+
+Processing Iconicity norms...
+14774 entries.
+14772 entries after dropping NA.
+Saving to data/processed/iconicity/iconicity_gpt-4.csv.
+
+
+Processing SimVerb norms...
+3500 entries.
+3500 entries after dropping NA.
+Saving to data/processed/simverb/simverb_gpt-4.csv.
+
+
+Processing SimLex999 norms...
+999 entries.
+Saving to data/processed/simlex/simlex_gpt-4.csv.
+
+
+Processing RAW-C norms...
+672 entries.
+Saving to data/processed/raw-c/raw-c_gpt-4.csv.
