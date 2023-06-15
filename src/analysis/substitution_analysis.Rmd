@@ -1,0 +1,456 @@
+---
+title: "Substitution Analysis"
+author: "Sean Trott"
+date: "2023-06-05"
+output:
+  # pdf_document: 
+  #    fig_caption: yes
+  #    keep_md: yes
+  #    keep_tex: yes
+  html_document:
+    keep_md: yes
+    toc: yes
+    toc_float: yes
+    # code_folding: hide
+  # pdf_document: 
+  word_document:
+    toc: yes
+---
+
+
+# Load libraries and setup
+
+```{r include=FALSE}
+library(tidyverse)
+library(lme4)
+library(ggridges)
+library(broom.mixed)
+library(lmerTest)
+library(broom)
+
+# setwd("/Users/seantrott/Dropbox/UCSD/Research/NLMs/llm_norms/src/analysis")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dpi = 300, fig.format = "pdf")
+```
+
+
+# Introduction
+
+This file contains analyses that ask whether GPT-4's ratings can be **substituted** for human ratings without changing the qualitative inferences of that analysis.
+
+
+# Dataset 1: Iconicity
+
+Here, we replicate the key analyses from Winter et al. (2023).
+
+## Load and merge iconicity data
+
+```{r}
+df_gpt = read_csv("../../data/processed/iconicity/iconicity_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/iconicity/iconicity.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+```
+
+
+## Load and merge relevant covariates
+
+These datasets contain information to replicate one of the key analyses from Winter et al. (2023).
+
+```{r}
+df_conc = read_csv("../../data/lexical_statistics/winter2023/brysbaert_2014_concreteness.csv") %>%
+  mutate(word = Word)
+nrow(df_conc)
+
+df_humor = read_csv("../../data/lexical_statistics/winter2023/engelthaler_hills_2018_humor.csv") %>%
+  select(-n) %>%
+  mutate(humor = mean)
+nrow(df_humor)
+
+df_ser = read_csv("../../data/lexical_statistics/winter2023/juhasz_yap_2013_SER.csv") %>%
+  mutate(word = Word)
+nrow(df_ser)
+
+df_aoa = read_csv("../../data/lexical_statistics/winter2023/kuperman_2012_AOA.csv") %>%
+  mutate(word = Word,
+         AoA = Rating.Mean)
+nrow(df_aoa)
+
+df_arc = read_csv("../../data/lexical_statistics/winter2023/shaoul_westbury_2010_ARC.csv") %>%
+  mutate(word = tolower(WORD))
+nrow(df_arc)
+
+df_subtlex = read_csv("../../data/lexical_statistics/winter2023/brysbaert_2012_SUBTLEX_POS.csv") %>%
+  mutate(word = Word)
+nrow(df_subtlex)
+
+df_ding = read_csv("../../data/lexical_statistics/winter2023/dingemanse_thompson_2020.csv") 
+nrow(df_ding)
+
+```
+
+
+## Analysis 1: Replicating Winter et al. (2023)
+
+First, merge all the datasets together.
+
+```{r}
+df_merged_subs = df_merged %>%
+  inner_join(df_conc, by = "word") %>%
+  inner_join(df_ser, by = "word") %>%
+  inner_join(df_humor, by = "word") %>%
+  inner_join(df_aoa, by = "word") %>%
+  inner_join(df_subtlex, by = "word") %>%
+  inner_join(df_arc, by = "word") %>%
+  inner_join(df_ding, by = "word")
+
+nrow(df_merged_subs)
+
+### Standardize
+df_merged_subs = df_merged_subs %>%
+  mutate(ARC_z = scale(ARC),
+         SER_z = scale(SER),
+         CONC_z = scale(Conc.M),
+         Humor_z = scale(humor), 
+         AoA_z = scale(AoA),
+         Lg10WF_z = scale(Lg10WF),
+         LgLetter_z = scale(logletterfreq))
+```
+
+Then, replicate the main Winter et al. (2023) analysis and redo with GPT-4 ratings.
+
+```{r iconicity_human}
+mod_full = lm(data = df_merged_subs,
+              rating ~ ARC_z * SER_z +
+                CONC_z + Humor_z + AoA_z + Lg10WF_z + LgLetter_z + POS)
+
+df_model = broom::tidy(mod_full) %>%
+  mutate(source = "Human")
+
+df_model
+
+### GPT-4 analysis
+mod_full_gpt = lm(data = df_merged_subs,
+              gpt4_rating ~ ARC_z * SER_z +
+                CONC_z + Humor_z + AoA_z + Lg10WF_z + LgLetter_z + POS)
+
+df_model_gpt = broom::tidy(mod_full_gpt) %>%
+  mutate(source = "GPT-4")
+
+df_model_gpt
+
+
+```
+
+
+Directly compare coefficients.
+
+```{r iconicity_both}
+df_both = df_model %>%
+  bind_rows(df_model_gpt)
+
+df_both = df_both %>%
+  filter(term != "(Intercept)") %>%
+  filter(!grepl("POS", term)) %>%
+  mutate(term = case_when(
+    term == "Humor_z" ~ "Humor ratings",
+    term == "SER_z" ~ "Sensory experience ratings",
+    term == "ARC_z:SER_z" ~ "ARC * SER interaction",
+    term == "CONC_z" ~ "Concreteness ratings",
+    term == "Lg10WF_z" ~ "Log word frequency",
+    term == "LgLetter_z" ~ "Log letter frequency",
+    term == "ARC_z" ~ "ARC",
+    term == "AoA_z" ~ "AoA"
+    ))
+
+df_both %>%
+  ggplot(aes(x = reorder(term, estimate),
+             y = estimate,
+             color = source,
+             shape = source)) +
+  geom_point(size = 4, alpha = .6) +
+  coord_flip() +
+  geom_hline(yintercept = 0, linetype = "dotted") +
+  geom_errorbar(aes(ymin = estimate - 2*std.error, 
+                    ymax = estimate + 2*std.error), 
+                alpha = .2,
+                width=.2) + 
+                # position=position_dodge(.9)) +
+  labs(x = "Predictor",
+       y = "Estimate",
+       color = "Iconicity Source",
+       shape = "Iconicity Source") +
+  theme_minimal()
+
+
+```
+
+### Quantifying differences
+
+We can also quantify the differences more directly.
+
+```{r}
+df_both_wide = df_both %>%
+  select(term, estimate, std.error, source) %>%
+  pivot_wider(names_from = "source", values_from = c(estimate, std.error))
+
+### Now calculate differences and scale by std.error
+df_both_wide = df_both_wide %>%
+  mutate(diff = estimate_Human - `estimate_GPT-4`,
+         se_diff = sqrt(std.error_Human**2+ `std.error_GPT-4`**2),
+         diff_scaled = diff / se_diff,
+         diff_abs = abs(diff))
+
+df_both_wide %>%
+  arrange(desc(diff_abs)) %>%
+  select(term, diff)
+
+### Now calculate t-test
+n = nrow(df_merged_subs)
+p = length(coefficients(mod_full)) - 1
+df = n - p
+
+### Calculate p-values
+df_both_wide = df_both_wide %>%
+  mutate(p = 2 * pt(abs(diff_scaled), df = df, lower.tail = FALSE)) %>%
+  mutate(significant = p < .05)
+
+df_both_wide %>%
+  arrange(desc(diff_abs)) %>%
+  filter(significant == TRUE) %>%
+  select(term, diff_abs, diff_scaled, p)
+
+
+
+```
+
+
+# Dataset 2: Relatedness (and sensorimotor distance)
+
+Here, we replicate the analysis predicting human relatedness judgments (Trott & Bergen, 2022) using **sensorimotor distance**. We first use a measure of sensorimotor distance from human-generated contextualized norms, then a measure of sensorimotor distance from LLM-generated contextualized norms.
+
+## Load data
+
+```{r}
+df_rawc_with_sm = read_csv("../../data/lexical_statistics/relatedness/rawc_with_sm.csv")
+nrow(df_rawc_with_sm)
+
+### Descriptive stats
+cor.test(df_rawc_with_sm$sm_gpt, df_rawc_with_sm$sm_human, method = "spearman")
+```
+
+
+## Analysis 1: Predicting human relatedness judgments
+
+First, we build the models:
+
+```{r}
+mod_human = lm(data = df_rawc_with_sm,
+               mean_relatedness ~ sm_human +
+                 distance_bert +
+                 same * ambiguity_type)
+
+df_model_human = broom::tidy(mod_human) %>%
+  mutate(source = "Human")
+
+df_model_human
+
+mod_gpt = lm(data = df_rawc_with_sm,
+               mean_relatedness ~ sm_gpt +
+                 distance_bert +
+                 same * ambiguity_type)
+
+df_model_gpt = broom::tidy(mod_gpt) %>%
+  mutate(source = "GPT-4")
+
+df_model_gpt
+```
+
+Overall model fits:
+
+```{r}
+mh = summary(mod_human)
+mh$r.squared
+
+mgpt = summary(mod_gpt)
+mgpt$r.squared
+```
+
+
+Now, we directly compare coefficients.
+
+```{r sm1_both}
+df_both = df_model_human %>%
+  bind_rows(df_model_gpt)
+
+df_both = df_both %>%
+  filter(term != "(Intercept)")
+
+df_both %>%
+  filter(term %in% c("sm_gpt", "sm_human")) %>%
+  ggplot(aes(x = reorder(term, estimate),
+             y = estimate,
+             color = source,
+             shape = source)) +
+  geom_point(size = 4, alpha = .6) +
+  # coord_flip() +
+  geom_errorbar(aes(ymin = estimate - 2*std.error, 
+                    ymax = estimate + 2*std.error), 
+                alpha = .2,
+                width=.2) + 
+                # position=position_dodge(.9)) +
+  labs(x = "Predictor",
+       y = "Estimate",
+       color = "Sensorimotor Source",
+       shape = "Sensorimotor Source") +
+  theme_minimal()
+
+
+```
+
+We can also quantify the differences more directly.
+
+```{r}
+### first, calculate difference
+diff = unname(mod_human$coefficients["sm_human"] - mod_gpt$coefficients["sm_gpt"])
+abs_diff = abs(diff)
+diff
+
+### next, calculate standard error of the difference
+se_diff = unname(sqrt(mh$coefficients[, "Std. Error"]["sm_human"]**2 + mgpt$coefficients[, "Std. Error"]["sm_gpt"]**2))
+
+### Z-test
+n = nrow(df_rawc_with_sm)
+p = length(coefficients(mod_human)) - 1
+df = n - p
+
+diff_scaled = diff / se_diff
+diff_scaled
+p = 2 * pt(abs(diff_scaled), df = df, lower.tail = FALSE)
+p
+```
+
+
+## Analysis 2: Predicting GPT-4 relatedness judgments
+
+First, we build the models:
+
+
+First, we build the models:
+
+```{r}
+mod_human = lm(data = df_rawc_with_sm,
+               mean_relatedness ~ sm_human +
+                 distance_bert +
+                 same * ambiguity_type)
+
+df_model_human = broom::tidy(mod_human) %>%
+  mutate(source = "Human")
+
+df_model_human
+
+mod_gpt = lm(data = df_rawc_with_sm,
+               gpt4_rating ~ sm_human +
+                 distance_bert +
+                 same * ambiguity_type)
+
+df_model_gpt = broom::tidy(mod_gpt) %>%
+  mutate(source = "GPT-4")
+
+df_model_gpt
+```
+
+Overall model fits:
+
+```{r}
+mh = summary(mod_human)
+mh$r.squared
+
+mgpt = summary(mod_gpt)
+mgpt$r.squared
+```
+
+
+Now, we directly compare coefficients.
+
+```{r relatedness_both}
+df_both = df_model_human %>%
+  bind_rows(df_model_gpt)
+
+df_both = df_both %>%
+  filter(term != "(Intercept)") %>%
+  mutate(term = fct_recode(term,
+                           "Sensorimotor Distance" = "sm_human",
+                           "BERT Distance" = "distance_bert",
+                           "Sense Boundary" = "sameTRUE",
+                           "Ambiguity Type" = "ambiguity_typePolysemy",
+                           "Sense Boundary:Ambiguity Type" = "sameTRUE:ambiguity_typePolysemy"))
+
+df_both %>%
+  ggplot(aes(x = reorder(term, estimate),
+             y = estimate,
+             color = source,
+             shape = source)) +
+  geom_point(size = 4, alpha = .6) +
+  coord_flip() +
+  geom_hline(yintercept = 0, linetype = "dotted") +
+  geom_errorbar(aes(ymin = estimate - 2*std.error, 
+                    ymax = estimate + 2*std.error), 
+                alpha = .2,
+                width=.2) + 
+                # position=position_dodge(.9)) +
+  labs(x = "Predictor",
+       y = "Estimate",
+       color = "Relatedness Source",
+       shape = "Relatedness Source") +
+  theme_minimal()
+
+
+```
+
+### Quantifying differences
+
+We can also quantify the differences more directly.
+
+```{r}
+df_both_wide = df_both %>%
+  select(term, estimate, std.error, source) %>%
+  pivot_wider(names_from = "source", values_from = c(estimate, std.error))
+
+### Now calculate differences and scale by std.error
+df_both_wide = df_both_wide %>%
+  mutate(diff = estimate_Human - `estimate_GPT-4`,
+         se_diff = sqrt(std.error_Human**2+ `std.error_GPT-4`**2),
+         diff_scaled = diff / se_diff,
+         diff_abs = abs(diff))
+
+df_both_wide %>%
+  arrange(desc(diff_abs)) %>%
+  select(term, diff)
+
+### Now calculate t-test
+n = nrow(df_rawc_with_sm)
+p = length(coefficients(mod_human)) - 1
+df = n - p
+
+### Calculate p-values
+df_both_wide = df_both_wide %>%
+  mutate(p = 2 * pt(abs(diff_scaled), df = df, lower.tail = FALSE)) %>%
+  mutate(significant = p < .05)
+
+df_both_wide %>%
+  arrange(desc(diff_abs)) %>%
+  filter(significant == TRUE) %>%
+  select(term, diff_abs, diff_scaled, p)
+
+
+
+```

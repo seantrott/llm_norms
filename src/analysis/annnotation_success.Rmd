@@ -1,0 +1,780 @@
+---
+title: "Analysis of GPT-4 Annotation Success"
+author: "Sean Trott"
+date: "2023-06-05"
+output:
+  # pdf_document: 
+  #     fig_caption: yes
+  #     keep_md: yes
+  #     keep_tex: yes
+  html_document:
+    keep_md: yes
+    toc: yes
+    toc_float: yes
+    # code_folding: hide
+  # pdf_document: 
+  word_document:
+    toc: yes
+---
+
+# Load libraries and setup
+
+```{r include=FALSE}
+library(tidyverse)
+library(lme4)
+library(ggridges)
+library(broom.mixed)
+library(lmerTest)
+
+# setwd("/Users/seantrott/Dropbox/UCSD/Research/NLMs/llm_norms/src/analysis")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dpi = 300, fig.format = "pdf")
+```
+
+
+# Introduction
+
+This file contains analyses that identify the overall correlation between GPT-4's ratings and human ratings for different psycholinguistic norms.
+
+# Dataset 1: Iconicity
+
+```{r}
+df_gpt = read_csv("../../data/processed/iconicity/iconicity_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/iconicity/iconicity.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+### How correlated?
+cor.test(df_merged$rating, df_merged$gpt4_rating)
+cor.test(df_merged$rating, df_merged$gpt4_rating, method = "spearman")
+
+
+
+```
+
+
+```{r iconicity, fig.width=4, fig.height=4, dpi=300}
+HUMAN_AGREEMENT_ICONICITY = 0.35
+
+df_corr = df_merged %>%
+  summarise(r = cor(rating, gpt4_rating, method = "spearman")) %>%
+  mutate(dimension = "Iconicity")
+
+df_corr %>%
+  ggplot(aes(x = dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_ICONICITY, linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+df_merged %>%
+  ggplot(aes(x = rating)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating, y = rating)) +
+  geom_point(alpha = .6) +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Iconicity Judgment",
+       y = "Human Iconicity Judgment")
+```
+
+## Error Analysis
+
+```{r}
+df_merged = df_merged %>%
+  mutate(diff = gpt4_rating - rating,
+         z = (gpt4_rating - rating) / rating_sd,
+         abs_diff = abs(diff),
+         abs_z = abs(z))
+
+df_merged %>%
+  ggplot(aes(x = abs_z)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+
+
+```
+
+### Qualitative
+
+```{r}
+dftop20 = df_merged %>%
+  arrange(desc(abs_z)) %>%
+  head(20)
+
+summary(dftop20$rating)
+summary(dftop20$gpt4_rating)
+
+dftop20
+```
+
+
+# Dataset 2: SimLex
+
+```{r}
+df_gpt = read_csv("../../data/processed/simlex/simlex_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/simlex/simlex.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+### How correlated?
+cor.test(df_merged$SimLex999, df_merged$gpt4_rating)
+cor.test(df_merged$SimLex999, df_merged$gpt4_rating, method = "spearman")
+```
+
+
+```{r simlex, fig.width=4, fig.height=4, dpi=300}
+
+HUMAN_AGREEMENT_SIMLEX = 0.78
+
+df_corr = df_merged %>%
+  summarise(r = cor(SimLex999, gpt4_rating, method = "spearman")) %>%
+  mutate(dimension = "Similarity (SimLex999)")
+
+df_corr %>%
+  ggplot(aes(x = dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_SIMLEX, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating, y = SimLex999)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Similarity Judgment",
+       y = "Human Similarity Judgment")
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating, y = SimLex999)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Similarity Judgment",
+       y = "Human Similarity Judgment") +
+  facet_wrap(~SimAssoc333)
+
+
+```
+
+
+## Error Analysis
+
+```{r simlex_errors, fig.width=6, fig.height=4, dpi=300}
+df_merged = df_merged %>%
+  mutate(diff = gpt4_rating - SimLex999,
+         abs_diff = abs(diff))
+
+df_merged %>%
+  ggplot(aes(x = diff)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+
+df_merged %>%
+  ggplot(aes(x = SimAssoc333, y = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(x = "Associated (0 = no, 1 = yes)",
+       y = "Absolute error")
+
+df_merged %>%
+  ggplot(aes(y = POS, x = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(y = "Part-of-Speech",
+       x = "Absolute Error")
+
+df_merged %>%
+  ggplot(aes(y = factor(concQ), x = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(y = "Concreteness Quartile",
+       x = "Absolute Error")
+
+m_full = lm(data = df_merged, abs_diff ~ concQ + POS)
+m_conc = lm(data = df_merged, abs_diff ~ concQ)
+m_pos = lm(data = df_merged, abs_diff ~ POS)
+
+anova(m_conc, m_full)
+anova(m_pos, m_full)
+summary(m_full)
+
+```
+
+### Qualitative
+
+```{r}
+dftop20 = df_merged %>%
+  arrange(desc(abs_diff)) %>%
+  head(20)
+
+summary(dftop20$rating)
+summary(dftop20$gpt4_rating)
+
+dftop20
+```
+
+
+# Dataset 3: SimVerb
+
+```{r}
+df_gpt = read_csv("../../data/processed/simverb/simverb_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/simverb/simverb.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+### How correlated?
+cor.test(df_merged$Similarity, df_merged$gpt4_rating)
+cor.test(df_merged$Similarity, df_merged$gpt4_rating, method = "spearman")
+```
+
+
+```{r simverb, fig.width=6, fig.height=4, dpi=300}
+
+HUMAN_AGREEMENT_SIMVERB = 0.86
+
+df_corr = df_merged %>%
+  summarise(r = cor(Similarity, gpt4_rating, method = "spearman")) %>%
+  mutate(Dimension = "Similarity (SimVerb3500)")
+
+df_corr %>%
+  ggplot(aes(x = Dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_SIMVERB, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating, y = Similarity)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Similarity Judgment",
+       y = "Human Similarity Judgment")
+
+df_merged %>%
+  ggplot(aes(x = gpt4_rating, y = Similarity)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Similarity Judgment",
+       y = "Human Similarity Judgment") +
+  facet_wrap(~Relation)
+
+
+```
+
+
+## Error Analysis
+
+```{r simverb_errors, fig.width=6, fig.height=4, dpi=300}
+df_merged = df_merged %>%
+  mutate(diff = gpt4_rating - Similarity,
+         abs_diff = abs(diff)) 
+
+df_merged %>%
+  ggplot(aes(x = diff)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+
+df_merged %>%
+  ggplot(aes(y = reorder(Relation, abs_diff), x = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(y = "Relation Type",
+       x = "Absolute Error")
+
+m = lm(data = df_merged, abs_diff ~ Relation)
+m_reduced = lm(data = df_merged, abs_diff ~ 1)
+anova(m_reduced, m)
+summary(m)
+```
+
+
+
+### Qualitative
+
+```{r}
+dftop20 = df_merged %>%
+  arrange(desc(abs_diff)) %>%
+  head(20)
+
+summary(dftop20$rating)
+summary(dftop20$gpt4_rating)
+
+dftop20
+```
+
+
+# Dataset 4: RAW-C
+
+```{r}
+df_gpt = read_csv("../../data/processed/raw-c/raw-c_gpt-4.csv")
+nrow(df_gpt)
+
+### How correlated?
+cor.test(df_gpt$mean_relatedness, df_gpt$gpt4_rating)
+cor.test(df_gpt$mean_relatedness, df_gpt$gpt4_rating, method = "spearman")
+
+```
+
+
+```{r rawc, fig.width=4, fig.height=4, dpi=300}
+
+HUMAN_AGREEMENT_RAWC = 0.79
+
+df_corr = df_gpt %>%
+  summarise(r = cor(mean_relatedness, gpt4_rating, method = "spearman")) %>%
+  mutate(Dimension = "Relatedness (RAW-C)")
+
+df_corr %>%
+  ggplot(aes(x = Dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_RAWC, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+
+df_gpt %>%
+  ggplot(aes(x = gpt4_rating, y = mean_relatedness)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-4 Relatedness Judgment",
+       y = "Human Relatedness Judgment")
+
+
+```
+
+
+## Error Analysis
+
+```{r rawc_errors, fig.width=6, fig.height=4, dpi=300}
+df_gpt = df_gpt %>%
+  mutate(diff = gpt4_rating - mean_relatedness,
+         abs_diff = abs(diff)) 
+
+df_gpt %>%
+  ggplot(aes(x = abs_diff)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+df_gpt %>%
+  ggplot(aes(y = reorder(same, abs_diff), x = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(y = "Same Sense",
+       x = "Absolute Error")
+
+
+df_gpt %>%
+  ggplot(aes(x = abs_diff,
+             y = reorder(ambiguity_type, abs_diff),
+             fill = same)) +
+  geom_density_ridges2(aes(height = ..density..), 
+                       color=gray(0.25), 
+                       alpha = 0.5, 
+                       scale=0.85, 
+                       size=.9, 
+                       stat="density") +
+  labs(x = "Absolute error",
+       y = "Ambiguity Type",
+       fill = "Same vs. Different Sense") +
+  # scale_fill_viridis_d() +
+  theme(
+    legend.position = "bottom"
+  ) + 
+  theme(axis.title = element_text(size=rel(1.5)),
+        axis.text = element_text(size = rel(1.5)),
+        legend.text = element_text(size = rel(1.5)),
+        legend.title = element_text(size = rel(1.5)),
+        strip.text.x = element_text(size = rel(1.5))) +
+  theme_minimal()
+
+
+summary(lm(data = df_gpt, abs_diff ~ same))
+
+### Get residuals
+mod = lm(data = df_gpt, mean_relatedness ~ gpt4_rating + same)
+summary(mod)
+
+```
+
+
+### Qualitative
+
+```{r}
+
+dftop20 = df_gpt %>%
+  arrange(desc(abs_diff)) %>%
+  head(20)
+
+summary(dftop20$rating)
+summary(dftop20$gpt4_rating)
+
+dftop20 %>%
+  select(word, sentence1, sentence2, mean_relatedness, gpt4_rating)
+```
+
+
+
+# Dataset 5a: Contextualized Perception Norms
+
+```{r}
+df_gpt = read_csv("../../data/processed/cs_norms_perception/cs_norms_perception_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/cs_norms_perception/cs_norms_perception.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+```
+
+
+```{r cs_perception, fig.width=4, fig.height=4, dpi=300}
+### How correlated?
+
+df_summ = df_merged %>%
+  summarise(Vision = cor(Vision.M, Vision, method = "spearman"),
+            Hearing = cor(Hearing.M, Hearing, method = "spearman"),
+            Touch = cor(Touch.M, Touch, method = "spearman"),
+            Olfaction = cor(Olfaction.M, Olfaction, method = "spearman"),
+            Taste = cor(Taste.M, Taste, method = "spearman"),
+            Interoception = cor(Interoception.M, Interoception, method = "spearman"))
+
+df_summ
+
+
+df_long = df_summ %>%
+  pivot_longer(everything(), names_to = "Factor", values_to = "Correlation")
+
+df_long %>%
+  ggplot(aes(x = reorder(Factor, Correlation), y = Correlation)) +
+  geom_bar(stat = "identity") +
+  labs(x = "", y = "Correlation") +
+  scale_y_continuous(limits = c(0,1)) +
+  theme_minimal()
+
+
+### calculate overall correlation
+### calculate overall correlation
+df_human_long = df_human %>%
+  select(word, sentence, Vision.M,
+                Hearing.M,
+                Touch.M,
+                Olfaction.M,
+                Taste.M,
+                Interoception.M) %>%
+  pivot_longer(cols = c(Vision.M,
+                Hearing.M,
+                Touch.M,
+                Olfaction.M,
+                Taste.M,
+                Interoception.M),
+               names_to = "Dimension",
+               values_to = "Strength_human") %>%
+  mutate(Dimension = str_remove(Dimension, "\\.M$"))
+
+df_gpt_long = df_gpt %>%
+  select(word, sentence,Vision, Hearing,Touch,Olfaction,Taste,Interoception) %>%
+  pivot_longer(cols = c(Vision, Hearing,Touch,Olfaction,Taste,Interoception),
+               names_to = "Dimension",
+               values_to = "Strength_GPT")
+
+df_merged_long = df_human_long %>%
+  inner_join(df_gpt_long, on = c(word, sentence))
+
+cor.test(df_merged_long$Strength_GPT, df_merged_long$Strength_human)
+cor.test(df_merged_long$Strength_GPT, df_merged_long$Strength_human, method = "spearman")
+
+
+df_merged_long %>%
+  ggplot(aes(x = Strength_GPT,
+             y = Strength_human)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  labs(x = "Strength (GPT rating)",
+       y = "Strength (Human rating)") +
+  facet_wrap(~Dimension) +
+  theme_minimal()
+
+
+HUMAN_AGREEMENT_CSP = 0.64
+
+df_corr = data.frame(r = cor(df_merged_long$Strength_human, 
+                             df_merged_long$Strength_GPT, method = "spearman"),
+                     dimension = "Perception Norms")
+
+
+df_corr %>%
+  ggplot(aes(x = dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_CSP, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+
+```
+
+
+
+
+# Dataset 5b: Contextualized Action Norms
+
+```{r}
+df_gpt = read_csv("../../data/processed/cs_norms_action/cs_norms_action_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/cs_norms_action/cs_norms_action.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+```
+
+```{r cs_action, fig.width=4, fig.height=4, dpi=300}
+
+### How correlated?
+
+df_summ = df_merged %>%
+  summarise(Hand_arm = cor(Hand_arm.M, Hand_arm, method = "spearman"),
+            Foot_leg = cor(Foot_leg.M, Foot_leg, method = "spearman"),
+            Head = cor(Head.M, Head, method = "spearman"),
+            Torso = cor(Torso.M, Torso, method = "spearman"),
+            Mouth_throat = cor(Mouth_throat.M, Mouth_throat, method = "spearman"))
+
+df_summ
+
+df_long = df_summ %>%
+  pivot_longer(everything(), names_to = "Factor", values_to = "Correlation")
+
+df_long %>%
+  ggplot(aes(x = reorder(Factor, Correlation), y = Correlation)) +
+  geom_bar(stat = "identity") +
+  labs(x = "Factor", y = "Correlation") +
+  theme_minimal()
+
+### calculate overall correlation
+df_human_long = df_human %>%
+  select(word, sentence, Mouth_throat.M, 
+         Foot_leg.M, Hand_arm.M, Torso.M, Head.M) %>%
+  pivot_longer(cols = c(Mouth_throat.M, Foot_leg.M, Hand_arm.M, Torso.M, Head.M),
+               names_to = "Dimension",
+               values_to = "Strength_human") %>%
+  mutate(Dimension = str_remove(Dimension, "\\.M$"))
+
+df_gpt_long = df_gpt %>%
+  select(word, sentence, Mouth_throat, Foot_leg, Hand_arm, Torso, Head) %>%
+  pivot_longer(cols = c(Mouth_throat, Foot_leg, Hand_arm, Torso, Head),
+               names_to = "Dimension",
+               values_to = "Strength_GPT")
+
+df_merged_long = df_human_long %>%
+  inner_join(df_gpt_long, on = c(word, sentence))
+
+cor.test(df_merged_long$Strength_GPT, df_merged_long$Strength_human)
+cor.test(df_merged_long$Strength_GPT, df_merged_long$Strength_human, method = "spearman")
+
+
+df_merged_long %>%
+  ggplot(aes(x = Strength_GPT,
+             y = Strength_human)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  labs(x = "Strength (GPT rating)",
+       y = "Strength (Human rating)") +
+  facet_wrap(~Dimension) +
+  theme_minimal()
+
+HUMAN_AGREEMENT_ACTION = 0.5
+
+df_corr = data.frame(r = cor(df_merged_long$Strength_GPT, 
+                             df_merged_long$Strength_human, 
+                             method = "spearman"),
+                     dimension = "Action Norms")
+
+
+df_corr %>%
+  ggplot(aes(x = dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_ACTION, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+```
+
+
+
+
+# Dataset 6: Glasgow Norms
+
+```{r}
+df_gpt = read_csv("../../data/processed/glasgow/glasgow_gpt-4.csv")
+nrow(df_gpt)
+
+### Recode AoA
+df_gpt = df_gpt %>%
+  mutate(AoA2 = case_when(
+    AoA <= 2 ~ 1, 
+    AoA <= 4 ~ 2,
+    AoA <= 6 ~ 3,
+    AoA <= 8 ~ 4,
+    AoA <= 10 ~ 5,
+    AoA <= 12 ~ 6,
+    AoA >= 13 ~ 7
+  )) %>%
+  mutate(AoA = AoA2)
+
+df_human = read_csv("../../data/raw/glasgow/glasgow.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt) %>%
+  drop_na()
+nrow(df_merged)
+```
+
+
+```{r glasgow, fig.width=4, fig.height=4, dpi=300}
+
+### How correlated?
+
+df_summ = df_merged %>%
+  summarise(Valence = cor(Valence.M, Valence, method = "spearman"),
+            Arousal = cor(Arousal.M, Arousal, method = "spearman"),
+            Concreteness = cor(Concreteness.M, Concreteness, method = "spearman"),
+            Familiarity = cor(Familiarity.M, Familiarity, method = "spearman"),
+            Imageability = cor(Imageability.M, Imageability, method = "spearman"),
+            Dominance = cor(Dominance.M, Dominance, method = "spearman"),
+            AoA = cor(AoA.M, AoA, method = "spearman"),
+            Size = cor(Size.M, Size, method = "spearman"),
+            Gender = cor(Gender.M, Gender, method = "spearman"))
+
+df_summ
+
+df_long = df_summ %>%
+  pivot_longer(everything(), names_to = "Factor", values_to = "Correlation")
+
+df_long %>%
+  ggplot(aes(y = reorder(Factor, Correlation), x = Correlation)) +
+  geom_bar(stat = "identity") +
+  labs(y = "Factor", x = "Correlation") +
+  theme_minimal()
+
+### calculate overall correlation
+### calculate overall correlation
+df_human_long = df_human %>%
+  select(word, Valence.M, Arousal.M, Concreteness.M, Familiarity.M, Imageability.M, Dominance.M, AoA.M, Size.M, Gender.M) %>%
+  pivot_longer(cols = c(Valence.M, Arousal.M, Concreteness.M, Familiarity.M, Imageability.M, Dominance.M, AoA.M, Size.M, Gender.M),
+               names_to = "Dimension",
+               values_to = "Rating_human") %>%
+  mutate(Dimension = str_remove(Dimension, "\\.M$"))
+
+df_gpt_long = df_gpt %>%
+  select(word,Valence, Arousal, Concreteness, Familiarity, Imageability, Dominance, AoA, Size, Gender) %>%
+  pivot_longer(cols = c(Valence, Arousal, Concreteness, Familiarity, Imageability, Dominance, AoA, Size, Gender),
+               names_to = "Dimension",
+               values_to = "Rating_GPT")
+
+df_merged_long = df_human_long %>%
+  inner_join(df_gpt_long, on = c(word)) %>%
+  drop_na()
+
+cor.test(df_merged_long$Rating_GPT, df_merged_long$Rating_human)
+cor.test(df_merged_long$Rating_GPT, df_merged_long$Rating_human, method = "spearman")
+
+
+df_merged_long %>%
+  ggplot(aes(x = Rating_GPT,
+             y = Rating_human)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  labs(x = "Rating (GPT)",
+       y = "Rating (Human)") +
+  facet_wrap(~Dimension) +
+  theme_minimal()
+
+
+# HUMAN_AGREEMENT_GLASGOW = ###?
+
+df_corr = data.frame(r = cor(df_merged_long$Rating_human,
+                             df_merged_long$Rating_GPT, 
+                             method = "spearman"),
+                     dimension = "Glasgow Norms")
+
+
+df_corr %>%
+  ggplot(aes(x = dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  # geom_hline(yintercept = HUMAN_AGREEMENT_GLASGOW, , linetype = "dashed",
+  #            color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+```
+
+
