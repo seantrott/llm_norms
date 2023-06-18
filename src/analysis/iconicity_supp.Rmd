@@ -104,14 +104,12 @@ nrow(df_merged_p2015)
 ### Exp1
 cor.test(df_merged_p2015$gpt4_rating, df_merged_p2015$exp1)
 cor.test(df_merged_p2015$rating, df_merged_p2015$exp1)
+cor.test(df_merged$rating, df_merged$gpt4_rating)
 
 cor.test(df_merged_p2015$gpt4_rating, df_merged_p2015$`Experiment 2 (spoken words)`)
 cor.test(df_merged_p2015$rating, df_merged_p2015$`Experiment 2 (spoken words)`)
 ```
 
-
-
-**TODO**: Other iconicity datasets.
 
 
 # H2: Confounded by iconicity correlates
