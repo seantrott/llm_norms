@@ -1,0 +1,204 @@
+---
+title: "Supplementary analysis: Iconicity"
+author: "Sean Trott"
+date: "2023-06-18"
+output:
+  # pdf_document: 
+  #    fig_caption: yes
+  #    keep_md: yes
+  #    keep_tex: yes
+  html_document:
+    keep_md: yes
+    toc: yes
+    toc_float: yes
+    # code_folding: hide
+  # pdf_document: 
+  word_document:
+    toc: yes
+---
+
+
+# Load libraries and setup
+
+```{r include=FALSE}
+library(tidyverse)
+library(lme4)
+library(ggridges)
+library(broom.mixed)
+library(lmerTest)
+library(broom)
+
+# setwd("/Users/seantrott/Dropbox/UCSD/Research/NLMs/llm_norms/src/analysis")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dpi = 300, fig.format = "pdf")
+```
+
+# Load iconicity data
+
+```{r}
+df_gpt = read_csv("../../data/processed/iconicity/iconicity_gpt-4.csv")
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/iconicity/iconicity.csv")
+nrow(df_human)
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+```
+
+# H1: Data contamination from previous lists?
+
+One possibility is that GPT-4 has memorized iconicity ratings from previously published (and smaller) iconicity datasets.
+
+If this is true:
+
+- Weak claim: GPT-4 should do better for previously published words than new words in Winter et al. (2023).
+- Strong claim: GPT-4 should be at chance for new words in Winter et al. (2023).
+
+## Perlman et al. (2015)
+
+```{r}
+df_perlman2015 = read_csv("../../data/lexical_statistics/perlman/perlman_means.csv") %>%
+  mutate(exp1 = `Experiment 1 (written words)`) %>%
+  mutate(word = `English word`)
+```
+
+Are errors higher for words not in this dataset?
+
+**Answer**: No significant effect of being in Perlman et al. (2015) on absolute error.
+
+```{r}
+df_merged = df_merged %>%
+  mutate(in_p2015 = word %in% df_perlman2015$word) %>%
+  mutate(abs_diff = rating - gpt4_rating)
+
+mod_error = lm(data = df_merged, abs_diff ~ in_p2015)
+summary(mod_error)
+```
+
+Does GPT-4 still accurately predict iconicity for words not in Perlman et al. (2015)?
+
+**Answer**: Yes.
+
+```{r}
+df_merged_reduced = df_merged %>%
+  filter(in_p2015 == FALSE)
+
+mod_reduced = lm(data = df_merged_reduced, rating ~ gpt4_rating)
+summary(mod_reduced)
+
+cor.test(df_merged_reduced$gpt4_rating, df_merged_reduced$rating, method = "spearman")
+```
+
+Finally, for completeness, we compare correlation between (GPT-4, Perlman et al.) and (Winter et al., Perlamn et al.).
+
+```{r}
+df_merged_p2015 = df_merged %>%
+  inner_join(df_perlman2015)
+nrow(df_merged_p2015)
+
+### Exp1
+cor.test(df_merged_p2015$gpt4_rating, df_merged_p2015$exp1)
+cor.test(df_merged_p2015$rating, df_merged_p2015$exp1)
+
+cor.test(df_merged_p2015$gpt4_rating, df_merged_p2015$`Experiment 2 (spoken words)`)
+cor.test(df_merged_p2015$rating, df_merged_p2015$`Experiment 2 (spoken words)`)
+```
+
+
+
+**TODO**: Other iconicity datasets.
+
+
+# H2: Confounded by iconicity correlates
+
+Another possibility is that GPT-4 is learning to predict a **correlate** of iconicity but not iconicity itself, e.g., concreteness.
+
+if this is true, then the relationship between *true iconicity* ratings and *GPT-4 iconicity* ratings should disappear when adjusting for other known correlates of iconicity.
+
+
+## Load and merge relevant covariates
+
+These datasets contain information to replicate one of the key analyses from Winter et al. (2023).
+
+```{r}
+df_conc = read_csv("../../data/lexical_statistics/winter2023/brysbaert_2014_concreteness.csv") %>%
+  mutate(word = Word)
+nrow(df_conc)
+
+df_humor = read_csv("../../data/lexical_statistics/winter2023/engelthaler_hills_2018_humor.csv") %>%
+  select(-n) %>%
+  mutate(humor = mean)
+nrow(df_humor)
+
+df_ser = read_csv("../../data/lexical_statistics/winter2023/juhasz_yap_2013_SER.csv") %>%
+  mutate(word = Word)
+nrow(df_ser)
+
+df_aoa = read_csv("../../data/lexical_statistics/winter2023/kuperman_2012_AOA.csv") %>%
+  mutate(word = Word,
+         AoA = Rating.Mean)
+nrow(df_aoa)
+
+df_arc = read_csv("../../data/lexical_statistics/winter2023/shaoul_westbury_2010_ARC.csv") %>%
+  mutate(word = tolower(WORD))
+nrow(df_arc)
+
+df_subtlex = read_csv("../../data/lexical_statistics/winter2023/brysbaert_2012_SUBTLEX_POS.csv") %>%
+  mutate(word = Word)
+nrow(df_subtlex)
+
+df_ding = read_csv("../../data/lexical_statistics/winter2023/dingemanse_thompson_2020.csv") 
+nrow(df_ding)
+
+```
+
+Now, merge all the datasets together.
+
+```{r}
+df_merged_subs = df_merged %>%
+  inner_join(df_conc, by = "word") %>%
+  inner_join(df_ser, by = "word") %>%
+  inner_join(df_humor, by = "word") %>%
+  inner_join(df_aoa, by = "word") %>%
+  inner_join(df_subtlex, by = "word") %>%
+  inner_join(df_arc, by = "word") %>%
+  inner_join(df_ding, by = "word")
+
+nrow(df_merged_subs)
+```
+
+## Regression
+
+```{r}
+model_full = lm(data = df_merged_subs,
+              gpt4_rating ~ rating + # human rating 
+                ARC * SER +
+                Conc.M + humor + AoA + Lg10WF + logletterfreq)
+
+summary(model_full)
+
+df_model = broom::tidy(model_full)
+
+df_model %>%
+  ggplot(aes(x = reorder(term, estimate),
+             y = estimate)) +
+  geom_point(alpha = .6) +
+  coord_flip() +
+  geom_hline(yintercept = 0, linetype = "dotted") +
+  geom_errorbar(aes(ymin = estimate - 2*std.error, 
+                    ymax = estimate + 2*std.error), 
+                alpha = 1,
+                width=.2) + 
+                # position=position_dodge(.9)) +
+  labs(x = "Predictor",
+       y = "Estimate") +
+  theme_minimal()
+
+
+```
+

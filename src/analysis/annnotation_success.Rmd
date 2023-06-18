@@ -55,8 +55,6 @@ nrow(df_merged)
 cor.test(df_merged$rating, df_merged$gpt4_rating)
 cor.test(df_merged$rating, df_merged$gpt4_rating, method = "spearman")
 
-
-
 ```
 
 
