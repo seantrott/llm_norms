@@ -26,7 +26,6 @@ library(ggridges)
 library(broom.mixed)
 library(lmerTest)
 
-# setwd("/Users/seantrott/Dropbox/UCSD/Research/NLMs/llm_norms/src/analysis")
 ```
 
 ```{r setup, include=FALSE}
@@ -435,7 +434,6 @@ df_gpt %>%
   labs(x = "Absolute error",
        y = "Ambiguity Type",
        fill = "Same vs. Different Sense") +
-  # scale_fill_viridis_d() +
   theme(
     legend.position = "bottom"
   ) + 
@@ -757,8 +755,6 @@ df_merged_long %>%
   theme_minimal()
 
 
-# HUMAN_AGREEMENT_GLASGOW = ###?
-
 df_corr = data.frame(r = cor(df_merged_long$Rating_human,
                              df_merged_long$Rating_GPT, 
                              method = "spearman"),
@@ -769,8 +765,6 @@ df_corr %>%
   ggplot(aes(x = dimension, y = r)) +
   geom_bar(stat = "identity", alpha = .7) +
   scale_y_continuous(limits = c(0, 1)) +
-  # geom_hline(yintercept = HUMAN_AGREEMENT_GLASGOW, , linetype = "dashed",
-  #            color = "steelblue3", size = 1) +
   labs(x = "", y = "Correlation") +
   theme_minimal()
 ```
