@@ -332,6 +332,11 @@ df_merged %>%
   labs(y = "Relation Type",
        x = "Absolute Error")
 
+df_merged %>%
+  group_by(Relation) %>%
+  summarise(m_diff = mean(diff),
+            sd_diff = sd(diff))
+
 m = lm(data = df_merged, abs_diff ~ Relation)
 m_reduced = lm(data = df_merged, abs_diff ~ 1)
 anova(m_reduced, m)
@@ -449,6 +454,11 @@ summary(lm(data = df_gpt, abs_diff ~ same))
 
 ### Get residuals
 mod = lm(data = df_gpt, mean_relatedness ~ gpt4_rating + same)
+summary(mod)
+
+
+### Does GPT-4 predict human relatedness for same sense judgments?
+mod = lm(data = filter(df_gpt, same == TRUE), mean_relatedness ~ gpt4_rating)
 summary(mod)
 
 ```
@@ -770,3 +780,117 @@ df_corr %>%
 ```
 
 
+# Supplementary Analyses
+
+## GPT-3.5 Turbo
+
+### RAW-C
+
+```{r}
+df_gpt = read_csv("../../data/processed/raw-c/raw-c_gpt-3.5-turbo.csv") %>%
+  mutate(gpt_turbo = `gpt3.5-turbo_rating`)
+nrow(df_gpt)
+
+df_human = read_csv("../../data/raw/raw-c/raw-c.csv")
+
+df_merged = df_human %>%
+  inner_join(df_gpt)
+nrow(df_merged)
+
+### How correlated?
+cor.test(df_merged$mean_relatedness, df_merged$gpt_turbo)
+cor.test(df_merged$mean_relatedness, df_merged$gpt_turbo, method = "spearman")
+
+```
+
+
+```{r rawc2, fig.width=4, fig.height=4, dpi=300}
+
+HUMAN_AGREEMENT_RAWC = 0.79
+
+df_corr = df_merged %>%
+  summarise(r = cor(mean_relatedness, gpt_turbo, method = "spearman")) %>%
+  mutate(Dimension = "Relatedness (RAW-C)")
+
+df_corr %>%
+  ggplot(aes(x = Dimension, y = r)) +
+  geom_bar(stat = "identity", alpha = .7) +
+  scale_y_continuous(limits = c(0, 1)) +
+  geom_hline(yintercept = HUMAN_AGREEMENT_RAWC, , linetype = "dashed",
+             color = "steelblue3", size = 1) +
+  labs(x = "", y = "Correlation") +
+  theme_minimal()
+
+
+df_merged %>%
+  ggplot(aes(x = gpt_turbo, y = mean_relatedness)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(x = "GPT-3.5 Turbo Relatedness Judgment",
+       y = "Human Relatedness Judgment")
+
+
+```
+
+
+## Error Analysis
+
+```{r rawc_errors2, fig.width=6, fig.height=4, dpi=300}
+df_merged = df_merged %>%
+  mutate(diff = gpt_turbo - mean_relatedness,
+         abs_diff = abs(diff)) 
+
+df_merged %>%
+  ggplot(aes(x = abs_diff)) +
+  geom_histogram(alpha = .5, bins = 7)
+
+df_merged %>%
+  ggplot(aes(y = reorder(same, abs_diff), x = abs_diff)) +
+  geom_jitter(alpha = .1, width = .1) +
+  stat_summary (fun = function(x){mean(x)},
+                fun.min = function(x){mean(x) - 2*sd(x)/sqrt(length(x))},
+                fun.max = function(x){mean(x) + 2*sd(x)/sqrt(length(x))},
+                geom= 'pointrange', 
+                position=position_dodge(width=0.95)) +
+  theme_minimal() +
+  labs(y = "Same Sense",
+       x = "Absolute Error")
+
+
+df_merged %>%
+  ggplot(aes(x = abs_diff,
+             y = reorder(ambiguity_type, abs_diff),
+             fill = same)) +
+  geom_density_ridges2(aes(height = ..density..), 
+                       color=gray(0.25), 
+                       alpha = 0.5, 
+                       scale=0.85, 
+                       size=.9, 
+                       stat="density") +
+  labs(x = "Absolute error",
+       y = "Ambiguity Type",
+       fill = "Same vs. Different Sense") +
+  theme(
+    legend.position = "bottom"
+  ) + 
+  theme(axis.title = element_text(size=rel(1.5)),
+        axis.text = element_text(size = rel(1.5)),
+        legend.text = element_text(size = rel(1.5)),
+        legend.title = element_text(size = rel(1.5)),
+        strip.text.x = element_text(size = rel(1.5))) +
+  theme_minimal()
+
+
+summary(lm(data = df_merged, abs_diff ~ same))
+
+### Get residuals
+mod = lm(data = df_merged, mean_relatedness ~ gpt_turbo + same)
+summary(mod)
+
+
+### Does GPT-turbo predict human relatedness for same sense judgments?
+mod = lm(data = filter(df_merged, same == TRUE), mean_relatedness ~ gpt_turbo)
+summary(mod)
+
+```

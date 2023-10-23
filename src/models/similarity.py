@@ -111,7 +111,7 @@ def main(task="simlex", model='gpt-4'):
 
     answers = []
     col_name = "{m}_response".format(m = model)
-    # df_stimuli = df_stimuli[3302 :len(df_stimuli)]
+    df_stimuli = df_stimuli[433 :len(df_stimuli)]
     for index, row in tqdm(df_stimuli.iterrows(), total=df_stimuli.shape[0]):
         
         
@@ -119,9 +119,6 @@ def main(task="simlex", model='gpt-4'):
         system_prompt = SYSTEM_PROMPTS[task]
         
         instructions_plus_prompt = instructions + "\n\n" + prompt
-
-        print(instructions_plus_prompt)
-
         response = pred_tokens(instructions_plus_prompt, system_content = system_prompt, n = 3)
         extracted_response = response['choices'][0]['message']['content']
 
@@ -155,9 +152,9 @@ if __name__ == "__main__":
     parser = ArgumentParser()
 
     parser.add_argument("--task", type=str, dest="task",
-                        default="dominance")
+                        default="raw-c")
     parser.add_argument("--m", type=str, dest="model",
-                        default="gpt-4")
+                        default="gpt-3.5-turbo")
     
     args = vars(parser.parse_args())
     main(**args)

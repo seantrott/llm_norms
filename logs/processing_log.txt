@@ -42,3 +42,8 @@ Saving to data/processed/simlex/simlex_gpt-4.csv.
 Processing RAW-C norms...
 672 entries.
 Saving to data/processed/raw-c/raw-c_gpt-4.csv.
+
+
+Processing RAW-C norms for GPT-3.5 Turbo...
+672 entries.
+Saving to data/processed/raw-c/raw-c_gpt-3.5-turbo.csv.
