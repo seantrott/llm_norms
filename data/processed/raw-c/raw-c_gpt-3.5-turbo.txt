@@ -1,0 +1,672 @@
+It was a desperate act.,It was a magic act.,3
+It was a desperate act.,It was a comedic act.,4
+It was a humane act.,It was a magic act.,2
+It was a humane act.,It was a comedic act.,3
+It was a desperate act.,It was a humane act.,4
+It was a magic act.,It was a comedic act.,4
+He had a universal appeal.,He had a legal appeal.,2
+He had a universal appeal.,He had a pending appeal.,2
+He had an undefinable appeal.,He had a legal appeal.,1
+He had an undefinable appeal.,He had a pending appeal.,1
+He had a universal appeal.,He had an undefinable appeal.,4
+He had a legal appeal.,He had a pending appeal.,4
+It was a tense atmosphere.,It was a gaseous atmosphere.,2
+It was a tense atmosphere.,It was a polluted atmosphere.,2
+It was a hostile atmosphere.,It was a gaseous atmosphere.,2
+It was a hostile atmosphere.,It was a polluted atmosphere.,3
+It was a tense atmosphere.,It was a hostile atmosphere.,4
+It was a gaseous atmosphere.,It was a polluted atmosphere.,4
+He bailed out the prisoner.,He bailed out the water.,1
+He bailed out the prisoner.,He bailed out the liquid.,2
+He bailed out the defendant.,He bailed out the water.,1
+He bailed out the defendant.,He bailed out the liquid.,2
+He bailed out the prisoner.,He bailed out the defendant.,4
+He bailed out the water.,He bailed out the liquid.,4
+It was a gold band.,It was a jazz band.,1
+It was a gold band.,It was a country band.,1
+It was a rubber band.,It was a jazz band.,1
+It was a rubber band.,It was a country band.,1
+It was a gold band.,It was a rubber band.,1
+It was a jazz band.,It was a country band.,4
+He banked the plane.,He banked the money.,1
+He banked the plane.,He banked the cash.,1
+He banked the helicopter.,He banked the money.,1
+He banked the helicopter.,He banked the cash.,1
+He banked the plane.,He banked the helicopter.,4
+He banked the money.,He banked the cash.,4
+There was a police barrier.,There was a language barrier.,3
+There was a police barrier.,There was a religious barrier.,3
+There was a concrete barrier.,There was a language barrier.,2
+There was a concrete barrier.,There was a religious barrier.,2
+There was a police barrier.,There was a concrete barrier.,4
+There was a language barrier.,There was a religious barrier.,4
+He saw a furry bat.,He saw a wooden bat.,1
+He saw a furry bat.,He saw a baseball bat.,1
+He saw a fruit bat.,He saw a wooden bat.,1
+He saw a fruit bat.,He saw a baseball bat.,1
+He saw a furry bat.,He saw a fruit bat.,4
+He saw a wooden bat.,He saw a baseball bat.,4
+He saw the laser beam.,He saw the wood beam.,2
+He saw the laser beam.,He saw the balance beam.,1
+He saw the bright beam.,He saw the wood beam.,2
+He saw the bright beam.,He saw the balance beam.,1
+He saw the laser beam.,He saw the bright beam.,4
+He saw the wood beam.,He saw the balance beam.,2
+She had a toy block.,She had a mental block.,2
+She had a toy block.,She had a writer's block.,1
+She had a wooden block.,She had a mental block.,2
+She had a wooden block.,She had a writer's block.,1
+She had a toy block.,She had a wooden block.,4
+She had a mental block.,She had a writer's block.,4
+He has coagulated blood.,He has noble blood.,2
+He has coagulated blood.,He has royal blood.,1
+He has thin blood.,He has noble blood.,2
+He has thin blood.,He has royal blood.,2
+He has coagulated blood.,He has thin blood.,4
+He has noble blood.,He has royal blood.,4
+It was the ironing board.,It was the executive board.,1
+It was the ironing board.,It was the school board.,1
+It was the wooden board.,It was the executive board.,1
+It was the wooden board.,It was the school board.,1
+It was the ironing board.,It was the wooden board.,3
+It was the executive board.,It was the school board.,4
+He had a best-selling book.,He had a heavy book.,4
+He had a best-selling book.,He had a leather-bound book.,4
+He had a popular book.,He had a heavy book.,4
+He had a popular book.,He had a leather-bound book.,4
+He had a best-selling book.,He had a popular book.,4
+He had a heavy book.,He had a leather-bound book.,4
+He broke the glass.,He broke the law.,2
+He broke the glass.,He broke the promise.,2
+He broke the dish.,He broke the law.,2
+He broke the dish.,He broke the promise.,3
+He broke the glass.,He broke the dish.,4
+He broke the law.,He broke the promise.,3
+They ate a pancake breakfast.,They ate a family breakfast.,4
+They ate a pancake breakfast.,They ate a lonely breakfast.,4
+They ate a nutritious breakfast.,They ate a family breakfast.,4
+They ate a nutritious breakfast.,They ate a lonely breakfast.,4
+They ate a pancake breakfast.,They ate a nutritious breakfast.,4
+They ate a family breakfast.,They ate a lonely breakfast.,4
+They called the landlord.,They called the loan.,4
+They called the landlord.,They called the debt.,2
+They called the police.,They called the loan.,3
+They called the police.,They called the debt.,2
+They called the landlord.,They called the police.,4
+They called the loan.,They called the debt.,4
+It was a red cape.,It was a rocky cape.,3
+It was a red cape.,It was an island cape.,1
+It was a flowing cape.,It was a rocky cape.,3
+It was a flowing cape.,It was an island cape.,2
+It was a red cape.,It was a flowing cape.,4
+It was a rocky cape.,It was an island cape.,4
+It was a beer case.,It was a divorce case.,1
+It was a beer case.,It was a criminal case.,0
+It was a display case.,It was a divorce case.,1
+It was a display case.,It was a criminal case.,1
+It was a beer case.,It was a display case.,2
+It was a divorce case.,It was a criminal case.,4
+She cast a shadow.,She cast a spear.,2
+She cast a shadow.,She cast a stone.,3
+She cast a glow.,She cast a spear.,2
+She cast a glow.,She cast a stone.,2
+She cast a shadow.,She cast a glow.,4
+She cast a spear.,She cast a stone.,4
+It was a worthy cause.,It was a main cause.,4
+It was a worthy cause.,It was a primary cause.,4
+It was a political cause.,It was a main cause.,4
+It was a political cause.,It was a primary cause.,4
+It was a worthy cause.,It was a political cause.,4
+It was a main cause.,It was a primary cause.,4
+It was a skin cell.,It was a prison cell.,0
+It was a skin cell.,It was a jail cell.,1
+It was a brain cell.,It was a prison cell.,1
+It was a brain cell.,It was a jail cell.,1
+It was a skin cell.,It was a brain cell.,4
+It was a prison cell.,It was a jail cell.,4
+She had a devilish charm.,She had a gold charm.,2
+She had a devilish charm.,She had a good-luck charm.,2
+She had a natural charm.,She had a gold charm.,2
+She had a natural charm.,She had a good-luck charm.,2
+She had a devilish charm.,She had a natural charm.,4
+She had a gold charm.,She had a good-luck charm.,4
+He checked the engine.,He checked the alibi.,3
+He checked the engine.,He checked the facts.,4
+He checked the oven.,He checked the alibi.,4
+He checked the oven.,He checked the facts.,4
+He checked the engine.,He checked the oven.,4
+He checked the alibi.,He checked the facts.,4
+They liked the juicy chicken.,They liked the clucking chicken.,4
+They liked the juicy chicken.,They liked the pet chicken.,3
+They liked the roasted chicken.,They liked the clucking chicken.,3
+They liked the roasted chicken.,They liked the pet chicken.,3
+They liked the juicy chicken.,They liked the roasted chicken.,4
+They liked the clucking chicken.,They liked the pet chicken.,4
+It was a perceptive class.,It was a boring class.,4
+It was a perceptive class.,It was a stimulating class.,4
+It was a misbehaving class.,It was a boring class.,4
+It was a misbehaving class.,It was a stimulating class.,4
+It was a perceptive class.,It was a misbehaving class.,4
+It was a boring class.,It was a stimulating class.,4
+He cleared the desk.,He cleared the path.,4
+He cleared the desk.,He cleared the road.,3
+He cleared the shelf.,He cleared the path.,4
+He cleared the shelf.,He cleared the road.,4
+He cleared the desk.,He cleared the shelf.,4
+He cleared the path.,He cleared the road.,4
+It was a film clip.,It was a hair clip.,0
+It was a film clip.,It was a metal clip.,1
+It was a video clip.,It was a hair clip.,1
+It was a video clip.,It was a metal clip.,1
+It was a film clip.,It was a video clip.,4
+It was a hair clip.,It was a metal clip.,4
+The dancer clogged.,The pipe clogged.,1
+The dancer clogged.,The sink clogged.,1
+The choreographer clogged.,The pipe clogged.,1
+The choreographer clogged.,The sink clogged.,1
+The dancer clogged.,The choreographer clogged.,4
+The pipe clogged.,The sink clogged.,4
+It was an icy cold.,It was a chest cold.,2
+It was an icy cold.,It was a common cold.,1
+It was a freezing cold.,It was a chest cold.,2
+It was a freezing cold.,It was a common cold.,1
+It was an icy cold.,It was a freezing cold.,4
+It was a chest cold.,It was a common cold.,4
+It was a gossip column.,It was a concrete column.,1
+It was a gossip column.,It was a marble column.,1
+It was a sports column.,It was a concrete column.,1
+It was a sports column.,It was a marble column.,1
+It was a gossip column.,It was a sports column.,4
+It was a concrete column.,It was a marble column.,4
+He liked the investment company.,He liked the pleasant company.,2
+He liked the investment company.,He liked the polite company.,2
+He liked the pharmaceutical company.,He liked the pleasant company.,2
+He liked the pharmaceutical company.,He liked the polite company.,2
+He liked the investment company.,He liked the pharmaceutical company.,4
+He liked the pleasant company.,He liked the polite company.,4
+It was a waffle cone.,It was an orange cone.,2
+It was a waffle cone.,It was a traffic cone.,1
+It was a sugar cone.,It was an orange cone.,2
+It was a sugar cone.,It was a traffic cone.,1
+It was a waffle cone.,It was a sugar cone.,4
+It was an orange cone.,It was a traffic cone.,4
+He made a charitable contribution.,He made a scholarly contribution.,3
+He made a charitable contribution.,He made a well-written contribution.,3
+He made a voluntary contribution.,He made a scholarly contribution.,3
+He made a voluntary contribution.,He made a well-written contribution.,4
+He made a charitable contribution.,He made a voluntary contribution.,4
+He made a scholarly contribution.,He made a well-written contribution.,4
+That was the noble count.,That was the final count.,1
+That was the noble count.,That was the correct count.,2
+That was the vengeful count.,That was the final count.,1
+That was the vengeful count.,That was the correct count.,1
+That was the noble count.,That was the vengeful count.,4
+That was the final count.,That was the correct count.,4
+It was an introductory course.,It was a charted course.,2
+It was an introductory course.,It was a collision course.,2
+It was a pass-fail course.,It was a charted course.,2
+It was a pass-fail course.,It was a collision course.,2
+It was an introductory course.,It was a pass-fail course.,4
+It was a charted course.,It was a collision course.,4
+He crossed a road.,He crossed an enemy.,3
+He crossed a road.,He crossed a friend.,3
+He crossed a room.,He crossed an enemy.,3
+He crossed a room.,He crossed a friend.,3
+He crossed a road.,He crossed a room.,4
+He crossed an enemy.,He crossed a friend.,4
+It was a dinner date.,It was an expiration date.,1
+It was a dinner date.,It was a historical date.,1
+It was a blind date.,It was an expiration date.,1
+It was a blind date.,It was a historical date.,1
+It was a dinner date.,It was a blind date.,4
+It was an expiration date.,It was a historical date.,2
+It was about forty degrees.,It was about associate degrees.,1
+It was about forty degrees.,It was about college degrees.,1
+It was about fifty degrees.,It was about associate degrees.,2
+It was about fifty degrees.,It was about college degrees.,1
+It was about forty degrees.,It was about fifty degrees.,4
+It was about associate degrees.,It was about college degrees.,4
+They liked the floral design.,They liked the product design.,3
+They liked the floral design.,They liked the architectural design.,4
+They liked the geometric design.,They liked the product design.,3.5
+They liked the geometric design.,They liked the architectural design.,4
+They liked the floral design.,They liked the geometric design.,4
+They liked the product design.,They liked the architectural design.,4
+They liked the turkey dinner.,They liked the formal dinner.,4
+They liked the turkey dinner.,They liked the anniversary dinner.,4
+They liked the light dinner.,They liked the formal dinner.,4
+They liked the light dinner.,They liked the anniversary dinner.,4
+They liked the turkey dinner.,They liked the light dinner.,4
+They liked the formal dinner.,They liked the anniversary dinner.,4
+They drained the account.,They drained the pool.,3
+They drained the account.,They drained the pond.,3
+They drained the budget.,They drained the pool.,2
+They drained the budget.,They drained the pond.,2
+They drained the account.,They drained the budget.,4
+They drained the pool.,They drained the pond.,4
+He drew a gun.,He drew a tree.,3
+He drew a gun.,They drew a picture.,2
+He drew a sword.,He drew a tree.,2
+He drew a sword.,They drew a picture.,2
+He drew a gun.,He drew a sword.,4
+He drew a tree.,They drew a picture.,4
+He had a recurring dream.,He had a childhood dream.,4
+He had a recurring dream.,He had a career dream.,3
+He had a bad dream.,He had a childhood dream.,3
+He had a bad dream.,He had a career dream.,3
+He had a recurring dream.,He had a bad dream.,4
+He had a childhood dream.,He had a career dream.,4
+It was a grueling drill.,It was an electric drill.,1
+It was a grueling drill.,It was a battery-powered drill.,1
+It was a challenging drill.,It was an electric drill.,1
+It was a challenging drill.,It was a battery-powered drill.,1
+It was a grueling drill.,It was a challenging drill.,4
+It was an electric drill.,It was a battery-powered drill.,4
+It was a multiple-choice examination.,It was a prostate examination.,3
+It was a multiple-choice examination.,It was a physical examination.,2
+It was a difficult examination.,It was a prostate examination.,3
+It was a difficult examination.,It was a physical examination.,2
+It was a multiple-choice examination.,It was a difficult examination.,4
+It was a prostate examination.,It was a physical examination.,4
+They had an electric fan.,They had a zealous fan.,1
+They had an electric fan.,They had an enthusiastic fan.,2
+They had a ceiling fan.,They had a zealous fan.,1
+They had a ceiling fan.,They had an enthusiastic fan.,1
+They had an electric fan.,They had a ceiling fan.,4
+They had a zealous fan.,They had an enthusiastic fan.,4
+She had a text file.,She had a nail file.,1
+She had a text file.,She had a steel file.,1
+She had a data file.,She had a nail file.,1
+She had a data file.,She had a steel file.,1
+She had a text file.,She had a data file.,4
+She had a nail file.,She had a steel file.,4
+It was an action film.,It was a transparent film.,1
+It was an action film.,It was a plastic film.,1
+It was a censored film.,It was a transparent film.,1
+It was a censored film.,It was a plastic film.,1
+It was an action film.,It was a censored film.,4
+It was a transparent film.,It was a plastic film.,4
+They fixed the radio.,They fixed the date.,3
+They fixed the radio.,They fixed the price.,2
+They fixed the dishwasher.,They fixed the date.,2
+They fixed the dishwasher.,They fixed the price.,2
+They fixed the radio.,They fixed the dishwasher.,4
+They fixed the date.,They fixed the price.,3
+It was a charitable foundation.,It was a wooden foundation.,2
+It was a charitable foundation.,It was a concrete foundation.,1
+It was an educational foundation.,It was a wooden foundation.,3
+It was an educational foundation.,It was a concrete foundation.,1
+It was a charitable foundation.,It was an educational foundation.,4
+It was a wooden foundation.,It was a concrete foundation.,4
+It was a mathematical function.,It was a social function.,1
+It was a mathematical function.,It was a business function.,1
+It was a linear function.,It was a social function.,1
+It was a linear function.,It was a business function.,1
+It was a mathematical function.,It was a linear function.,4
+It was a social function.,It was a business function.,4
+He was on the firm ground.,He was on the camp ground.,3
+He was on the firm ground.,He was on the parade ground.,3
+He was on the frozen ground.,He was on the camp ground.,3
+He was on the frozen ground.,He was on the parade ground.,3
+He was on the firm ground.,He was on the frozen ground.,4
+He was on the camp ground.,He was on the parade ground.,4
+They liked the night guard.,They liked the coast guard.,3
+They liked the night guard.,They liked the national guard.,3
+They liked the security guard.,They liked the coast guard.,3
+They liked the security guard.,They liked the national guard.,3
+They liked the night guard.,They liked the security guard.,4
+They liked the coast guard.,They liked the national guard.,4
+He had an assembly guide.,He had a talkative guide.,3
+He had an assembly guide.,He had a friendly guide.,3
+He had a TV guide.,He had a talkative guide.,2
+He had a TV guide.,He had a friendly guide.,2
+He had an assembly guide.,He had a TV guide.,2
+He had a talkative guide.,He had a friendly guide.,4
+They hailed a cab.,They hailed a friend.,4
+They hailed a cab.,They hailed a guest.,3
+They hailed a taxi.,They hailed a friend.,4
+They hailed a taxi.,They hailed a guest.,4
+They hailed a cab.,They hailed a taxi.,4
+They hailed a friend.,They hailed a guest.,4
+It was a summer home.,It was a funeral home.,2
+It was a summer home.,It was a nursing home.,2
+It was a childhood home.,It was a funeral home.,2
+It was a childhood home.,It was a nursing home.,2
+It was a summer home.,It was a childhood home.,4
+It was a funeral home.,It was a nursing home.,3
+They had natural intelligence.,They had classified intelligence.,2
+They had natural intelligence.,They had military intelligence.,2
+They had innate intelligence.,They had classified intelligence.,2
+They had innate intelligence.,They had military intelligence.,2
+They had natural intelligence.,They had innate intelligence.,4
+They had classified intelligence.,They had military intelligence.,4
+It was a sensitive issue.,It was a weekly issue.,2
+It was a sensitive issue.,It was a special issue.,3
+It was a political issue.,It was a weekly issue.,2
+It was a political issue.,It was a special issue.,3
+It was a sensitive issue.,It was a political issue.,4
+It was a weekly issue.,It was a special issue.,4
+It was a blackberry jam.,It was a traffic jam.,1
+It was a blackberry jam.,It was a paper jam.,1
+It was a peach jam.,It was a traffic jam.,1
+It was a peach jam.,It was a paper jam.,1
+It was a blackberry jam.,It was a peach jam.,4
+It was a traffic jam.,It was a paper jam.,2
+It was a duplicate key.,It was a delete key.,2
+It was a duplicate key.,It was a backspace key.,2
+It was a master key.,It was a delete key.,2
+It was a master key.,It was a backspace key.,2
+It was a duplicate key.,It was a master key.,4
+It was a delete key.,It was a backspace key.,3
+They liked the marinated lamb.,They liked the cute lamb.,3
+They liked the marinated lamb.,They liked the friendly lamb.,2
+They liked the grilled lamb.,They liked the cute lamb.,2
+They liked the grilled lamb.,They liked the friendly lamb.,2
+They liked the marinated lamb.,They liked the grilled lamb.,4
+They liked the cute lamb.,They liked the friendly lamb.,4
+She lapped the milk.,She lapped the runners.,2
+She lapped the milk.,She lapped the competitors.,2
+She lapped the water.,She lapped the runners.,3
+She lapped the water.,She lapped the competitors.,2
+She lapped the milk.,She lapped the water.,4
+She lapped the runners.,She lapped the competitors.,4
+She loaded the gun.,She loaded the truck.,4
+She loaded the gun.,She loaded the van.,3
+She loaded the rifle.,She loaded the truck.,4
+She loaded the rifle.,She loaded the van.,4
+She loaded the gun.,She loaded the rifle.,4
+She loaded the truck.,She loaded the van.,4
+She had curly locks.,She had window locks.,1
+She had curly locks.,She had door locks.,1
+She had brown locks.,She had window locks.,1
+She had brown locks.,She had door locks.,1
+She had curly locks.,She had brown locks.,4
+She had window locks.,She had door locks.,4
+They liked the hot lunch.,They liked the afternoon lunch.,4
+They liked the hot lunch.,They liked the women's lunch.,4
+They liked the sandwich lunch.,They liked the afternoon lunch.,4
+They liked the sandwich lunch.,They liked the women's lunch.,4
+They liked the hot lunch.,They liked the sandwich lunch.,4
+They liked the afternoon lunch.,They liked the women's lunch.,4
+He liked the flea market.,He liked the housing market.,3
+He liked the flea market.,He liked the stock market.,2
+He liked the fish market.,He liked the housing market.,2
+He liked the fish market.,He liked the stock market.,1
+He liked the flea market.,He liked the fish market.,4
+He liked the housing market.,He liked the stock market.,3
+It was a lit match.,It was a soccer match.,0
+It was a lit match.,It was a tennis match.,0
+It was a burning match.,It was a soccer match.,0
+It was a burning match.,It was a tennis match.,0
+It was a lit match.,It was a burning match.,4
+It was a soccer match.,It was a tennis match.,4
+It was cough medicine.,It was orthopedic medicine.,3
+It was cough medicine.,It was veterinary medicine.,3
+It was prescription medicine.,It was orthopedic medicine.,3
+It was prescription medicine.,It was veterinary medicine.,3
+It was cough medicine.,It was prescription medicine.,4
+It was orthopedic medicine.,It was veterinary medicine.,4
+There was a phone message.,There was an urgent message.,4
+There was a phone message.,There was a clear message.,4
+There was a computer message.,There was an urgent message.,4
+There was a computer message.,There was a clear message.,3
+There was a phone message.,There was a computer message.,4
+There was an urgent message.,There was a clear message.,4
+It was a fungal mold.,It was a rubber mold.,2
+It was a fungal mold.,It was a clay mold.,1
+It was a harmful mold.,It was a rubber mold.,1
+It was a harmful mold.,It was a clay mold.,1
+It was a fungal mold.,It was a harmful mold.,4
+It was a rubber mold.,It was a clay mold.,4
+She saw the cancerous mole.,She saw the cute mole.,1
+She saw the cancerous mole.,She saw the fast mole.,1
+She saw the raised mole.,She saw the cute mole.,4
+She saw the raised mole.,She saw the fast mole.,3
+She saw the cancerous mole.,She saw the raised mole.,4
+She saw the cute mole.,She saw the fast mole.,4
+He liked the rhythmic movement.,He liked the feminist movement.,1
+He liked the rhythmic movement.,He liked the civil-rights movement.,1
+He liked the graceful movement.,He liked the feminist movement.,1
+He liked the graceful movement.,He liked the civil-rights movement.,1
+He liked the rhythmic movement.,He liked the graceful movement.,4
+He liked the feminist movement.,He liked the civil-rights movement.,4
+It was a national newspaper.,It was a faded newspaper.,4
+It was a national newspaper.,It was a shredded newspaper.,4
+It was a daily newspaper.,It was a faded newspaper.,4
+It was a daily newspaper.,It was a shredded newspaper.,4
+It was a national newspaper.,It was a daily newspaper.,4
+It was a faded newspaper.,It was a shredded newspaper.,4
+It was a juicy orange.,It was a bright orange.,3
+It was a juicy orange.,It was a reddish orange.,4
+It was a ripe orange.,It was a bright orange.,3
+It was a ripe orange.,It was a reddish orange.,4
+It was a juicy orange.,It was a ripe orange.,4
+It was a bright orange.,It was a reddish orange.,4
+He saw the young page.,He saw the blank page.,1
+He saw the young page.,He saw the ripped page.,2
+He saw the loyal page.,He saw the blank page.,1
+He saw the loyal page.,He saw the ripped page.,1
+He saw the young page.,He saw the loyal page.,4
+He saw the blank page.,He saw the ripped page.,4
+It was a calloused palm.,It was a tropical palm.,0
+It was a calloused palm.,It was a tree palm.,1
+It was a wrinkled palm.,It was a tropical palm.,1
+It was a wrinkled palm.,It was a tree palm.,1
+It was a calloused palm.,It was a wrinkled palm.,4
+It was a tropical palm.,It was a tree palm.,4
+It was a control panel.,It was an advisory panel.,3
+It was a control panel.,It was a consumer panel.,3
+It was an instrument panel.,It was an advisory panel.,2
+It was an instrument panel.,It was a consumer panel.,2
+It was a control panel.,It was an instrument panel.,4
+It was an advisory panel.,It was a consumer panel.,4
+It was a secret passage.,It was a literary passage.,2
+It was a secret passage.,It was a biblical passage.,1
+It was a narrow passage.,It was a literary passage.,2
+It was a narrow passage.,It was a biblical passage.,1
+It was a secret passage.,It was a narrow passage.,4
+It was a literary passage.,It was a biblical passage.,4
+She penned her animals.,She penned her memoirs.,2
+She penned her animals.,She penned her thoughts.,2
+She penned her livestock.,She penned her memoirs.,2
+She penned her livestock.,She penned her thoughts.,2
+She penned her animals.,She penned her livestock.,4
+She penned her memoirs.,She penned her thoughts.,4
+It was a tasty perch.,It was a lofty perch.,2
+It was a tasty perch.,It was a secure perch.,3
+It was a freshwater perch.,It was a lofty perch.,2
+It was a freshwater perch.,It was a secure perch.,3
+It was a tasty perch.,It was a freshwater perch.,4
+It was a lofty perch.,It was a secure perch.,4
+He picked his coffee.,He picked his scab.,3
+He picked his coffee.,He picked his nose.,3
+He picked his dinner.,He picked his scab.,3
+He picked his dinner.,He picked his nose.,4
+He picked his coffee.,He picked his dinner.,4
+He picked his scab.,He picked his nose.,4
+He saw the fast pitcher.,He saw the glass pitcher.,1
+He saw the fast pitcher.,He saw the plastic pitcher.,1
+He saw the right-handed pitcher.,He saw the glass pitcher.,1
+He saw the right-handed pitcher.,He saw the plastic pitcher.,2
+He saw the fast pitcher.,He saw the right-handed pitcher.,4
+He saw the glass pitcher.,He saw the plastic pitcher.,4
+She poached the deer.,She poached the eggs.,2
+She poached the deer.,She poached the vegetables.,3
+She poached the bear.,She poached the eggs.,2
+She poached the bear.,She poached the vegetables.,2
+She poached the deer.,She poached the bear.,4
+She poached the eggs.,She poached the vegetables.,4
+It was a windy port.,It was a delicious port.,1
+It was a windy port.,It was a sweet port.,2
+It was a seaside port.,It was a delicious port.,1
+It was a seaside port.,It was a sweet port.,3
+It was a windy port.,It was a seaside port.,4
+It was a delicious port.,It was a sweet port.,4
+He was in a distinguished position.,He was in a fetal position.,2
+He was in a distinguished position.,He was in a yoga position.,3
+He was in a prominent position.,He was in a fetal position.,3
+He was in a prominent position.,He was in a yoga position.,3
+He was in a distinguished position.,He was in a prominent position.,4
+He was in a fetal position.,He was in a yoga position.,4
+It was a wooden post.,It was a teaching post.,1
+It was a wooden post.,It was a challenging post.,2
+It was a fence post.,It was a teaching post.,1
+It was a fence post.,It was a challenging post.,1
+It was a wooden post.,It was a fence post.,4
+It was a teaching post.,It was a challenging post.,4
+He had the alcoholic punch.,He had the strongest punch.,2
+He had the alcoholic punch.,He had the quickest punch.,2
+He had the fruit punch.,He had the strongest punch.,2
+He had the fruit punch.,He had the quickest punch.,1
+He had the alcoholic punch.,He had the fruit punch.,4
+He had the strongest punch.,He had the quickest punch.,4
+She had a brilliant pupil.,She had a dilated pupil.,2
+She had a brilliant pupil.,She had a cloudy pupil.,3
+She had an interested pupil.,She had a dilated pupil.,1
+She had an interested pupil.,She had a cloudy pupil.,3
+She had a brilliant pupil.,She had an interested pupil.,4
+She had a dilated pupil.,She had a cloudy pupil.,4
+He pushed the cocaine.,He pushed the bed.,4
+He pushed the cocaine.,He pushed the desk.,4
+He pushed the drugs.,He pushed the bed.,4
+He pushed the drugs.,He pushed the desk.,3
+He pushed the cocaine.,He pushed the drugs.,4
+He pushed the bed.,He pushed the desk.,4
+That was a loud racket.,That was a badminton racket.,1
+That was a loud racket.,That was a tennis racket.,1
+That was an annoying racket.,That was a badminton racket.,0
+That was an annoying racket.,That was a tennis racket.,1
+That was a loud racket.,That was an annoying racket.,4
+That was a badminton racket.,That was a tennis racket.,4
+He liked electronic rock.,He liked limestone rock.,2
+He liked electronic rock.,He liked granite rock.,2
+He liked alternative rock.,He liked limestone rock.,3
+He liked alternative rock.,He liked granite rock.,2
+He liked electronic rock.,He liked alternative rock.,4
+He liked limestone rock.,He liked granite rock.,4
+She ran the marathon.,She ran the shop.,1
+She ran the marathon.,She ran the company.,1
+She ran the race.,She ran the shop.,2
+She ran the race.,She ran the company.,2
+She ran the marathon.,She ran the race.,4
+She ran the shop.,She ran the company.,4
+He saw the wise sage.,He saw the fragrant sage.,2
+He saw the wise sage.,He saw the bushy sage.,2
+He saw the renowned sage.,He saw the fragrant sage.,2
+He saw the renowned sage.,He saw the bushy sage.,2
+He saw the wise sage.,He saw the renowned sage.,4
+He saw the fragrant sage.,He saw the bushy sage.,4
+It was a fish scale.,It was a music scale.,1
+It was a fish scale.,It was a major scale.,1
+It was a lizard scale.,It was a music scale.,1
+It was a lizard scale.,It was a major scale.,1
+It was a fish scale.,It was a lizard scale.,4
+It was a music scale.,It was a major scale.,4
+It was a touching scene.,It was a nature scene.,3
+It was a touching scene.,It was a panoramic scene.,3
+It was a well-acted scene.,It was a nature scene.,2
+It was a well-acted scene.,It was a panoramic scene.,2
+It was a touching scene.,It was a well-acted scene.,4
+It was a nature scene.,It was a panoramic scene.,4
+It was a gold seal.,It was a circus seal.,1
+It was a gold seal.,It was a trained seal.,1
+It was a certified seal.,It was a circus seal.,1
+It was a certified seal.,It was a trained seal.,2
+It was a gold seal.,It was a certified seal.,4
+It was a circus seal.,It was a trained seal.,4
+She served a pie.,She served a summons.,2
+She served a pie.,She served a warrant.,2
+She served a lasagna.,She served a summons.,2
+She served a lasagna.,She served a warrant.,2
+She served a pie.,She served a lasagna.,4
+She served a summons.,She served a warrant.,4
+The girl sang.,The bird sang.,4
+The girl sang.,The cricket sang.,3
+The choir sang.,The bird sang.,4
+The choir sang.,The cricket sang.,3
+The girl sang.,The choir sang.,4
+The bird sang.,The cricket sang.,4
+He spilled the drink.,He spilled the news.,3
+He spilled the drink.,He spilled the secret.,3
+He spilled the flour.,He spilled the news.,3
+He spilled the flour.,He spilled the secret.,3
+He spilled the drink.,He spilled the flour.,4
+He spilled the news.,He spilled the secret.,4
+He staked his horse.,He staked his name.,2
+He staked his horse.,He staked his claim.,3
+He staked his tent.,He staked his name.,2
+He staked his tent.,He staked his claim.,3
+He staked his horse.,He staked his tent.,4
+He staked his name.,He staked his claim.,4
+They stalled the truck.,They stalled the horse.,3
+They stalled the truck.,They stalled the pig.,3
+They stalled the bus.,They stalled the horse.,3
+They stalled the bus.,They stalled the pig.,2
+They stalled the truck.,They stalled the bus.,4
+They stalled the horse.,They stalled the pig.,4
+They stayed wet.,They stayed nearby.,3
+They stayed wet.,They stayed overnight.,3
+They stayed cold.,They stayed nearby.,3
+They stayed cold.,They stayed overnight.,2
+They stayed wet.,They stayed cold.,4
+They stayed nearby.,They stayed overnight.,4
+He tapped the keg.,He tapped the stick.,3
+He tapped the keg.,He tapped the drums.,3
+He tapped the beer.,He tapped the stick.,3
+He tapped the beer.,He tapped the drums.,3
+He tapped the keg.,He tapped the beer.,4
+He tapped the stick.,He tapped the drums.,4
+He used the scotch tape.,He used the interview tape.,2
+He used the scotch tape.,He used the video tape.,2
+He used the double-sided tape.,He used the interview tape.,2
+He used the double-sided tape.,He used the video tape.,2
+He used the scotch tape.,He used the double-sided tape.,4
+He used the interview tape.,He used the video tape.,4
+It was a winter term.,It was a legal term.,1
+It was a winter term.,It was a technical term.,2
+It was a fall term.,It was a legal term.,2
+It was a fall term.,It was a technical term.,2
+It was a winter term.,It was a fall term.,4
+It was a legal term.,It was a technical term.,4
+It was a clock tick.,It was a parasitic tick.,0
+It was a clock tick.,It was a diseased tick.,0
+It was an audible tick.,It was a parasitic tick.,1
+It was an audible tick.,It was a diseased tick.,1
+It was a clock tick.,It was an audible tick.,4
+It was a parasitic tick.,It was a diseased tick.,4
+It was a generous tip.,It was a pencil tip.,1
+It was a generous tip.,It was a finger tip.,1
+It was a stingy tip.,It was a pencil tip.,1
+It was a stingy tip.,It was a finger tip.,1
+It was a generous tip.,It was a stingy tip.,4
+It was a pencil tip.,It was a finger tip.,3
+She liked the essay title.,She liked the academic title.,3
+She liked the essay title.,She liked the professional title.,3
+She liked the poem title.,She liked the academic title.,2
+She liked the poem title.,She liked the professional title.,3
+She liked the essay title.,She liked the poem title.,4
+She liked the academic title.,She liked the professional title.,4
+They toasted the bread.,They toasted the host.,3
+They toasted the bread.,They toasted the bride.,3
+They toasted the strudel.,They toasted the host.,4
+They toasted the strudel.,They toasted the bride.,4
+They toasted the bread.,They toasted the strudel.,4
+They toasted the host.,They toasted the bride.,4
+It was a costly toll.,It was a loud toll.,2
+It was a costly toll.,It was a bell toll.,2
+It was a road toll.,It was a loud toll.,3
+It was a road toll.,It was a bell toll.,2
+It was a costly toll.,It was a road toll.,3
+It was a loud toll.,It was a bell toll.,4
+She saw the train tracks.,She saw the moose tracks.,3
+She saw the train tracks.,She saw the snowshoe tracks.,3
+She saw the trolley tracks.,She saw the moose tracks.,3
+She saw the trolley tracks.,She saw the snowshoe tracks.,3
+She saw the train tracks.,She saw the trolley tracks.,4
+She saw the moose tracks.,She saw the snowshoe tracks.,4
+It was five yards.,They were big yards.,2
+It was five yards.,They were cluttered yards.,1
+It was ten yards.,They were big yards.,2
+It was ten yards.,They were cluttered yards.,2
+It was five yards.,It was ten yards.,4
+They were big yards.,They were cluttered yards.,4
