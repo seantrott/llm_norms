@@ -25,6 +25,8 @@ library(lme4)
 library(ggridges)
 library(broom.mixed)
 library(lmerTest)
+library(vegan)
+library(gplots)
 
 ```
 
@@ -461,6 +463,10 @@ summary(mod)
 mod = lm(data = filter(df_gpt, same == TRUE), mean_relatedness ~ gpt4_rating)
 summary(mod)
 
+### Interaction between gpt-4 rating and same sense
+mod_interaction = lm(data = df_gpt, mean_relatedness ~ gpt4_rating * same)
+summary(mod_interaction)
+
 ```
 
 
@@ -778,6 +784,166 @@ df_corr %>%
   labs(x = "", y = "Correlation") +
   theme_minimal()
 ```
+
+## Recreating correlation matrices
+
+```{r}
+### Human correlations
+columns_human = df_merged %>%
+  select(Arousal.M, Valence.M, Dominance.M,
+         Concreteness.M, Imageability.M, Familiarity.M,
+         AoA.M, Size.M, Gender.M) %>%
+  rename_with(~ gsub("\\.M$", "", .x))
+cors_human = cor(columns_human)
+
+### GPT correlations
+columns_gpt = df_merged %>%
+  select(Arousal, Valence, Dominance,
+         Concreteness, Imageability, Familiarity,
+         AoA, Size, Gender)
+cors_gpt = cor(columns_gpt)
+
+### Difference matrix
+diff = cors_gpt - cors_human
+
+```
+
+
+Now correlate these matrices:
+
+```{r}
+set.seed(42)
+result <- mantel(cors_human, cors_gpt, method="spearman", permutations=1000)
+print(result)
+
+```
+
+Compare visualization plots:
+
+```{r glasgow_correlation_matrices}
+
+
+# Define breaks such that colors range between -1 and 1
+breaks <- seq(-1, 1, length.out=101) 
+# Create a color palette
+my_palette <- colorRampPalette(c("lightblue", "white", "lightcoral"))(100)
+heatmap.2(cors_human,
+          breaks=breaks,
+          col=my_palette,
+          main="Human Norms",
+          trace="none",
+          dendrogram="none", # no clustering
+          Rowv=FALSE, 
+          Colv=FALSE,
+          scale="none",
+          key=TRUE,
+          keysize=1.2,
+          symm=TRUE, # symmetric heatmap
+          density.info="none",
+          margins=c(6,6),
+          cexRow=0.9, # Adjust font size of row labels if needed
+          cexCol=0.9, # Adjust font size of column labels if needed
+          cellnote=round(cors_human, 2), # Add correlation values to cells
+          notecol="black", # Color for cell values
+          notecex=0.8) # Font size for cell values
+
+
+heatmap.2(cors_gpt,
+          breaks=breaks,
+          col=my_palette,
+          main="GPT-4 Norms",
+          trace="none",
+          dendrogram="none", # no clustering
+          Rowv=FALSE, 
+          Colv=FALSE,
+          scale="none",
+          key=TRUE,
+          keysize=1.2,
+          symm=TRUE, # symmetric heatmap
+          density.info="none",
+          margins=c(6,6),
+          cexRow=0.9, # Adjust font size of row labels if needed
+          cexCol=0.9, # Adjust font size of column labels if needed
+          cellnote=round(cors_gpt, 2), # Add correlation values to cells
+          notecol="black", # Color for cell values
+          notecex=0.8) # Font size for cell values
+
+heatmap.2(diff,
+          breaks=breaks,
+          col=my_palette,
+          main="Difference Matrix (GPT-4 - Human)",
+          trace="none",
+          dendrogram="none", # no clustering
+          Rowv=FALSE, 
+          Colv=FALSE,
+          scale="none",
+          key=FALSE,
+          keysize=1.2,
+          symm=TRUE, # symmetric heatmap
+          density.info="none",
+          margins=c(6,6),
+          cexRow=0.9, # Adjust font size of row labels if needed
+          cexCol=0.9, # Adjust font size of column labels if needed
+          cellnote=round(diff, 2), # Add correlation values to cells
+          notecol="black", # Color for cell values
+          notecex=0.8) # Font size for cell values
+
+
+
+```
+
+And check which have the same sign:
+
+```{r}
+same_sign <- function(a, b) {
+  return(a * b > 0)
+}
+
+sign_changes = same_sign(cors_human, cors_gpt)
+
+df_signs = data.frame(sign_changes)
+df_signs
+
+
+```
+
+Analyze specific dimensions:
+
+```{r}
+cor.test(df_merged$Arousal, df_merged$Valence)
+cor.test(df_merged$Size.M, df_merged$Dominance.M)
+cor.test(df_merged$Size, df_merged$Dominance)
+
+df_merged %>%
+  ggplot(aes(x = Arousal,
+             y = Valence)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  theme_minimal()
+
+df_merged %>%
+  ggplot(aes(x = Arousal.M,
+             y = Valence.M)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  theme_minimal()
+
+df_merged %>%
+  ggplot(aes(x = Gender,
+             y = Valence)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  theme_minimal()
+
+
+df_merged %>%
+  ggplot(aes(x = Gender.M,
+             y = Valence.M)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = "lm") +
+  theme_minimal()
+```
+
 
 
 # Supplementary Analyses
